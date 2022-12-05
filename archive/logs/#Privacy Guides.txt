@@ -1,0 +1,377 @@
+1.6.2022, 23:16:19 - CapoFantasma97: What do you think is the best third party DNS?
+1.6.2022, 23:16:27 - Tommy: None
+1.6.2022, 23:17:06 - Tommy: They are purely for convenience 
+1.6.2022, 23:17:18 - Tommy: Have no real privacy or security benefits 
+1.6.2022, 23:19:35 - CapoFantasma97: Do you browse the web through Tor all the time?
+1.6.2022, 23:19:41 - CapoFantasma97: It doesn't sound like a fun time
+1.6.2022, 23:24:50 - BigSister: Is it normal for voip calls to be dropped often? I use a vpn so that could be a factor. Im thinking of getting a dumbphone for work calls
+1.6.2022, 23:26:45 - Tommy: <@capofantasma97:matrix.org "Do you browse the web through To..."> No but I use a VPN
+1.6.2022, 23:27:29 - Tommy: It doesnt hide what I am visiting from the provider but make me blend in with other people and prevent ip based tracking
+1.6.2022, 23:27:51 - Tommy: custom DNS doesnt even shift trust from one provider to another, its just adding another provider to trust
+1.6.2022, 23:28:09 - Tommy: then loudly announce that you are bypassing censorship and which exact site ur trying to visit is
+1.6.2022, 23:28:33 - Tommy: it is also useless against any censorship system that does not rely solely on DNS
+1.6.2022, 23:29:58 - BigSister: So on GOS use Automatic for DNS?
+1.6.2022, 23:35:19 - wyndon: I like the new theme of the website
+1.6.2022, 23:37:41 - Tommy: <@finzierkheim:matrix.org "So on GOS use Automatic for DNS?"> Yes use network provided DNS
+1.6.2022, 23:35:22 - wyndon: Especially dark mode
+1.6.2022, 23:35:54 - @idkrn:envs.net: <@tommy:arcticfoxes.net "It doesnt hide what I am visitin..."> ISP or the website provider/host
+1.6.2022, 23:36:23 - Origin: <@wyndon:envs.net "I like the new theme of the webs..."> Same, especially light mode.
+1.6.2022, 23:37:47 - Tommy: if you care enough get a VPN
+1.6.2022, 23:38:15 - Tommy: <@idkrn:envs.net "ISP or the website provider/host"> websites
+1.6.2022, 23:39:08 - @idkrn:envs.net: Ok I was gonna be very confused
+1.6.2022, 23:45:39 - ThinkMoreDifferent: <@jau2o-dk45a3:artemislena.eu "it can only do that in HTTP"> except the government forces people to install a root ca
+1.6.2022, 23:46:19 - Azure changed their profile picture
+1.6.2022, 23:46:28 - @idkrn:envs.net: <@nitrokey:nitro.chat "except the government forces peo..."> How can they force you to?
+1.6.2022, 23:50:12 - ThinkMoreDifferent: By blocking all other https traffic, certs? Sophos firewalls with antivirus protection are able to do this.
+1.6.2022, 23:51:40 - fogstick: <@tommy:arcticfoxes.net "Yes use network provided DNS"> how could you tommy, why would I want to use a telco dns server?
+1.6.2022, 23:52:44 - Tommy: <@fogstick:matrix.org "how could you tommy, why would I..."> so I dont stick out and I dont have another dns provider knowing what I visit
+1.6.2022, 23:52:58 - Tommy: the teleco still knows which site you visit regardless of what dns server you use
+1.6.2022, 23:53:08 - Tommy: if I am not fine with that I fire up my vpn or tor
+1.6.2022, 23:54:59 - fogstick: I think i just use 9.9.9.9 when i'm on LTE, I don't want to use telco dns servers 
+1.6.2022, 23:55:06 - ThinkMoreDifferent: <@fogstick:matrix.org "how could you tommy, why would I..."> ISPs are collecting DNS data and selling customer profiles in some countries.
+1.6.2022, 23:56:38 - fogstick: his point is that regardless of what you do the telco will still see the dns traffic 
+1.6.2022, 23:56:57 - ThinkMoreDifferent: ISPs are forced to perform redirects via manipulated DNS answers in some jurisdictions for LEA and police trojans.
+1.6.2022, 23:57:06 - fogstick: even if I point to another dns server, it still goes through the telco infrastracture and is not encrypted in the first place 
+1.6.2022, 23:58:11 - fogstick: I just personally don't want to use telco dns servers and rather use quad9 or w/e when i'm not on VPN or home network 
+1.6.2022, 23:58:23 - ThinkMoreDifferent: <@fogstick:matrix.org "his point is that regardless of ..."> Depends on what they need to log. If they need to log only requests to their servers using a different server avoids logging. The provider still would be able to see the traffic. For this you could use DoT or DoH DNS.
+1.6.2022, 23:58:45 - Diamond_AaronXG: <@matchboxbananasynergy:matrix.org "I assume Tor Browser is not poss..."> Nope
+2.6.2022, 00:02:15 - mazerfaker: <@nitrokey:nitro.chat "ISPs are forced to perform redir..."> >literally just use HTTPS
+2.6.2022, 00:03:00 - mazerfaker: <@nitrokey:nitro.chat "Depends on what they need to log..."> >ISP looks at the leaked SNI
+
+>bruhmomentopsecfailyougotjebaited.png
+2.6.2022, 00:04:36 - ThinkMoreDifferent: Why are the problems simplified here always?
+2.6.2022, 00:04:51 - mazerfaker: what?
+2.6.2022, 00:05:28 - ThinkMoreDifferent: You should not use your providers DNS if you are able to find a trustworthy non-logging one.
+2.6.2022, 00:05:48 - mazerfaker: your ISP can still log what sites you go to?
+2.6.2022, 00:05:59 - ThinkMoreDifferent: You should use DoT or DoH, DNSSEC.
+2.6.2022, 00:06:09 - mazerfaker: DNSSEC isnt even in your hands to set up
+2.6.2022, 00:06:42 - mazerfaker: afaik your registrar provides that
+2.6.2022, 00:06:53 - mazerfaker: and even then, if there is HTTPS, afaik you dont need DNSSEC
+2.6.2022, 00:07:12 - ThinkMoreDifferent: You should use VPN if you do not trust your ISP and trust the VPN provider more.
+2.6.2022, 00:07:34 - ThinkMoreDifferent: You should use anonymization if you want to be anonymous.
+2.6.2022, 00:07:59 - mazerfaker: <@jau2o-dk45a3:artemislena.eu "your ISP can still log what site..."> (it literally says the whole ass domain in the headers)
+2.6.2022, 00:08:08 - mazerfaker: even if you use DoH/T
+2.6.2022, 00:09:11 - grintea: people not understanding http handshake works
+2.6.2022, 00:09:13 - grintea: average day in main
+2.6.2022, 00:09:34 - ThinkMoreDifferent: Why do you assume this?
+2.6.2022, 00:10:05 - grintea: because if you knew how the client handshake works then you would also know that DoT/DoH is useless until ECH is wider adopted
+2.6.2022, 00:10:44 - grintea: almost nobody uses ECH, so using DoT/DoH is not "hiding" anything from your provider because the name is still in plaintext in your handshake
+2.6.2022, 00:11:11 - mazerfaker: >almost nobody uses ECH
+
++1
+
+You *only* need to provide TLS 1.3 *and* you need to manually enable it
+2.6.2022, 00:12:06 - mazerfaker: and its not even on you, the person connecting the site, to enable ECH
+
+so not only it has to be widely adopted, it has to be *required*
+2.6.2022, 00:12:12 - ThinkMoreDifferent: My point was that problems here are simplified. "just use https" is not a good answer, if you can shift trust to other, more trustworthy, parties, use additional encryption for DNS, addtional validation for DNS, VPN, anonymization.
+2.6.2022, 00:12:27 - mazerfaker: thats the point
+
+DoH/T does not shift trust
+2.6.2022, 00:12:34 - mazerfaker: it literally adds another party you need to trust
+2.6.2022, 00:12:55 - ThinkMoreDifferent: <@grintea:nltrix.net "almost nobody uses ECH, so using..."> Does not mean we can start to hide the DNS requests. Somewhere we need to start.
+2.6.2022, 00:12:57 - mazerfaker: it doesnt hide anything from your ISP, it just adds your 3rd party server you need to trust
+2.6.2022, 00:14:00 - ThinkMoreDifferent: <@jau2o-dk45a3:artemislena.eu "thats the point"> Using a different DNS server does not shift trust?
+2.6.2022, 00:14:11 - mazerfaker: Indeed it does not shift trust
+2.6.2022, 00:14:24 - ThinkMoreDifferent: lol
+2.6.2022, 00:14:59 - mazerfaker: Whats the point of using DoH/T? To hide DNS queries from people who have access to your network
+
+Your ISP can literally see the SNI of a website in the headers
+2.6.2022, 00:15:13 - mazerfaker: you would not do a DNS request to a site you werent gonna go 
+2.6.2022, 00:15:37 - ThinkMoreDifferent: The trust shift is regarding who answers your DNS request.
+2.6.2022, 00:16:05 - mazerfaker: so you are saying that an ISP owned DNS server is not your ISP?
+2.6.2022, 00:17:02 - ThinkMoreDifferent: No. I am saying you should use a non ISP DNS to shift the trust to a more trustworhty non logging party.
+2.6.2022, 00:17:19 - mazerfaker: your DNS server is owned by your ISP
+
+they are the same party
+2.6.2022, 00:17:31 - mazerfaker: they can log your shit in millions of ways
+2.6.2022, 00:17:44 - 3bob: four times I looked at SNI and thought I saw SNL
+2.6.2022, 00:18:41 - ThinkMoreDifferent: <@jau2o-dk45a3:artemislena.eu "your DNS server is owned by your..."> I would not use their DNS server if they would pay me for using it.
+2.6.2022, 00:19:01 - mazerfaker: mate
+
+think
+2.6.2022, 00:19:13 - mazerfaker: think it as if its owned by 1 person
+2.6.2022, 00:19:26 - mazerfaker: that person can see what sites you visit even though you dont use his DNS
+2.6.2022, 00:19:38 - mazerfaker: is there a point in hiding your DNS?
+2.6.2022, 00:20:42 - ThinkMoreDifferent: Yes, e.g. if they need to log requests received by their own servers.
+2.6.2022, 00:20:53 - mazerfaker: I fucking give up
+2.6.2022, 00:21:33 - ThinkMoreDifferent: I am looking at each topic singularily. You do not.
+2.6.2022, 00:21:56 - grintea: wait this isn't techlore main
+2.6.2022, 00:22:02 - grintea: i thought this was a techlore main moment
+2.6.2022, 00:22:29 - Origin: mazerfaker: Is that your TLS Fingerprint?
+2.6.2022, 00:22:50 - mazerfaker: <@nitrokey:nitro.chat "I am looking at each topic singu..."> when you really shouldn't because you ignore literally the elephant in the room.. quite literally the elephant
+2.6.2022, 00:22:56 - mazerfaker: <@origins:yatrix.org "mazerfaker: Is that your TLS Fin..."> my PFP? no
+2.6.2022, 00:23:03 - Origin: jau2o-dk45a3
+2.6.2022, 00:23:19 - mazerfaker: Oh, thats just from keepassxc. Randomly generated cuz idk why
+2.6.2022, 00:23:33 - Origin: Beautiful
+2.6.2022, 00:23:36 - grintea: <@jau2o-dk45a3:artemislena.eu "Oh, thats just from keepassxc. R..."> nice try i know it's the launch codes
+2.6.2022, 00:23:44 - 3bob: Speaking of TLS and fingerprints, Cerberus FTP Server, man.
+2.6.2022, 00:24:15 - mazerfaker: <@grintea:nltrix.net "nice try i know it's the launch ..."> the launch codes are xyzmaster69 lol noob
+2.6.2022, 00:24:26 - Origin: Has anyone scanned mazerfaker's QR code? I haven't
+2.6.2022, 00:25:40 - raydelrosario joined the room
+2.6.2022, 00:26:28 - ThinkMoreDifferent: Why should security-conscious people scan random QR codes from strangers?
+2.6.2022, 00:26:38 - 🏔️hik: What
+2.6.2022, 00:26:49 - 🏔️hik: <@origins:yatrix.org "Has anyone scanned mazerfaker's ..."> I think it's a key
+2.6.2022, 00:27:21 - grintea: <@nitrokey:nitro.chat "Why should security-conscious pe..."> why is this a concern
+2.6.2022, 00:27:39 - mazerfaker: <@hik:kde.org "I think it's a key"> it is, minisign and age
+2.6.2022, 00:27:42 - grintea: do you think someone's going to burn a zero-day sandbox escape on a QR image as a profile picture
+2.6.2022, 00:28:10 - mazerfaker: <@nitrokey:nitro.chat "Why should security-conscious pe..."> there are thousands of qr scanners
+
+which one should I target hmmmm
+2.6.2022, 00:28:58 - flawedworld: <@nitrokey:nitro.chat "Why should security-conscious pe..."> Because they are using GrapheneOS Camera :D
+2.6.2022, 00:29:30 - 🏔️hik: How fucked up as a developer you should be to not sanitize qr inputs 😭
+2.6.2022, 00:29:30 - ThinkMoreDifferent: <@grintea:nltrix.net "do you think someone's going to ..."> It could forward you to a malicious site on some devices.
+2.6.2022, 00:30:05 - grintea: "security-conscious" people aren't going to use QR scanners that have no-prompt link following
+2.6.2022, 00:31:04 - ThinkMoreDifferent: <@flawedworld:matrix.org "Because they are using GrapheneO..."> I found examples where it decoded QR codes not correctly, even on highest error correction rate.
+2.6.2022, 00:32:19 - ThinkMoreDifferent: Having a secure app does not mean I need to do insecure things or I need to rely on it.
+2.6.2022, 00:34:40 - flawedworld: <@nitrokey:nitro.chat "I found examples where it decode..."> did you file a bug report then?
+2.6.2022, 00:36:33 - ThinkMoreDifferent: No, I do not agree with Githubs privacy policy.
+2.6.2022, 00:40:11 - Origin: Boy what the hell boy
+2.6.2022, 00:58:09 - flawedworld: <@nitrokey:nitro.chat "No, I do not agree with Githubs ..."> bruh
+2.6.2022, 01:02:43 - @yellowhathacker:matrix.org joined the room
+2.6.2022, 01:02:50 - @yellowhathacker:matrix.org: Hello
+2.6.2022, 01:02:58 - @yellowhathacker:matrix.org: How to make Pixel 3a secure I installed grapheneos what now
+2.6.2022, 01:03:02 - @yellowhathacker:matrix.org: Whats my advice
+2.6.2022, 01:03:10 - @yellowhathacker:matrix.org: Trying to escape authorities gchq gov
+2.6.2022, 01:03:35 - @yellowhathacker:matrix.org: Im crazy
+2.6.2022, 01:04:06 - @yellowhathacker:matrix.org: Whats my advice
+2.6.2022, 01:04:34 - @yellowhathacker:matrix.org: flawedworld: namazso: 
+2.6.2022, 01:04:55 - @yellowhathacker:matrix.org: dngray (backup): Scruffy [Mjolnir]: 
+2.6.2022, 01:05:11 - @yellowhathacker:matrix.org: Im crazy 
+
+Whats my advice
+2.6.2022, 01:05:57 - @yellowhathacker:matrix.org: madaidan.: 
+2.6.2022, 01:06:01 - fogstick: 🏔️hik: 
+2.6.2022, 01:06:05 - @yellowhathacker:matrix.org: Whats your advice
+2.6.2022, 01:06:07 - @yellowhathacker:matrix.org: How to make Pixel 3a secure I installed grapheneos what now
+2.6.2022, 01:06:14 - @yellowhathacker:matrix.org: Is Braxman trusted
+2.6.2022, 01:06:26 - namazso: is going to a psychologist a valid advice?
+2.6.2022, 01:06:38 - @yellowhathacker:matrix.org: <@namazso:namazso.eu "is going to a psychologist a val..."> Whats a psychologist
+2.6.2022, 01:06:47 - manonthemoon: Tommy: 
+2.6.2022, 01:06:50 - @yellowhathacker:matrix.org: Is it good i go psychologist is it good
+2.6.2022, 01:07:00 - namazso: yeah that'd be great
+2.6.2022, 01:07:01 - @yellowhathacker:matrix.org: Is psychologist trusted
+2.6.2022, 01:07:08 - @yellowhathacker:matrix.org: <@namazso:namazso.eu "yeah that'd be great"> Really
+2.6.2022, 01:07:10 - Scruffy [Mjolnir] hat @yellowhathacker:matrix.org verbannt: superalex
+2.6.2022, 01:07:44 - cool-unique-verdict: I see he admits he's a hacker now
+2.6.2022, 01:09:04 - Origin: What's a yellow hat hacker???
+2.6.2022, 01:12:25 - @chrissmith:cuteworld.space joined the room
+2.6.2022, 01:12:44 - cool-unique-verdict: <@origins:yatrix.org "What's a yellow hat hacker???"> A racist joke maybe?
+2.6.2022, 01:13:06 - Tommy: How
+2.6.2022, 01:13:55 - @idkrn:envs.net: <@nitrokey:nitro.chat "Having a secure app does not mea..."> It's just there for if you need one lol
+2.6.2022, 01:14:17 - cool-unique-verdict: <@tommy:arcticfoxes.net "How"> Here in the west, yellow colored skin is consider derogatory towards Asians
+2.6.2022, 01:15:14 - @idkrn:envs.net: Skin is a hat?
+2.6.2022, 01:15:29 - Tommy: Well first of all that is a hat joke not skin joke
+2.6.2022, 01:15:43 - Tommy: Secondly we literally call yourself yellow people in my language 
+2.6.2022, 01:16:15 - Tommy: Sooo
+2.6.2022, 01:16:17 - @chrissmith:cuteworld.space: Nachricht von Scruffy [Mjolnir] gelöscht
+2.6.2022, 01:16:19 - @chrissmith:cuteworld.space: Nachricht von Scruffy [Mjolnir] gelöscht
+2.6.2022, 01:16:21 - @chrissmith:cuteworld.space: Nachricht von Scruffy [Mjolnir] gelöscht
+2.6.2022, 01:16:53 - Tommy: Mf
+2.6.2022, 01:17:21 - Scruffy [Mjolnir] hat @chrissmith:cuteworld.space verbannt: superalex
+2.6.2022, 01:18:11 - Tommy: <@cool-unique-verdict:kde.org "Here in the west, yellow colored..."> Tho yeah I know there's some racist terms with that
+2.6.2022, 01:18:21 - Tommy: Don't see how that's applicable to this case tho
+2.6.2022, 01:18:46 - cool-unique-verdict: Maybe I was over thinking it. 
+2.6.2022, 01:18:52 - sven_fornes joined the room
+2.6.2022, 01:19:30 - @idkrn:envs.net: cuteworld.space wtf lol
+2.6.2022, 01:20:21 - 3bob: A yellow hat hacker is clearly one who learned hacking from Curious George books
+2.6.2022, 01:26:56 - @staceydavi:midov.pl joined the room
+2.6.2022, 01:27:10 - @staceydavi:midov.pl: Nachricht von Scruffy [Mjolnir] gelöscht
+2.6.2022, 01:28:15 - Scruffy [Mjolnir] hat @staceydavi:midov.pl verbannt: <no reason supplied>
+2.6.2022, 01:34:13 - @anonypla_revived:matrix.org joined the room
+2.6.2022, 01:35:13 - Tommy: anonypla_revived: who are you now
+2.6.2022, 01:35:27 - namazso: lets be real, its probably superalex
+2.6.2022, 01:35:44 - d4rklynk (d4rkmode enjoyer): Who is superalex ?
+2.6.2022, 01:35:49 - wyndon: big A like alex
+2.6.2022, 01:35:50 - d4rklynk (d4rkmode enjoyer): Seems a legend
+2.6.2022, 01:37:07 - @anonypla_revived:matrix.org: I am Lena's mother and I found this.
+2.6.2022, 01:37:15 - namazso: yeah right
+2.6.2022, 01:37:20 - d4rklynk (d4rkmode enjoyer): Wat
+2.6.2022, 01:37:28 - wyndon: um
+2.6.2022, 01:37:27 - mazerfaker: lol
+2.6.2022, 01:38:20 - Tommy: I must say I am skeptical 
+2.6.2022, 01:38:47 - @idkrn:envs.net: <@anonypla_revived:matrix.org "I am Lena's mother and I found t..."> Why is your name "revived" then
+2.6.2022, 01:38:51 - @anonypla_revived:matrix.org: I apologize for this, I am still learning some stuff
+2.6.2022, 01:39:10 - akc3n: <@namazso:namazso.eu "lets be real, its probably super..."> It is
+2.6.2022, 01:39:33 - @idkrn:envs.net: Damn how'd you already know
+2.6.2022, 01:39:36 - @idkrn:envs.net: Lol
+2.6.2022, 01:39:40 - d4rklynk (d4rkmode enjoyer): SuperAlex is just a guy with an Iphone 11 right ?
+2.6.2022, 01:39:53 - @anonypla_revived:matrix.org: Why...
+2.6.2022, 01:40:23 - @anonypla_revived:matrix.org: She fucking died in surgery, I can't hold it anymore!
+2.6.2022, 01:40:47 - akc3n: <@akc3n:grapheneos.org "It is"> Maybe not
+2.6.2022, 01:41:09 - d4rklynk (d4rkmode enjoyer): I'm confused right now
+2.6.2022, 01:41:12 - akc3n: anonypla_revived: sorry I'll unban you from the GrapheneOS rooms
+2.6.2022, 01:42:01 - mazerfaker: your "daughter" didnt like graphene os rooms tho 🤔
+2.6.2022, 01:42:06 - cool-unique-verdict: Message deleted
+2.6.2022, 01:42:33 - d4rklynk (d4rkmode enjoyer): Never heard of that
+2.6.2022, 01:42:53 - mazerfaker: good for you lol
+2.6.2022, 01:43:01 - d4rklynk (d4rkmode enjoyer): Why ?
+2.6.2022, 01:43:11 - @anonypla_revived:matrix.org: <@jau2o-dk45a3:artemislena.eu "your daughter didnt like graphen..."> Isn't that the secure operating system? 🤔
+2.6.2022, 01:43:28 - mazerfaker: lmao
+2.6.2022, 01:44:35 - @anonypla_revived:matrix.org: It is rough here right now, I will see about this tomorrow
+2.6.2022, 01:44:45 - d4rklynk (d4rkmode enjoyer): No GrapheneOS is a special pencil
+2.6.2022, 01:44:55 - d4rklynk (d4rkmode enjoyer): A secure pen
+2.6.2022, 01:45:03 - BringMeWoodAndOil!: This is grotesque.
+2.6.2022, 01:45:23 - akc3n: <@akc3n:grapheneos.org "anonypla_revived: sorry I'll unb..."> On second thought, from what I just learnt about what you've been doing in spite...
+2.6.2022, 01:45:56 - @anonypla_revived:matrix.org: Oh, see you tomorrow, privacy community 
+2.6.2022, 01:46:11 - grintea: if this isn't a third-party troll to shitpost even more, then this is the most incredible larp i've ever seen
+2.6.2022, 01:47:24 - Apple Cult Recruiter: I’m missing the lore 
+2.6.2022, 01:47:39 - Apple Cult Recruiter: Someone ping me next time
+2.6.2022, 01:48:16 - Origin: What? This is a troll, right
+2.6.2022, 01:48:37 - Tommy: Let's just put it this way
+2.6.2022, 01:48:52 - Tommy: Let's try to be nice in the 1% chance that its real
+2.6.2022, 01:49:06 - Tommy: But yes I am skeptical
+2.6.2022, 01:49:10 - mazerfaker: >implies the story behind it is real as well
+2.6.2022, 01:49:24 - 0xbad1dea joined the room
+2.6.2022, 01:49:26 - BringMeWoodAndOil!: Yeah this is just not ok.
+2.6.2022, 01:49:59 - Origin: Uhhh
+2.6.2022, 01:50:01 - mazerfaker: dont believe shit you read online
+2.6.2022, 01:50:22 - mazerfaker: saves you a few brain cells from all the larp overload 
+2.6.2022, 01:50:52 - Origin: 0xbad1dea: why did you join this?
+
+Also, what about the previous messages from anonypla_revived
+2.6.2022, 01:51:27 - 0xbad1dea: <@origins:yatrix.org "0xbad1dea: why did you join this..."> Is it common practice to question why people join channels?
+2.6.2022, 01:51:39 - Tommy: Guys
+2.6.2022, 01:51:39 - Origin: No
+2.6.2022, 01:51:40 - BringMeWoodAndOil!: I dont believe it. I think it takes the lowest kind of person to pretend to be a grieving mother for the sake of "trolling".
+2.6.2022, 01:51:41 - Tommy: Chip lout
+2.6.2022, 01:51:45 - Tommy: Chill out
+2.6.2022, 01:51:49 - Tommy: Let's just chill
+2.6.2022, 01:51:51 - Tommy: Please
+2.6.2022, 01:52:04 - madaidan.: <@tommy:arcticfoxes.net "Let's try to be nice in the 1% c..."> no
+2.6.2022, 01:52:23 - mazerfaker: <@bringmewoodandoil:matrix.org "I dont believe it. I think it ta..."> Do you know the story behind even?
+2.6.2022, 01:52:47 - BringMeWoodAndOil!: <@jau2o-dk45a3:artemislena.eu "Do you know the story behind eve..."> I was sent the very very long story today, yes.
+2.6.2022, 01:53:19 - mazerfaker: anything you hear after the fact is 99% gonna be incorrect
+2.6.2022, 01:53:27 - mazerfaker: 
+you need to *witness* this shit
+2.6.2022, 01:53:33 - @startscript:matrix.org left the room
+2.6.2022, 01:54:11 - BringMeWoodAndOil!: Thats fine. Someone pretending to be a mother who has lost their child is a step too far.
+2.6.2022, 01:54:18 - Origin: <@0xbad1dea:warmitup.chat "Is it common practice to questio..."> No, but why did you randomly join after anonypla_revived ?
+2.6.2022, 01:54:30 - madaidan. hat ein Bild gesendet. (Medien ausgelassen)
+2.6.2022, 01:54:37 - mazerfaker: <@origins:yatrix.org "No, but why did you randomly joi..."> dont wory, hes a good fren
+2.6.2022, 01:54:58 - Origin: He's an admin in the Anonymity room
+2.6.2022, 01:55:09 - mazerfaker: No, not really
+2.6.2022, 01:55:21 - Origin: <@madaidan.:matrix.org "sent an image."> Who is that?
+2.6.2022, 01:55:22 - mazerfaker: I used to be a mod there. We left together
+
+unless??
+2.6.2022, 01:55:34 - BringMeWoodAndOil!: <@origins:yatrix.org "Who is that?"> Its a classic meme
+2.6.2022, 01:55:35 - grintea: <@madaidan.:matrix.org "sent an image."> damn that's a vintage meme
+2.6.2022, 01:55:48 - 0xbad1dea: <@origins:yatrix.org "No, but why did you randomly joi..."> Thought this might be a relevant channel to join. Since I'm into information, data, and digital security and privacy.
+2.6.2022, 01:55:49 - madaidan.: <@origins:yatrix.org "Who is that?"> ronnies dad
+2.6.2022, 01:55:51 - BringMeWoodAndOil!: From thr Before Times
+2.6.2022, 01:56:51 - Origin: Alright, so you don't know about the person thats "lenas mother"
+2.6.2022, 01:56:57 - 0xbad1dea: <@jau2o-dk45a3:artemislena.eu "I used to be a mod there. We lef..."> Nope, I have not gone back.
+2.6.2022, 01:57:19 - 0xbad1dea: <@origins:yatrix.org "Alright, so you don't know about..."> I do not know this person, no
+2.6.2022, 01:57:50 - mazerfaker: <@origins:yatrix.org "Alright, so you don't know about..."> >new character added to the storyline
+2.6.2022, 01:58:01 - mazerfaker: also hella offtopic I just realized
+2.6.2022, 01:58:03 - 🏔️hik: Please keep chat ontopic 🤓🤓
+2.6.2022, 01:59:12 - Tommy: <@0xbad1dea:warmitup.chat "Nope, I have not gone back."> Sorry, we got some trolls spamming us
+2.6.2022, 01:59:18 - madaidan.: <@hik:kde.org "Please keep chat ontopic 🤓🤓"> 🤓
+2.6.2022, 01:59:24 - Tommy: Then the anonypla account joined and claimed to be her mom
+2.6.2022, 01:59:30 - Tommy: So everyone ison edge
+2.6.2022, 01:59:32 - Origin: 🤓 Why do I love encryption?
+2.6.2022, 02:00:19 - mazerfaker: 🤓 hides your messages from bnd, cia, fbi, nsa, usb, ypg, png, jpg, dohs, doj, and so on
+2.6.2022, 02:00:35 - mazerfaker: almost forgot dns
+2.6.2022, 02:00:36 - 0xbad1dea: <@tommy:arcticfoxes.net "Sorry, we got some trolls spammi..."> Bummer, seems to be common place across the matrix communities =/
+2.6.2022, 02:01:19 - Jonah: <@tommy:arcticfoxes.net "Then the anonypla account joined..."> Someone told me we need a wiki or something to keep track of this anonypla lore timeline 😆
+2.6.2022, 02:01:38 - grintea: <@jonah:aragon.sh "Someone told me we need a wiki o..."> unironically need a film-length documentary
+2.6.2022, 02:01:56 - Origin: There basically was a wiki for that from my friend, it might come back to the public
+2.6.2022, 02:04:10 - Origin: 8 hours important, bye guys
+2.6.2022, 02:08:54 - Scruffy [Mjolnir] hat @anonypla_revived:matrix.org verbannt: <no reason supplied>
+2.6.2022, 02:39:33 - neopink changed their profile picture
+2.6.2022, 03:03:37 - pato hat den Nicknamen zu pato_logic geändert
+2.6.2022, 03:53:56 - dngray hat das Berechtigungslevel von @austin:tchncs.de von Standard zu Moderator geändert.
+2.6.2022, 03:54:06 - dngray hat das Berechtigungslevel von @namazso:namazso.eu von Standard zu Moderator geändert.
+2.6.2022, 04:13:24 - #1 Onion Seller: <@namazso:namazso.eu "guess i should campaign next for..."> 2. Firefox
+2.6.2022, 04:14:57 - sentientsoap: Is there a good way to listen to music in a privacy friendly manner?
+2.6.2022, 04:15:50 - Tommy: navidrome
+2.6.2022, 04:15:56 - Tommy: 😎
+2.6.2022, 04:16:24 - 西北风很好喝: inb4 the pain of managing your own music
+2.6.2022, 04:16:29 - #1 Onion Seller: <@sentientsoap:monero.social "Is there a good way to listen to..."> yes it's called riding the high seas
+2.6.2022, 04:16:42 - 西北风很好喝: trust me, unless you have time to burn for eternity, don't.
+2.6.2022, 04:17:01 - namazso: i wonder if Torrentv2 will make it easy and accessible
+2.6.2022, 04:17:57 - #1 Onion Seller: it's the same for finding privacy practices
+2.6.2022, 04:18:14 - Tommy: Message deleted
+2.6.2022, 04:18:18 - Tommy: Message deleted
+2.6.2022, 04:18:32 - sentientsoap: <@tommy:arcticfoxes.net "navidrome"> What about a replacement for Spotify music discovery?
+2.6.2022, 04:18:38 - 西北风很好喝: <@thevigilante:arcticfoxes.net "it's the same for finding privac..."> not really lmao
+2.6.2022, 04:18:49 - #1 Onion Seller: <@sentientsoap:monero.social "What about a replacement for Spo..."> lastfm
+2.6.2022, 04:18:50 - Tommy: <@sentientsoap:monero.social "What about a replacement for Spo..."> i'd just use some random youtube client
+2.6.2022, 04:18:58 - Tommy: ttheres blackhole player 
+2.6.2022, 04:19:02 - Tommy: butt its a bit ehhh
+2.6.2022, 04:19:04 - 西北风很好喝: you at least gain something from learning, not from tagging and finding the best torrents lmao 
+2.6.2022, 04:19:12 - Apple Cult Recruiter: <@sentientsoap:monero.social "Is there a good way to listen to..."> Download mp3 and play offline
+2.6.2022, 04:19:31 - #1 Onion Seller: ew who the f listens to mp3 when flac exists
+2.6.2022, 04:19:47 - Apple Cult Recruiter: There’s literal no way you can tell the difference 
+2.6.2022, 04:19:49 - sentientsoap: <@mfwmyfacewhen:matrix.org "Download mp3 and play offline"> I've been doing this but find it difficult to find new songs this way
+2.6.2022, 04:20:20 - #1 Onion Seller: <@mfwmyfacewhen:matrix.org "There’s literal no way you can t..."> depends on your hardwares
+2.6.2022, 04:20:26 - Apple Cult Recruiter: Yeah I guess you can check out bandcamp they let you download stuff without an account 
+2.6.2022, 04:20:44 - Apple Cult Recruiter: And they have like “similar to this” or something
+2.6.2022, 04:21:38 - #1 Onion Seller: i thought we're schizos who don't even listen to music
+2.6.2022, 04:22:14 - namazso: im sorry but i only listen to Among Us Trap Remix Bass Boosted Leonz [10 HOURS]
+2.6.2022, 04:23:07 - #1 Onion Seller: the embodiment of a schizo
+2.6.2022, 04:27:13 - Apple Cult Recruiter: Wtf is music
+2.6.2022, 04:27:25 - Tommy: smh
+2.6.2022, 04:27:31 - Tommy: industialized society\
+2.6.2022, 04:27:33 - Tommy: smh
+2.6.2022, 04:27:48 - Tommy: <@sentientsoap:monero.social "I've been doing this but find it..."> just use freetube/newpipe
+2.6.2022, 04:27:53 - Tommy: and play yt music
+2.6.2022, 04:27:59 - duck: <@namazso:namazso.eu "im sorry but i only listen to Am..."> Based
+2.6.2022, 04:28:01 - Apple Cult Recruiter: Music and it’s consequences have been a disaster for privacy guides
+2.6.2022, 04:29:41 - Tommy: https://open.spotify.com/album/7Dq3xkHBBtViecXbbXxZ4q?si=1jTxo8a_TkKH3Lr8MB4xEA
+2.6.2022, 04:29:43 - Tommy: so good
+2.6.2022, 04:30:02 - pato_logic hat den Nicknamen zu YourNick geändert
+2.6.2022, 04:30:17 - YourNick hat den Nicknamen zu pato_logic geändert
+2.6.2022, 04:41:25 - Apple Cult Recruiter: No spoofy account
+2.6.2022, 04:42:15 - Tommy: <@mfwmyfacewhen:matrix.org "No spoofy account"> 0pesant
+2.6.2022, 04:42:42 - Apple Cult Recruiter: Sorry I don’t speak Italian 
+2.6.2022, 04:43:10 - Tommy: peasant
+2.6.2022, 04:43:27 - namazso: <@mfwmyfacewhen:matrix.org "No spoofy account">  you can just search for it on yt
+2.6.2022, 04:43:27 - namazso: https://www.youtube.com/watch?v=ze0rYjiWO3w
+2.6.2022, 04:43:42 - namazso: also if we're at sharing music: https://www.youtube.com/watch?v=_7AAml9gHXU
+2.6.2022, 04:44:02 - pato_logic hat den Nicknamen zu p geändert
+2.6.2022, 04:44:17 - p hat den Nicknamen zu pato_logic geändert
+2.6.2022, 04:44:24 - namazso: also we're in on-topic. whoops.
+2.6.2022, 04:44:47 - Tommy: <@namazso:namazso.eu "https://www.youtube.com/watch?v=..."> I was more sharing the album
+2.6.2022, 04:44:50 - Tommy: not the song
+2.6.2022, 04:44:54 - namazso: oh.
+2.6.2022, 04:46:24 - noatsecure: <@namazso:namazso.eu "also we're in on-topic. whoops."> I think a 3 month ban is in order. 
+2.6.2022, 04:46:53 - namazso: does the "but he started it" work?
+2.6.2022, 04:47:43 - noatsecure: <@namazso:namazso.eu "does the "but he started it" wor..."> Yeah it does. Can an admin ban Tommy for 3 months? We can do 1 month with community service if he behaves. 
+2.6.2022, 04:48:18 - Tommy: mf
+2.6.2022, 04:48:25 - Tommy: yes man turning against me
+2.6.2022, 04:48:34 - noatsecure: <@tommy:arcticfoxes.net "yes man turning against me"> Yes 😎
+2.6.2022, 04:48:51 - Tommy: this is why I need to be a dictator
+2.6.2022, 04:53:03 - #1 Onion Seller: Braxman 2.0?
+2.6.2022, 05:23:53 - duck: <@tommy:arcticfoxes.net "https://open.spotify.com/album/7..."> “Da Buzz”
+2.6.2022, 05:24:12 - Tommy: <@duck.:matrix.org "“Da Buzz”"> ja?
+2.6.2022, 05:28:28 - ryan97 joined the room
+2.6.2022, 05:47:21 - Jonah: <@noatsecure:tchncs.de "Yeah it does. Can an admin ban T..."> ok
+2.6.2022, 05:47:42 - Tommy: no
+2.6.2022, 05:52:45 - grintea: <@jonah:aragon.sh "ok"> epic
+2.6.2022, 05:54:07 - Tommy: I should be the dictator
+2.6.2022, 06:35:02 - @idkrn:envs.net: <@mfwmyfacewhen:matrix.org "There’s literal no way you can t..."> Depends on headphones
+2.6.2022, 06:36:37 - @idkrn:envs.net: <@samsepi0l_:matrix.org "No GrapheneOS is a special penci..."> Not too far off tbh
+2.6.2022, 06:43:28 - grintea: <@idkrn:envs.net "Depends on headphones"> average audiophile cope
+2.6.2022, 06:54:51 - 1ll173r47 joined the room
+2.6.2022, 08:24:56 - @idkrn:envs.net: <@grintea:nltrix.net "average audiophile cope"> I didn't even mention amps or DACs
+2.6.2022, 08:37:45 - gaiden left the room
+2.6.2022, 09:24:56 - specialactivitiesgroup joined the room
+2.6.2022, 09:40:32 - Peter Parker :( (unofficial Microsoft Corporation certified help desk technician and IT specialist in Sata Clara, California. USA (37.354107, -121.955238) // May 2017 – Today: 5 years and 2 months) - contact me directly to send Direct Message to 127.0.0.1 joined the room
+2.6.2022, 09:46:23 - Peter Parker :( (unofficial Microsoft Corporation certified help desk technician and IT specialist in Sata Clara, California. USA (37.354107, -121.955238) // May 2017 – Today: 5 years and 2 months) - contact me directly to send Direct Message to 127.0.0.1: <@origins:yatrix.org "There basically was a wiki for t..."> which one?
+2.6.2022, 09:47:16 - Origin: I will not tell anyone.
+2.6.2022, 09:47:27 - Peter Parker :( (unofficial Microsoft Corporation certified help desk technician and IT specialist in Sata Clara, California. USA (37.354107, -121.955238) // May 2017 – Today: 5 years and 2 months) - contact me directly to send Direct Message to 127.0.0.1: I see
+2.6.2022, 09:47:43 - Peter Parker :( (unofficial Microsoft Corporation certified help desk technician and IT specialist in Sata Clara, California. USA (37.354107, -121.955238) // May 2017 – Today: 5 years and 2 months) - contact me directly to send Direct Message to 127.0.0.1: Prob will ask them
+2.6.2022, 09:47:49 - Origin: Yes please
+2.6.2022, 09:49:06 - mazerfaker: <@origins:yatrix.org "I will not tell anyone."> is their name separated by an underscore, by any chance?
+2.6.2022, 09:49:16 - Origin: I don't know
+2.6.2022, 09:49:31 - Origin: I invoke the 5th
+2.6.2022, 09:50:32 - mazerfaker: cop1: damnit, he invoked the fifth
+cop2: shit, what we gon do?
+cop1: I dunno. Just beat him 
+2.6.2022, 09:50:43 - Origin: Yes
+2.6.2022, 09:51:12 - Origin: I invoke the 100th
+2.6.2022, 09:51:57 - Origin: Can facial recignition recognize monkey faces?
+2.6.2022, 09:52:12 - Origin: If yes, then I'm identified
+2.6.2022, 09:52:13 - mazerfaker: well it can recognize its a monkey

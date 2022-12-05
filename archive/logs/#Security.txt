@@ -1,0 +1,1568 @@
+4.10.2021, 19:35:14 - @anonypla:tchncs.de joined the room
+4.10.2021, 19:35:14 - @anonypla:tchncs.de änderte den Gastzugriff auf ''
+4.10.2021, 19:35:14 - @anonypla:tchncs.de hat den zukünftigen Chatverlauf für alle Raummitglieder sichtbar gemacht.
+4.10.2021, 19:35:14 - @anonypla:tchncs.de hat den Raum für jeden, der den Link kennt, öffentlich gemacht.
+4.10.2021, 19:35:14 - @anonypla:tchncs.de hat den Raumnamen entfernt.
+4.10.2021, 19:35:15 - @anonypla:tchncs.de hat das Thema geändert in "".
+4.10.2021, 19:35:16 - @anonypla:tchncs.de hat die Adresse für diesen Raum geändert.
+4.10.2021, 19:38:49 - @anonypla:matrix.org joined the room
+4.10.2021, 19:39:23 - @anonypla:tchncs.de hat das Berechtigungslevel von @anonypla:matrix.org von Standard zu Administration geändert.
+4.10.2021, 19:39:37 - @anonypla:matrix.org hat die Adresse für diesen Raum geändert.
+4.10.2021, 19:41:34 - @anonypla:tchncs.de left the room
+4.10.2021, 19:42:09 - @anonypla:tchncs.de joined the room
+4.10.2021, 19:54:17 - @anonypla:tchncs.de hat das Raumbild geändert.
+4.10.2021, 20:07:27 - @nautman:matrix.org joined the room
+4.10.2021, 20:45:07 - @anonypla:tchncs.de hat das Berechtigungslevel von @nautman:matrix.org von Standard zu Moderator geändert.
+4.10.2021, 20:52:59 - @anonypla:tchncs.de hat das Thema geändert in "".
+4.10.2021, 20:57:37 - @anonypla:tchncs.de hat das Thema geändert in "".
+4.10.2021, 22:46:32 - @kelszo:matrix.org joined the room
+5.10.2021, 00:54:40 - @anony_bot:matrix.org joined the room
+5.10.2021, 00:55:15 - @anonypla:tchncs.de hat das Berechtigungslevel von @anony_bot:matrix.org von Standard zu Selbstdefiniert (75) geändert.
+5.10.2021, 01:01:05 - @anony_bot:matrix.org hat die Server-ACLs für diesen Raum gesetzt. 🎉 Alle Server sind von der Teilnahme ausgeschlossen! Dieser Raum kann nicht mehr genutzt werden.
+5.10.2021, 01:46:56 - @anonypla:tchncs.de hat den Raumnamen geändert zu Security.
+5.10.2021, 01:47:53 - @anonypla:tchncs.de hat das Thema geändert in "Welcome to #security:matrix.org .Everything about (mostly online) security and how to stay secure. Keep it legal, in English, and be respectful. If you want to talk about privacy or anonymity, head towards #privacy:matrix.org or #anonymity:matrix.org.".
+5.10.2021, 01:48:16 - @anonypla:tchncs.de hat das Raumbild geändert.
+5.10.2021, 01:51:13 - @anonypla:tchncs.de hat das Berechtigungslevel von @anonypla:envs.net von Standard zu Administration geändert.
+5.10.2021, 01:52:53 - fractal joined the room
+5.10.2021, 02:15:54 - @anonypla:tchncs.de hat das Berechtigungslevel von @fractal:matrix.org von Standard zu Moderator geändert.
+5.10.2021, 07:44:09 - SamLeh joined the room
+5.10.2021, 08:59:59 - minji joined the room
+5.10.2021, 09:18:37 - @anonypla:tchncs.de hat das Berechtigungslevel von @sl:envs.net von Standard zu Moderator geändert.
+5.10.2021, 09:18:51 - @anonypla:tchncs.de hat das Berechtigungslevel von @minji:monero.social von Standard zu Moderator geändert.
+5.10.2021, 09:27:53 - @anonypla:tchncs.de hat mazerfaker eingeladen
+5.10.2021, 09:27:55 - @anonypla:tchncs.de hat x_y (old) ~> @y:tchncs.de (new) (@x_y:matrix.org) eingeladen
+5.10.2021, 09:27:56 - @anonypla:tchncs.de hat bob99 eingeladen
+5.10.2021, 09:27:57 - @anonypla:tchncs.de hat deejayyhu eingeladen
+5.10.2021, 09:27:58 - @anonypla:tchncs.de hat michelle eingeladen
+5.10.2021, 09:28:41 - @anonypla:tchncs.de hat DriftNotSkid (babba27) eingeladen
+5.10.2021, 09:28:42 - @anonypla:tchncs.de hat Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla) eingeladen
+5.10.2021, 09:32:07 - GR73NHa97jL98HjI joined the room
+5.10.2021, 09:32:08 - cyphix joined the room
+5.10.2021, 09:34:28 - 54m53pi01 joined the room
+5.10.2021, 09:43:38 - deejayyhu joined the room
+5.10.2021, 09:44:09 - @anonypla:tchncs.de left the room
+5.10.2021, 09:44:54 - @anonypla:tchncs.de joined the room
+5.10.2021, 09:45:23 - acatnamedmittens joined the room
+5.10.2021, 09:52:37 - @pxr:matrix.org joined the room
+5.10.2021, 11:02:55 - paciento 🏳️‍🌈 joined the room
+5.10.2021, 12:14:15 - nopply joined the room
+5.10.2021, 13:50:45 - 0xbad1dea joined the room
+5.10.2021, 14:18:04 - @anony_bot:matrix.org left the room
+5.10.2021, 14:47:41 - @anonypla:matrix.org left the room
+5.10.2021, 14:48:12 - @anonypla:matrix.org joined the room
+5.10.2021, 17:04:33 - x_y (old) ~> @y:tchncs.de (new) (@x_y:matrix.org) joined the room
+5.10.2021, 17:15:23 - @anonypla:tchncs.de hat das Berechtigungslevel von @x_y:matrix.org von Standard zu Moderator geändert.
+5.10.2021, 19:51:05 - mazerfaker joined the room
+5.10.2021, 19:53:14 - @anonypla:tchncs.de hat das Berechtigungslevel von @jau2o-dk45a3:artemislena.eu von Standard zu Moderator geändert.
+5.10.2021, 20:11:13 - bob99 joined the room
+5.10.2021, 23:22:05 - @anonypla:tchncs.de hat das Berechtigungslevel von @bob99:tchncs.de von Standard zu Moderator geändert.
+6.10.2021, 16:26:41 - i4xlol joined the room
+6.10.2021, 17:17:25 - @anonypla:tchncs.de hat das Berechtigungslevel von @hal-9000:matrix.org von Standard zu Selbstdefiniert (75), @anony_bot:matrix.org von Selbstdefiniert (75) zu Standard geändert.
+6.10.2021, 17:18:50 - @hal-9000:matrix.org joined the room
+6.10.2021, 17:26:06 - michelle joined the room
+6.10.2021, 18:03:40 - jenkei joined the room
+6.10.2021, 22:34:50 - @anonypla:tchncs.de hat das Berechtigungslevel von @michelle:privacytech.xyz von Standard zu Moderator geändert.
+6.10.2021, 23:28:04 - @kelszo:matrix.org left the room
+7.10.2021, 00:32:55 - gongSong joined the room
+7.10.2021, 06:34:34 - toknazorko joined the room
+7.10.2021, 06:37:05 - тучка joined the room
+7.10.2021, 21:30:52 - @anonypla:tchncs.de hat das Berechtigungslevel von @deejayyhu:matrix.org von Standard zu Moderator geändert.
+7.10.2021, 22:06:51 - @anonypla:envs.net joined the room
+8.10.2021, 14:29:14 - terty joined the room
+12.10.2021, 15:34:29 - dirtblock999 joined the room
+12.10.2021, 16:37:45 - @butter-passer:matrix.org joined the room
+12.10.2021, 16:38:31 - @anonypla:tchncs.de hat das Berechtigungslevel von @butter-passer:matrix.org von Standard zu Moderator geändert.
+12.10.2021, 18:19:13 - @anonypla:tchncs.de hat elontusk (Babba27’s not-so-secret alt) [they/them] eingeladen
+13.10.2021, 01:23:04 - k1278 joined the room
+16.10.2021, 01:18:58 - @anonypla:tchncs.de hat das Berechtigungslevel von @x_y:matrix.org von Moderator zu Standard geändert.
+16.10.2021, 17:48:17 - suspiciousactions joined the room
+16.10.2021, 17:48:54 - suspiciousactions hat das Profilbild gesetzt
+17.10.2021, 03:41:21 - y joined the room
+17.10.2021, 07:23:05 - vpnclub2021 joined the room
+17.10.2021, 07:40:22 - x_y hat den Nicknamen zu x_y (old) ~> @y:tchncs.de (new) geändert
+17.10.2021, 21:55:47 - jaded-user joined the room
+18.10.2021, 03:17:31 - ParisRoll joined the room
+18.10.2021, 23:40:23 - @anonypla:tchncs.de hat das Berechtigungslevel von @suspiciousactions:matrix.org von Standard zu Moderator geändert.
+18.10.2021, 23:40:42 - @anonypla:tchncs.de hat das Berechtigungslevel von @0xbad1dea:warmitup.chat von Standard zu Moderator geändert.
+19.10.2021, 01:54:58 - hv joined the room
+19.10.2021, 11:28:26 - zygon.sisyphus joined the room
+19.10.2021, 16:04:50 - @purplebunny:matrix.org joined the room
+19.10.2021, 16:22:54 - @purplebunny:matrix.org left the room
+20.10.2021, 22:04:57 - oniboni joined the room
+22.10.2021, 00:19:51 - @anonypla:tchncs.de changed their profile picture
+22.10.2021, 00:20:28 - @anonypla:tchncs.de changed their profile picture
+23.10.2021, 11:17:23 - @luminescentseason:matrix.org joined the room
+23.10.2021, 13:21:12 - zerotango joined the room
+23.10.2021, 14:15:04 - Abdullah joined the room
+23.10.2021, 15:48:56 - @rottenwheel:halogen.city joined the room
+25.10.2021, 01:03:45 - @anonypla:tchncs.de hat das Berechtigungslevel von @suspiciousactions:matrix.org von Moderator zu Standard geändert.
+25.10.2021, 12:28:42 - luminescence hat den Nicknamen zu Derek (2nd Account) geändert
+25.10.2021, 12:48:25 - @anonypla:tchncs.de hat @_discord_bot:t2bot.io eingeladen
+25.10.2021, 12:48:26 - @_discord_bot:t2bot.io joined the room
+25.10.2021, 12:48:34 - @anonypla:tchncs.de hat das Berechtigungslevel von @_discord_bot:t2bot.io von Standard zu Moderator geändert.
+25.10.2021, 17:16:52 - J.Reacher (🕊️AnonyPla) joined the room
+25.10.2021, 18:03:25 - @anonypla:tchncs.de hat das Thema geändert in "Welcome to #security:matrix.org .Everything about (mostly online) security and how to stay secure. Keep it legal, in English, and be respectful. If you want to talk about privacy or anonymity, head towards our space at #privacy-security-anonymity:matrix.org".
+25.10.2021, 19:56:45 - @_discord_426636522964385793:t2bot.io joined the room
+26.10.2021, 13:16:36 - 54m53pi01 changed their profile picture
+26.10.2021, 13:40:04 - those joined the room
+26.10.2021, 15:32:43 - @rottenwheel:halogen.city hat @anarkiocrypto:halogen.city eingeladen
+26.10.2021, 15:35:31 - @anarkiocrypto:halogen.city joined the room
+27.10.2021, 23:15:16 - @anonypla:tchncs.de hat @rottenwheel:halogen.city entfernt: putting me on your ignore list is a bit extreme don't you think?
+28.10.2021, 02:20:17 - @_discord_229047672059723776:t2bot.io joined the room
+28.10.2021, 02:23:25 - cosmix360 joined the room
+28.10.2021, 09:02:04 - @rottenwheel:halogen.city joined the room
+28.10.2021, 13:49:40 - @_discord_304783091388383243:t2bot.io joined the room
+29.10.2021, 13:24:40 - @pxr:matrix.org left the room
+29.10.2021, 20:01:28 - @anonypla:tchncs.de hat das Thema geändert in "Welcome to #security:matrix.org .Everything about (mostly online) security and how to stay secure. Keep it legal, in English, and be respectful. If you want to talk about privacy or anonymity, head towards our space at #privacy-security-anonymity:matrix.org .Off-topic room: #bnonymity:matrix.org".
+29.10.2021, 22:51:49 - @_discord_309408702530846730:t2bot.io joined the room
+29.10.2021, 23:03:38 - @_discord_821870891385487422:t2bot.io joined the room
+30.10.2021, 13:25:36 - @anonypla:tchncs.de hat das Berechtigungslevel von @suspiciousactions:matrix.org von Standard zu Moderator geändert.
+30.10.2021, 16:59:16 - @_discord_bot:t2bot.io left the room
+30.10.2021, 17:01:13 - Deepak joined the room
+30.10.2021, 17:02:48 - @anonypla:tchncs.de hat das Berechtigungslevel von @_discord_bot:t2bot.io von Moderator zu Standard geändert.
+30.10.2021, 17:49:07 - @anonypla:tchncs.de hat @_discord_bot:anonymousplanet.org eingeladen
+30.10.2021, 17:49:08 - @_discord_bot:anonymousplanet.org joined the room
+30.10.2021, 17:49:18 - @anonypla:tchncs.de hat das Berechtigungslevel von @_discord_bot:anonymousplanet.org von Standard zu Moderator geändert.
+30.10.2021, 21:17:01 - @hal-9000:matrix.org left the room
+30.10.2021, 21:18:18 - @hal-9000:matrix.org joined the room
+30.10.2021, 21:25:03 - @anonypla:tchncs.de hat das Berechtigungslevel von @hal-9000:matrix.org von Selbstdefiniert (75) zu Standard geändert.
+30.10.2021, 21:26:37 - I'm Sorry Dave joined the room
+30.10.2021, 21:27:16 - @anonypla:tchncs.de hat das Berechtigungslevel von @hal-9001:anonymousplanet.org von Standard zu Selbstdefiniert (75) geändert.
+30.10.2021, 22:02:54 - hal-9001 hat den Nicknamen zu I'm Sorry Dave geändert
+30.10.2021, 22:02:58 - I'm Sorry Dave hat das Profilbild gesetzt
+30.10.2021, 22:05:37 - @anonypla:tchncs.de hat @hal-9000:matrix.org entfernt
+30.10.2021, 23:07:10 - @_discord_900345203322409020:anonymousplanet.org joined the room
+30.10.2021, 23:19:38 - @anonypla:tchncs.de hat das Berechtigungslevel von @suspiciousactions:matrix.org von Moderator zu Standard geändert.
+31.10.2021, 00:19:48 - @anonypla:tchncs.de hat @_discord_309408702530846730:t2bot.io entfernt
+31.10.2021, 11:36:43 - @_discord_904316581520240684:anonymousplanet.org joined the room
+31.10.2021, 11:39:46 - @_discord_821870891385487422:anonymousplanet.org joined the room
+31.10.2021, 16:44:27 - n3tr4mbl3r joined the room
+31.10.2021, 17:53:16 - @anonypla:tchncs.de hat @_discord_821870891385487422:t2bot.io entfernt
+31.10.2021, 17:53:21 - @anonypla:tchncs.de hat @_discord_426636522964385793:t2bot.io entfernt
+31.10.2021, 17:53:28 - @anonypla:tchncs.de hat @_discord_229047672059723776:t2bot.io entfernt
+31.10.2021, 17:53:34 - @anonypla:tchncs.de hat @_discord_304783091388383243:t2bot.io entfernt
+31.10.2021, 19:13:45 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+31.10.2021, 20:42:58 - Tom joined the room
+1.11.2021, 15:44:27 - @anonypla:tchncs.de hat das Raumbild geändert.
+1.11.2021, 18:50:02 - e-pleb joined the room
+2.11.2021, 01:54:18 - plotinus joined the room
+2.11.2021, 06:40:49 - @elenrooz:matrix.org joined the room
+2.11.2021, 13:07:02 - @_discord_851186790786400336:anonymousplanet.org joined the room
+3.11.2021, 10:06:34 - anonprisecking joined the room
+3.11.2021, 18:25:53 - @valux:valvano.one joined the room
+3.11.2021, 20:22:04 - e-pleb (@e-pleb:waifuhunter.club) joined the room
+3.11.2021, 20:36:05 - e-pleb (@e-pleb:waifuhunter.club) hat das Profilbild gesetzt
+4.11.2021, 19:05:13 - Craig joined the room
+4.11.2021, 20:54:44 - @genericblue:matrix.org joined the room
+5.11.2021, 01:06:13 - @thefutureisprivate:matrix.org joined the room
+5.11.2021, 03:28:17 - gullbingsu joined the room
+6.11.2021, 05:27:43 - @_discord_391780452253564929:anonymousplanet.org joined the room
+6.11.2021, 05:55:36 - camping cow joined the room
+6.11.2021, 22:03:04 - @_discord_878055324207177729:anonymousplanet.org joined the room
+6.11.2021, 22:04:57 - @_discord_787775362544828517:anonymousplanet.org joined the room
+6.11.2021, 22:10:09 - @_discord_391646175050072065:anonymousplanet.org joined the room
+6.11.2021, 23:34:22 - @_discord_318424245900148736:anonymousplanet.org joined the room
+7.11.2021, 20:01:13 - madaidan. joined the room
+8.11.2021, 13:33:14 - @_discord_844894537306472459:anonymousplanet.org joined the room
+9.11.2021, 01:16:22 - panic_or_dont joined the room
+9.11.2021, 03:32:51 - sovereign_stack joined the room
+9.11.2021, 04:53:49 - hydatoid joined the room
+9.11.2021, 13:40:20 - KennyWalther(🕊️Anonypla) joined the room
+9.11.2021, 13:56:09 - viktorv joined the room
+9.11.2021, 18:53:32 - @_discord_728747521978925057:anonymousplanet.org joined the room
+9.11.2021, 21:00:57 - @_discord_889228048094875688:anonymousplanet.org joined the room
+10.11.2021, 00:33:09 - gullbingsu hat das Profilbild gesetzt
+10.11.2021, 01:04:37 - @_discord_161857856562266112:anonymousplanet.org joined the room
+10.11.2021, 03:07:53 - @_discord_906239066083831849:anonymousplanet.org joined the room
+10.11.2021, 03:35:50 - @_discord_907820644329209877:anonymousplanet.org joined the room
+10.11.2021, 04:15:12 - khaoohs joined the room
+10.11.2021, 15:16:21 - @anonypla:tchncs.de hat @flairy_21:halogen.city verbannt: invite spam
+10.11.2021, 19:24:25 - @aquiles-rei-dosmirmidoes2022:matrix.org joined the room
+10.11.2021, 19:25:54 - @aquiles-rei-dosmirmidoes2022:matrix.org left the room
+10.11.2021, 21:11:00 - user4125124 joined the room
+11.11.2021, 09:26:30 - @_discord_401004655917924353:anonymousplanet.org joined the room
+11.11.2021, 19:51:17 - @_discord_784746451593986048:anonymousplanet.org joined the room
+12.11.2021, 21:41:46 - @_discord_160797490222858240:anonymousplanet.org joined the room
+13.11.2021, 00:37:25 - @_discord_244952568399134720:anonymousplanet.org joined the room
+13.11.2021, 03:04:45 - @_discord_766558410724343818:anonymousplanet.org joined the room
+13.11.2021, 04:29:06 - Onessa joined the room
+13.11.2021, 07:17:08 - @_discord_908963409830223872:anonymousplanet.org joined the room
+13.11.2021, 08:31:14 - @_discord_815462066629509141:anonymousplanet.org joined the room
+13.11.2021, 19:52:18 - @_discord_440101075668828184:anonymousplanet.org joined the room
+13.11.2021, 21:01:04 - mrelmt joined the room
+13.11.2021, 21:37:31 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla) joined the room
+14.11.2021, 03:07:46 - @_discord_272356681852387330:anonymousplanet.org joined the room
+14.11.2021, 11:06:42 - @_discord_771009579387584514:anonymousplanet.org joined the room
+14.11.2021, 13:50:13 - @idelos:matrix.org joined the room
+14.11.2021, 13:56:45 - @_discord_599519649184481280:anonymousplanet.org joined the room
+14.11.2021, 14:59:13 - @_discord_530663425781530635:anonymousplanet.org joined the room
+14.11.2021, 17:39:14 - @anonypla:tchncs.de hat das Berechtigungslevel von @memorysafetybelike:envs.net von Standard zu Moderator geändert.
+14.11.2021, 21:44:42 - @_discord_526203510153281536:anonymousplanet.org joined the room
+15.11.2021, 00:14:24 - rolodondo34 joined the room
+15.11.2021, 05:54:07 - @_discord_798729595964358668:anonymousplanet.org joined the room
+15.11.2021, 06:28:33 - @clandestineone:matrix.org joined the room
+15.11.2021, 09:52:16 - Guardian Dusty joined the room
+15.11.2021, 10:42:19 - @_discord_260869735896449026:anonymousplanet.org joined the room
+15.11.2021, 11:33:29 - @_discord_792000698048053290:anonymousplanet.org joined the room
+15.11.2021, 15:27:51 - fiftyknight joined the room
+15.11.2021, 17:56:34 - @_discord_787354497570701312:anonymousplanet.org joined the room
+15.11.2021, 19:23:10 - clouderz joined the room
+15.11.2021, 19:33:42 - Guardian Dusty hat das Profilbild entfernt
+15.11.2021, 19:46:18 - @guardiandusty:envs.net joined the room
+15.11.2021, 19:51:44 - @guardiandusty:envs.net hat das Profilbild gesetzt
+15.11.2021, 19:53:10 - guardiandusty hat den Nicknamen zu Guardian Dusty geändert
+16.11.2021, 03:09:43 - chile09 hat den Nicknamen zu rolodondo9378 geändert
+16.11.2021, 03:10:29 - @_discord_319025880825593857:anonymousplanet.org joined the room
+16.11.2021, 07:40:27 - @_discord_123937374676844544:anonymousplanet.org joined the room
+16.11.2021, 11:41:30 - @_discord_897281731969814570:anonymousplanet.org joined the room
+16.11.2021, 13:45:29 - @_discord_799925887335661589:anonymousplanet.org joined the room
+17.11.2021, 00:01:54 - @_discord_805096765359521853:anonymousplanet.org joined the room
+17.11.2021, 01:20:49 - rinzler joined the room
+17.11.2021, 12:19:00 - @guardiandusty:envs.net left the room
+17.11.2021, 13:11:07 - ilker joined the room
+17.11.2021, 13:44:26 - @_discord_651878279418216477:anonymousplanet.org joined the room
+17.11.2021, 14:10:21 - @anonypla:tchncs.de hat @anonypla:anonymousplanet.org eingeladen
+17.11.2021, 14:12:43 - @anonypla:anonymousplanet.org joined the room
+17.11.2021, 14:29:55 - @anonypla:tchncs.de hat das Berechtigungslevel von @anonypla:anonymousplanet.org von Standard zu Administration geändert.
+17.11.2021, 16:26:46 - @_discord_724533327557820467:anonymousplanet.org joined the room
+17.11.2021, 17:52:33 - ppxxwtyd4592 joined the room
+18.11.2021, 01:52:31 - @_discord_494172608627998720:anonymousplanet.org joined the room
+18.11.2021, 04:51:13 - @faitex23:matrix.org joined the room
+18.11.2021, 06:04:18 - @_discord_681131786620633165:anonymousplanet.org joined the room
+18.11.2021, 11:33:57 - @_discord_406771001809174540:anonymousplanet.org joined the room
+18.11.2021, 14:36:31 - 54m53pi01 changed their profile picture
+18.11.2021, 21:49:57 - @neith:matrix.org joined the room
+18.11.2021, 21:51:22 - @neith:matrix.org left the room
+19.11.2021, 14:00:22 - @anonypla:tchncs.de hat das Berechtigungslevel von @butter-passer:matrix.org von Moderator zu Administration geändert.
+19.11.2021, 18:26:23 - sans-c joined the room
+19.11.2021, 22:27:01 - 0xbad1dea hat das Profilbild gesetzt
+20.11.2021, 08:49:57 - ainmosni joined the room
+20.11.2021, 13:24:21 - Pierre Michel Augustin joined the room
+20.11.2021, 16:00:57 - theprivate1 joined the room
+21.11.2021, 03:21:12 - Derek (2nd Account) hat den Nicknamen zu sn0w geändert
+21.11.2021, 03:29:17 - @luminescentseason:matrix.org changed their profile picture
+21.11.2021, 09:15:49 - gray.x6 joined the room
+21.11.2021, 10:47:18 - @_discord_903493859315691550:anonymousplanet.org joined the room
+21.11.2021, 12:09:21 - @rottenwheel:halogen.city hat mmxxx eingeladen
+21.11.2021, 13:26:08 - mmxxx joined the room
+21.11.2021, 21:44:14 - @dr_rino:matrix.org joined the room
+21.11.2021, 21:46:11 - @dr_rino:matrix.org left the room
+22.11.2021, 07:21:23 - @vidorian:matrix.org joined the room
+22.11.2021, 08:18:47 - @thefutureisprivate:matrix.org left the room
+22.11.2021, 10:20:22 - @anonypla:tchncs.de hat das Berechtigungslevel von @memorysafetybelike:envs.net von Moderator zu Administration geändert.
+22.11.2021, 15:50:10 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+22.11.2021, 15:50:25 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+22.11.2021, 15:50:50 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+22.11.2021, 15:51:06 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+22.11.2021, 15:51:31 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+22.11.2021, 15:51:46 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+22.11.2021, 15:52:18 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+22.11.2021, 15:52:30 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+22.11.2021, 15:52:43 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+22.11.2021, 15:53:01 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+22.11.2021, 15:53:19 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+22.11.2021, 15:53:31 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+22.11.2021, 15:53:39 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+22.11.2021, 15:53:59 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+22.11.2021, 15:54:08 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+22.11.2021, 15:54:50 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+22.11.2021, 15:55:02 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+22.11.2021, 15:55:30 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+22.11.2021, 15:55:45 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+22.11.2021, 15:55:57 - @_discord_787143700673331222:anonymousplanet.org joined the room
+22.11.2021, 15:56:04 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+22.11.2021, 15:56:14 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+22.11.2021, 15:56:26 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+22.11.2021, 15:57:07 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+22.11.2021, 15:57:44 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+22.11.2021, 20:10:41 - @anonypla:tchncs.de hat das Thema geändert in "".
+22.11.2021, 20:51:19 - @anonypla:tchncs.de hat das Thema geändert in "Part of the #p-s-a:matrix.org community. All about (mostly online) security. Rules: https://psa.anonymousplanet.org/ .Enjoy your stay. Off-topic >>> #bnonymity:matrix.org".
+23.11.2021, 00:51:39 - @ilexpara:matrix.org joined the room
+23.11.2021, 11:33:54 - @_discord_853335835751481344:anonymousplanet.org joined the room
+24.11.2021, 11:17:55 - sycamore joined the room
+25.11.2021, 13:36:11 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+25.11.2021, 18:46:31 - neo_sodom(🕊Anonypla) joined the room
+25.11.2021, 20:34:02 - neo_sodom(🕊Anonypla) hat das Profilbild gesetzt
+26.11.2021, 00:28:07 - f1ll1p joined the room
+26.11.2021, 11:29:09 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+27.11.2021, 01:46:31 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+27.11.2021, 16:51:58 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+27.11.2021, 16:53:02 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+27.11.2021, 16:54:22 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+27.11.2021, 16:56:29 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+27.11.2021, 16:57:32 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+27.11.2021, 16:58:17 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+27.11.2021, 16:58:44 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+27.11.2021, 16:59:49 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+27.11.2021, 17:00:38 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+27.11.2021, 17:00:48 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+27.11.2021, 17:01:22 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+27.11.2021, 17:02:16 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+27.11.2021, 20:15:53 - @vidorian:matrix.org left the room
+28.11.2021, 09:32:06 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+28.11.2021, 09:32:33 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+28.11.2021, 09:32:43 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+28.11.2021, 09:32:50 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+28.11.2021, 09:33:29 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+28.11.2021, 09:33:40 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+28.11.2021, 23:41:48 - @faitex23:matrix.org left the room
+29.11.2021, 01:29:48 - andalru joined the room
+30.11.2021, 00:41:31 - Gypsum joined the room
+30.11.2021, 00:41:51 - Gypsum hat wnet eingeladen
+30.11.2021, 00:46:22 - wnet joined the room
+30.11.2021, 12:31:38 - @_discord_483646652398305295:anonymousplanet.org joined the room
+30.11.2021, 18:00:43 - @genericblue:matrix.org left the room
+1.12.2021, 01:46:06 - @authentication:nitro.chat joined the room
+1.12.2021, 16:19:28 - flying_s0ul joined the room
+2.12.2021, 08:14:41 - hv changed their profile picture
+2.12.2021, 10:38:11 - @=/=/=:matrix.org joined the room
+3.12.2021, 18:48:39 - neo_sodom(🕊Anonypla) changed their profile picture
+3.12.2021, 23:53:38 - @grainofsand:halogen.city hat den Nicknamen zu com geändert
+4.12.2021, 00:20:45 - com hat den Nicknamen zu Gypsum geändert
+4.12.2021, 14:21:42 - psydroid joined the room
+4.12.2021, 15:27:52 - 2FA hat den Nicknamen zu SecBreachDetectAction: isolateFreezeFSsnapshotPurgeDown geändert
+4.12.2021, 15:36:45 - @authentication:nitro.chat hat den alten Nicknamen SecBreachDetectAction: isolateFreezeFSsnapshotPurgeDown entfernt
+4.12.2021, 15:47:33 - @authentication:nitro.chat left the room
+5.12.2021, 21:26:08 - Onessa changed their profile picture
+6.12.2021, 08:40:35 - @=/=/=:matrix.org hat den Nicknamen zu D4rK geändert
+6.12.2021, 08:40:42 - @=/=/=:matrix.org hat den alten Nicknamen D4rK entfernt
+6.12.2021, 08:40:45 - @=/=/=:matrix.org left the room
+6.12.2021, 14:50:10 - @_discord_917345884965072906:anonymousplanet.org joined the room
+6.12.2021, 17:28:39 - @anonymous784:matrix.org joined the room
+6.12.2021, 17:50:09 - @anonymous784:matrix.org left the room
+7.12.2021, 00:49:54 - @luminescentseason:matrix.org changed their profile picture
+7.12.2021, 02:25:26 - lostsamurai joined the room
+8.12.2021, 03:57:46 - ferasdour joined the room
+8.12.2021, 11:53:34 - 艾略特 hat den Nicknamen zu Elliot Alderson geändert
+8.12.2021, 12:28:23 - @idelos:matrix.org left the room
+10.12.2021, 21:25:29 - maserati20 joined the room
+11.12.2021, 05:26:06 - @styx:tchncs.de joined the room
+11.12.2021, 07:35:47 - @seirdy:envs.net joined the room
+11.12.2021, 15:21:26 - @anarkiocrypto:halogen.city left the room
+12.12.2021, 09:44:33 - @_discord_856952727723442196:anonymousplanet.org joined the room
+12.12.2021, 09:50:56 - zohan joined the room
+13.12.2021, 07:02:32 - @mfwmyfacewhen:matrix.org joined the room
+13.12.2021, 07:33:35 - Enzo joined the room
+13.12.2021, 15:22:35 - @anonypla:tchncs.de hat das Berechtigungslevel von @minji:monero.social von Moderator zu Administration geändert.
+13.12.2021, 23:16:57 - emulationdepression joined the room
+14.12.2021, 08:23:55 - NT ZERO joined the room
+14.12.2021, 12:53:54 - @luminescentseason:matrix.org changed their profile picture
+15.12.2021, 01:11:19 - @wnet:halogen.city hat den Nicknamen zu wnet geändert
+15.12.2021, 05:28:11 - @kipo:matrix.org joined the room
+15.12.2021, 05:45:32 - @kipo:matrix.org hat den alten Nicknamen kipo entfernt
+15.12.2021, 05:46:35 - @kipo:matrix.org left the room
+15.12.2021, 12:41:44 - dm joined the room
+16.12.2021, 01:35:40 - @_discord_911193856018616370:anonymousplanet.org joined the room
+16.12.2021, 12:23:51 - mymatrix joined the room
+16.12.2021, 13:03:27 - the_4n0nym0u53 joined the room
+16.12.2021, 15:59:06 - @islandforever:matrix.org joined the room
+17.12.2021, 06:57:40 - @_discord_904857164630327357:anonymousplanet.org joined the room
+17.12.2021, 17:41:38 - @_discord_623186198243835924:anonymousplanet.org joined the room
+17.12.2021, 18:49:51 - @_discord_773803986758664192:anonymousplanet.org joined the room
+18.12.2021, 04:29:42 - liberty ballez joined the room
+18.12.2021, 12:36:26 - Kronos joined the room
+18.12.2021, 18:27:41 - s0 joined the room
+19.12.2021, 01:49:32 - @luukbernardes:matrix.org joined the room
+20.12.2021, 09:13:44 - babba27fallback joined the room
+20.12.2021, 14:36:47 - steel_titan joined the room
+20.12.2021, 14:49:20 - Ra joined the room
+21.12.2021, 00:55:19 - madaidan. hat den Nicknamen zu up the ra geändert
+21.12.2021, 00:55:47 - up the ra hat den Nicknamen zu madaidan. geändert
+21.12.2021, 00:56:48 - madaidan. hat den Nicknamen zu madaidan geändert
+21.12.2021, 00:57:28 - madaidan hat den Nicknamen zu madaidan. geändert
+21.12.2021, 12:19:06 - @anonypla:tchncs.de hat das Berechtigungslevel von @michelle:privacytech.xyz von Moderator zu Administration geändert.
+22.12.2021, 17:52:39 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+22.12.2021, 17:53:22 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+23.12.2021, 21:48:29 - KennyWalther(🕊️Anonypla) changed their profile picture
+24.12.2021, 03:07:42 - @alvemeere:matrix.org joined the room
+25.12.2021, 00:11:29 - @xmrmx:envs.net joined the room
+25.12.2021, 08:22:51 - @mr.muffin:nitro.chat joined the room
+25.12.2021, 17:30:53 - @brownfox123:matrix.org joined the room
+26.12.2021, 09:17:31 - @anonypla:tchncs.de hat @brownfox123:matrix.org verbannt
+26.12.2021, 12:48:35 - @dagger11:matrix.org joined the room
+27.12.2021, 01:23:11 - @karasudidntwakeup:tchncs.de joined the room
+27.12.2021, 01:25:56 - @karasudidntwakeup:tchncs.de hat den Nicknamen zu 💬 geändert
+27.12.2021, 06:42:04 - quartz hat den Nicknamen zu tluve geändert
+27.12.2021, 06:42:13 - tluve hat den Nicknamen zu quartz geändert
+27.12.2021, 12:25:53 - @mr.muffin:nitro.chat hat @mr.muffin:matrix.org eingeladen
+27.12.2021, 12:26:31 - @mr.muffin:matrix.org joined the room
+28.12.2021, 00:38:27 - @random1-freeatlast:matrix.org joined the room
+28.12.2021, 01:26:24 - @signin:nitro.chat joined the room
+28.12.2021, 10:45:14 - @mangoos:matrix.org joined the room
+28.12.2021, 18:47:40 - @eyekg0evil:tchncs.de joined the room
+29.12.2021, 01:59:35 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+29.12.2021, 02:56:52 - 54m53pi01 changed their profile picture
+29.12.2021, 12:45:05 - @karasudidntwakeup:tchncs.de hat den alten Nicknamen 💬 entfernt
+29.12.2021, 12:53:00 - @eyekg0evil:tchncs.de left the room
+30.12.2021, 02:28:32 - @mr.muffin:matrix.org hat den Nicknamen zu Mr. Muffin geändert
+30.12.2021, 02:29:56 - Mr. Muffin hat den Nicknamen zu I am Santa, happy Christmas (Mr. Muffin) geändert
+30.12.2021, 03:38:46 - @_discord_809038267424440330:anonymousplanet.org joined the room
+30.12.2021, 07:22:40 - @uzzi_consulting:matrix.org joined the room
+30.12.2021, 15:27:37 - nicolespring joined the room
+30.12.2021, 21:08:54 - @formic:tchncs.de joined the room
+30.12.2021, 22:13:19 - I am Santa, happy Christmas (Mr. Muffin) hat den Nicknamen zu Mr. Muffin geändert
+30.12.2021, 22:13:23 - @mr.muffin:matrix.org changed their profile picture
+30.12.2021, 22:13:35 - @mr.muffin:matrix.org changed their profile picture
+31.12.2021, 12:23:16 - @signin:nitro.chat hat den Nicknamen zu privacy geändert
+31.12.2021, 12:27:37 - @signin:nitro.chat hat den alten Nicknamen privacy entfernt
+31.12.2021, 12:35:08 - @signin:nitro.chat left the room
+31.12.2021, 18:02:50 - Mr. Muffin hat den Nicknamen zu Mr. Muffin (Nate's Tech Guy (And badgie's mate)) geändert
+1.1.2022, 02:27:39 - @karasudidntwakeup:tchncs.de changed their profile picture
+1.1.2022, 11:44:46 - louipc joined the room
+1.1.2022, 23:43:08 - @mfwmyfacewhen:matrix.org left the room
+2.1.2022, 07:05:33 - black_spartacus joined the room
+2.1.2022, 17:41:07 - Mr. Muffin (Nate's Tech Guy (And badgie's mate)) hat den Nicknamen zu Mr. Muffin geändert
+3.1.2022, 01:35:44 - @_discord_357521311678857216:anonymousplanet.org joined the room
+3.1.2022, 04:58:47 - @_discord_829303484582723634:anonymousplanet.org joined the room
+3.1.2022, 07:29:09 - eshate joined the room
+3.1.2022, 17:03:49 - eshate changed their profile picture
+3.1.2022, 19:06:24 - hv changed their profile picture
+4.1.2022, 00:11:15 - quartz hat den Nicknamen zu hv geändert
+4.1.2022, 10:15:29 - j7lc8l joined the room
+4.1.2022, 10:52:08 - Viktor hat den Nicknamen zu viktorv geändert
+4.1.2022, 14:25:03 - antonshc joined the room
+5.1.2022, 08:13:30 - unknown joined the room
+6.1.2022, 18:14:02 - neo_sodom(🕊Anonypla) changed their profile picture
+6.1.2022, 19:36:31 - @_discord_195735703726981120:anonymousplanet.org joined the room
+6.1.2022, 22:09:28 - MockingTrees joined the room
+6.1.2022, 23:15:14 - @clandestineone:matrix.org left the room
+7.1.2022, 16:36:03 - @xmrmx:envs.net left the room
+8.1.2022, 00:46:30 - paraffin joined the room
+8.1.2022, 03:43:35 - xmrmx joined the room
+8.1.2022, 09:11:49 - @luukbernardes:matrix.org left the room
+8.1.2022, 11:06:39 - AnonyPla (alt) hat den Nicknamen zu AnonyPla geändert
+8.1.2022, 17:02:33 - AnonyPla hat den Nicknamen zu AnonyPla (testing account) geändert
+9.1.2022, 06:52:47 - dictatorgator joined the room
+9.1.2022, 09:49:04 - @luminescentseason:matrix.org changed their profile picture
+9.1.2022, 20:33:46 - @mr.muffin:nitro.chat hat den Nicknamen zu Mr. Muffin / Back up geändert
+9.1.2022, 20:35:02 - Mr. Muffin / Back up hat den Nicknamen zu Mr. Muffin / Back Up geändert
+10.1.2022, 00:30:09 - @nicolespring:matrix.org hat den Nicknamen zu nicolespring geändert
+10.1.2022, 00:36:53 - Unknown hat den Nicknamen zu Nameless geändert
+10.1.2022, 13:11:51 - @johndoe8449:matrix.org joined the room
+10.1.2022, 13:28:54 - @johndoe8449:matrix.org left the room
+11.1.2022, 07:45:15 - 54m53pi01 changed their profile picture
+12.1.2022, 02:29:31 - @_discord_744467544852922450:anonymousplanet.org joined the room
+12.1.2022, 09:28:28 - RandomRock joined the room
+12.1.2022, 20:08:36 - @_discord_326682404632920064:anonymousplanet.org joined the room
+13.1.2022, 00:06:54 - 0xbad1dea hat @_discord_326682404632920064:anonymousplanet.org verbannt: phishing/scam
+13.1.2022, 20:19:30 - rock.exe hat den Nicknamen zu anonboi geändert
+14.1.2022, 22:11:48 - see_me_not_today joined the room
+15.1.2022, 02:11:29 - @valux:valvano.one left the room
+15.1.2022, 02:11:36 - ᴠᴀʟᴜx ⒨ joined the room
+16.1.2022, 11:06:51 - cristalewing joined the room
+16.1.2022, 14:20:42 - I'm Sorry Dave hat die Server-ACLs für diesen Raum geändert.
+17.1.2022, 07:35:53 - ifi joined the room
+17.1.2022, 11:52:46 - Amo joined the room
+17.1.2022, 23:47:48 - @anonypla:tchncs.de hat @_discord_391646175050072065:anonymousplanet.org verbannt: test, sorry, you'll be unbanned
+17.1.2022, 23:49:44 - @anonypla:tchncs.de hat @_discord_906239066083831849:anonymousplanet.org verbannt: test, again, sorry, you'll be unbanned
+17.1.2022, 23:50:37 - @anonypla:tchncs.de hat @_discord_906239066083831849:anonymousplanet.org entbannt
+17.1.2022, 23:50:38 - @anonypla:tchncs.de hat @_discord_391646175050072065:anonymousplanet.org entbannt
+18.1.2022, 19:48:35 - wolf joined the room
+19.1.2022, 02:22:36 - @_discord_615991933197615144:anonymousplanet.org joined the room
+20.1.2022, 00:00:12 - ilex joined the room
+20.1.2022, 05:24:32 - 54m53pi01 changed their profile picture
+20.1.2022, 14:17:25 - @_discord_764469367584718869:anonymousplanet.org joined the room
+21.1.2022, 19:34:01 - @_discord_213431091837534208:anonymousplanet.org joined the room
+21.1.2022, 21:51:15 - @_discord_894664907700703303:anonymousplanet.org joined the room
+23.1.2022, 21:03:46 - @chattering:nitro.chat joined the room
+25.1.2022, 03:30:32 - @chattering:nitro.chat changed their profile picture
+25.1.2022, 03:40:02 - Pepe The Frog joined the room
+25.1.2022, 06:57:15 - I'm Sorry Dave hat Pepe The Frog verbannt: 2022-01-24, Homophobia, Not Appealed
+25.1.2022, 16:46:29 - the_4n0nym0u53 changed their profile picture
+25.1.2022, 17:02:21 - tobigehrmann joined the room
+26.1.2022, 05:31:39 - SuspensePerfected joined the room
+26.1.2022, 15:16:46 - AnonyPla (testing account) hat den Nicknamen zu AnonyPla geändert
+26.1.2022, 15:18:25 - AnonyPla hat den Nicknamen zu ‌‌‌‌‍‬﻿‍‌‌‌‌‍‬‌‍‌‌‌‌‍﻿‬‍‌‌‌‌‍‬‌‬‌‌‌‌‍‬‍‍‌‌‌‌‌‬‌‌‌‌‌‌‍﻿‍‍‌‌‌‌‌‬‌‌‌‌‌‌‍﻿‌﻿‌‌‌‌‍‬‌‍‌‌‌‌‍﻿‍﻿‌‌‌‌‌‬‌‌‌‌‌‌‍‬﻿‍‌‌‌‌‍‬‍‍‌‌‌‌‌‬‌‌‌‌‌‌‍‬﻿‬‌‌‌‌‍‬‌‍‌‌‌‌‍‬‬﻿‌‌‌‌‍‬‍‍‌‌‌‌‍‬‍‌‌‌‌‌‌‬‌‌‌‌‌‌‍‬﻿﻿‌‌‌‌‍‬﻿‬‌‌‌‌‌‬‌‌‌‌‌‌‍﻿‌‌‌‌‌‌‍‬﻿﻿‌‌‌‌‍﻿‌‬‌‌‌‌‍‬﻿‬‌‌‌‌‍‬‬‌‌‌‌‌‍﻿‍‍‌‌‌‌‍‬‌‬AnonyPla geändert
+26.1.2022, 15:19:02 - ‌‌‌‌‍‬﻿‍‌‌‌‌‍‬‌‍‌‌‌‌‍﻿‬‍‌‌‌‌‍‬‌‬‌‌‌‌‍‬‍‍‌‌‌‌‌‬‌‌‌‌‌‌‍﻿‍‍‌‌‌‌‌‬‌‌‌‌‌‌‍﻿‌﻿‌‌‌‌‍‬‌‍‌‌‌‌‍﻿‍﻿‌‌‌‌‌‬‌‌‌‌‌‌‍‬﻿‍‌‌‌‌‍‬‍‍‌‌‌‌‌‬‌‌‌‌‌‌‍‬﻿‬‌‌‌‌‍‬‌‍‌‌‌‌‍‬‬﻿‌‌‌‌‍‬‍‍‌‌‌‌‍‬‍‌‌‌‌‌‌‬‌‌‌‌‌‌‍‬﻿﻿‌‌‌‌‍‬﻿‬‌‌‌‌‌‬‌‌‌‌‌‌‍﻿‌‌‌‌‌‌‍‬﻿﻿‌‌‌‌‍﻿‌‬‌‌‌‌‍‬﻿‬‌‌‌‌‍‬‬‌‌‌‌‌‍﻿‍‍‌‌‌‌‍‬‌‬AnonyPla hat den Nicknamen zu AnonyPla alt (>>> @anonypla:anonymousplanet.org) geändert
+27.1.2022, 00:06:51 - AnonyPla (alt >> @anonypla:tchncs.de) hat den Nicknamen zu AnonyPla (alt >> @anonypla:anonymousplanet.org) geändert
+27.1.2022, 00:07:06 - @anonypla:envs.net changed their profile picture
+27.1.2022, 08:20:47 - Seirdy joined the room
+27.1.2022, 08:22:01 - @seirdy:envs.net left the room
+28.1.2022, 00:52:01 - xyhhx joined the room
+28.1.2022, 00:56:34 - gregP3a joined the room
+28.1.2022, 03:31:00 - 4n0nym0u511v891 joined the room
+28.1.2022, 08:36:18 - @mr.muffin:matrix.org left the room
+28.1.2022, 15:06:07 - @epicgaymer:matrix.org joined the room
+28.1.2022, 15:16:42 - autak_ joined the room
+28.1.2022, 20:53:55 - @epicgaymer:matrix.org left the room
+29.1.2022, 08:02:42 - @_discord_275024139079778305:anonymousplanet.org joined the room
+29.1.2022, 09:49:16 - @styx:tchncs.de left the room
+29.1.2022, 11:15:25 - @ilexpara:matrix.org left the room
+29.1.2022, 18:45:50 - Gypsum hat alexandrite eingeladen
+29.1.2022, 18:46:27 - alexandrite joined the room
+29.1.2022, 19:45:23 - @xpeaw:matrix.org joined the room
+29.1.2022, 19:50:51 - @xpeaw:matrix.org left the room
+29.1.2022, 21:08:29 - @chattering:nitro.chat hat das Profilbild entfernt
+29.1.2022, 21:29:07 - @chattering:nitro.chat hat den alten Nicknamen chattering entfernt
+29.1.2022, 21:43:27 - @chattering:nitro.chat left the room
+29.1.2022, 22:55:05 - xyhhx changed their profile picture
+30.1.2022, 14:33:08 - @anonypla:anonymousplanet.org hat Pepe The Frog entbannt
+30.1.2022, 14:55:28 - Pepe The Frog joined the room
+31.1.2022, 09:48:02 - mindfulbroccoli joined the room
+31.1.2022, 13:24:09 - belozaur joined the room
+31.1.2022, 15:04:03 - Zenexer joined the room
+31.1.2022, 17:11:35 - @astarael:fairydust.space joined the room
+31.1.2022, 21:51:38 - thegreatest420 joined the room
+1.2.2022, 00:10:43 - @keyboard:nitro.chat joined the room
+1.2.2022, 03:06:27 - istina (@istina:monero.social) joined the room
+1.2.2022, 15:23:54 - @astarael:fairydust.space left the room
+1.2.2022, 18:47:48 - @luminescentseason:matrix.org left the room
+1.2.2022, 20:14:52 - neo_sodom hat den Nicknamen zu neo_sodom | dead inside geändert
+1.2.2022, 21:04:18 - @_discord_762106400285392916:anonymousplanet.org joined the room
+2.2.2022, 02:13:42 - @grum3:matrix.org joined the room
+2.2.2022, 15:54:46 - Elliot Alderson hat den Nicknamen zu peace geändert
+3.2.2022, 01:09:29 - emulationdepression changed their profile picture
+3.2.2022, 02:28:44 - peace hat den Nicknamen zu Elliot geändert
+3.2.2022, 04:04:29 - @vicky:matrix.vick.wtf joined the room
+3.2.2022, 09:10:21 - 54m53pi01 changed their profile picture
+3.2.2022, 12:24:49 - @keyboard:nitro.chat hat den alten Nicknamen keyboard entfernt
+3.2.2022, 12:31:46 - @keyboard:nitro.chat left the room
+3.2.2022, 14:20:56 - qwestion joined the room
+3.2.2022, 15:26:21 - n3tr4mbl3r hat das Profilbild gesetzt
+3.2.2022, 15:26:45 - n3tr4mbl3r hat das Profilbild entfernt
+3.2.2022, 16:35:21 - Bifrost Bot joined the room
+3.2.2022, 16:41:56 - qwestion left the room
+3.2.2022, 22:48:46 - @gigilmaw:envs.net joined the room
+3.2.2022, 22:50:10 - shesh joined the room
+3.2.2022, 23:56:08 - @rottenwheel:halogen.city left the room
+4.2.2022, 14:47:27 - KennyWalther hat den Nicknamen zu KennyWalther(Narktor) geändert
+4.2.2022, 21:31:42 - qwestion joined the room
+4.2.2022, 23:01:48 - alexandrite hat das Profilbild gesetzt
+4.2.2022, 23:43:42 - qwestion left the room
+5.2.2022, 01:56:13 - qwestion joined the room
+5.2.2022, 04:55:35 - qwestion left the room
+5.2.2022, 11:01:08 - @_discord_466019738179600385:anonymousplanet.org joined the room
+5.2.2022, 11:25:09 - qwestion joined the room
+5.2.2022, 11:26:13 - qwestion left the room
+5.2.2022, 12:52:08 - organized global software reviewing on alternativeto.net joined the room
+5.2.2022, 13:40:17 - n3tr4mbl3r hat das Profilbild gesetzt
+5.2.2022, 13:49:56 - n3tr4mbl3r hat das Profilbild entfernt
+5.2.2022, 13:55:58 - n3tr4mbl3r hat das Profilbild gesetzt
+5.2.2022, 17:34:39 - @mr.muffin:nitro.chat left the room
+5.2.2022, 18:10:25 - qwestion joined the room
+5.2.2022, 18:45:11 - qwestion left the room
+6.2.2022, 02:59:37 - alexandrite changed their profile picture
+6.2.2022, 03:29:57 - qwestion joined the room
+6.2.2022, 08:45:46 - qwestion left the room
+6.2.2022, 16:08:34 - qwestion joined the room
+6.2.2022, 18:31:01 - qwestion left the room
+6.2.2022, 18:56:10 - qwestion joined the room
+6.2.2022, 21:35:37 - @gigilmaw:envs.net changed their profile picture
+7.2.2022, 04:00:41 - @gigilmaw:envs.net changed their profile picture
+7.2.2022, 07:18:54 - @gigilmaw:envs.net changed their profile picture
+7.2.2022, 08:03:06 - @gigilmaw:envs.net left the room
+7.2.2022, 18:27:39 - qwestion left the room
+7.2.2022, 18:28:46 - qwestion joined the room
+7.2.2022, 19:24:44 - qwestion left the room
+7.2.2022, 20:29:23 - the_4n0nym0u53 hat das Profilbild entfernt
+7.2.2022, 20:31:44 - the_4n0nym0u53 hat das Profilbild gesetzt
+7.2.2022, 21:39:59 - chillbruh joined the room
+7.2.2022, 23:58:17 - @_discord_442370494029627422:anonymousplanet.org joined the room
+8.2.2022, 04:24:39 - istina joined the room
+8.2.2022, 15:41:49 - @vicky:matrix.vick.wtf hat den Nicknamen zu vicky geändert
+8.2.2022, 20:24:25 - ninchuka joined the room
+8.2.2022, 21:41:46 - @_discord_903550009121841184:anonymousplanet.org joined the room
+9.2.2022, 02:24:40 - qwestion joined the room
+9.2.2022, 05:35:34 - anonboi hat den Nicknamen zu RandomRock geändert
+9.2.2022, 06:24:45 - qwestion left the room
+9.2.2022, 11:35:53 - @vicky:matrix.vick.wtf left the room
+10.2.2022, 00:13:31 - qwestion joined the room
+10.2.2022, 05:27:28 - qwestion left the room
+10.2.2022, 05:27:30 - qwestion joined the room
+10.2.2022, 12:16:07 - qwestion left the room
+10.2.2022, 12:16:08 - qwestion joined the room
+10.2.2022, 19:08:46 - qwestion left the room
+10.2.2022, 19:08:48 - qwestion joined the room
+10.2.2022, 23:26:12 - qwestion left the room
+10.2.2022, 23:26:13 - qwestion joined the room
+11.2.2022, 19:37:39 - qwestion left the room
+11.2.2022, 19:37:47 - qwestion joined the room
+12.2.2022, 00:37:53 - NotAccursed hat den Nicknamen zu NotAccursed#5980 geändert
+12.2.2022, 00:37:56 - NotAccursed#5980 hat den Nicknamen zu NotAccursed geändert
+12.2.2022, 03:20:14 - qwestion left the room
+12.2.2022, 14:54:32 - qwestion joined the room
+12.2.2022, 14:54:40 - qwestion left the room
+13.2.2022, 09:59:52 - qwestion joined the room
+13.2.2022, 09:59:52 - qwestion left the room
+13.2.2022, 09:59:53 - qwestion joined the room
+13.2.2022, 12:42:12 - autak_ changed their profile picture
+13.2.2022, 20:39:35 - @_discord_bot:anonymousplanet.org left the room
+13.2.2022, 21:04:55 - I'm Sorry Dave hat @_discord_123937374676844544:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:04:56 - I'm Sorry Dave hat @_discord_160797490222858240:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:04:58 - I'm Sorry Dave hat @_discord_161857856562266112:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:05:00 - I'm Sorry Dave hat @_discord_195735703726981120:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:05:01 - I'm Sorry Dave hat @_discord_213431091837534208:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:05:03 - I'm Sorry Dave hat @_discord_244952568399134720:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:05:05 - I'm Sorry Dave hat @_discord_260869735896449026:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:05:07 - I'm Sorry Dave hat @_discord_272356681852387330:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:05:09 - I'm Sorry Dave hat @_discord_275024139079778305:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:05:10 - I'm Sorry Dave hat @_discord_318424245900148736:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:05:11 - I'm Sorry Dave hat @_discord_319025880825593857:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:05:13 - I'm Sorry Dave hat @_discord_357521311678857216:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:05:14 - I'm Sorry Dave hat @_discord_391646175050072065:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:05:16 - I'm Sorry Dave hat @_discord_391780452253564929:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:05:45 - I'm Sorry Dave hat @_discord_401004655917924353:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:05:47 - I'm Sorry Dave hat @_discord_406771001809174540:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:05:48 - I'm Sorry Dave hat @_discord_440101075668828184:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:05:49 - I'm Sorry Dave hat @_discord_442370494029627422:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:05:49 - I'm Sorry Dave hat @_discord_466019738179600385:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:05:51 - I'm Sorry Dave hat @_discord_483646652398305295:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:05:52 - I'm Sorry Dave hat @_discord_494172608627998720:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:05:53 - I'm Sorry Dave hat @_discord_526203510153281536:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:05:54 - I'm Sorry Dave hat @_discord_530663425781530635:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:05:56 - I'm Sorry Dave hat @_discord_599519649184481280:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:00 - I'm Sorry Dave hat @_discord_615991933197615144:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:03 - I'm Sorry Dave hat @_discord_623186198243835924:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:04 - I'm Sorry Dave hat @_discord_651878279418216477:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:05 - I'm Sorry Dave hat @_discord_681131786620633165:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:07 - I'm Sorry Dave hat @_discord_724533327557820467:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:08 - I'm Sorry Dave hat @_discord_728747521978925057:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:09 - I'm Sorry Dave hat @_discord_744467544852922450:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:11 - I'm Sorry Dave hat @_discord_762106400285392916:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:12 - I'm Sorry Dave hat @_discord_764469367584718869:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:13 - I'm Sorry Dave hat @_discord_766558410724343818:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:14 - I'm Sorry Dave hat @_discord_771009579387584514:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:19 - I'm Sorry Dave hat @_discord_773803986758664192:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:23 - I'm Sorry Dave hat @_discord_784746451593986048:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:24 - I'm Sorry Dave hat @_discord_787143700673331222:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:26 - I'm Sorry Dave hat @_discord_787354497570701312:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:27 - I'm Sorry Dave hat @_discord_787775362544828517:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:27 - I'm Sorry Dave hat @_discord_792000698048053290:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:28 - I'm Sorry Dave hat @_discord_798729595964358668:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:30 - I'm Sorry Dave hat @_discord_799925887335661589:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:31 - I'm Sorry Dave hat @_discord_805096765359521853:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:31 - I'm Sorry Dave hat @_discord_809038267424440330:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:32 - I'm Sorry Dave hat @_discord_815462066629509141:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:33 - I'm Sorry Dave hat @_discord_821870891385487422:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:34 - I'm Sorry Dave hat @_discord_829303484582723634:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:35 - I'm Sorry Dave hat @_discord_844894537306472459:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:39 - I'm Sorry Dave hat @_discord_851186790786400336:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:41 - I'm Sorry Dave hat @_discord_853335835751481344:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:43 - I'm Sorry Dave hat @_discord_856952727723442196:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:44 - I'm Sorry Dave hat @_discord_878055324207177729:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:45 - I'm Sorry Dave hat @_discord_889228048094875688:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:46 - I'm Sorry Dave hat @_discord_894664907700703303:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:47 - I'm Sorry Dave hat @_discord_897281731969814570:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:48 - I'm Sorry Dave hat @_discord_900345203322409020:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:49 - I'm Sorry Dave hat @_discord_903493859315691550:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:50 - I'm Sorry Dave hat @_discord_903550009121841184:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:51 - I'm Sorry Dave hat @_discord_904316581520240684:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:52 - I'm Sorry Dave hat @_discord_904857164630327357:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:54 - I'm Sorry Dave hat @_discord_906239066083831849:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:06:55 - I'm Sorry Dave hat @_discord_907820644329209877:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:07:00 - I'm Sorry Dave hat @_discord_908963409830223872:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:07:02 - I'm Sorry Dave hat @_discord_911193856018616370:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:07:03 - I'm Sorry Dave hat @_discord_917345884965072906:anonymousplanet.org verbannt: discord purge
+13.2.2022, 21:07:04 - I'm Sorry Dave hat @_discord_bot:anonymousplanet.org verbannt: discord purge
+14.2.2022, 06:56:11 - @anonypla:anonymousplanet.org hat Gästen verboten, diesem Raum beizutreten.
+14.2.2022, 18:00:43 - Elliot hat den Nicknamen zu [% .--------..-----.|  |_ .---.-.|       .,a$%|.-----.|  |.-----.|__||  |_ %%]
+ [% |        ||  -__||   _||  _  ||  ,,aS$""`  ||  _  ||  ||  _  ||  ||   _|%%]
+ [% |__|__|__||_____||____||___._||%$P"`       ||   __||__||_____||__||____|%%] geändert
+14.2.2022, 18:06:21 - [% .--------..-----.|  |_ .---.-.|       .,a$%|.-----.|  |.-----.|__||  |_ %%]
+ [% |        ||  -__||   _||  _  ||  ,,aS$""`  ||  _  ||  ||  _  ||  ||   _|%%]
+ [% |__|__|__||_____||____||___._||%$P"`       ||   __||__||_____||__||____|%%] hat den Nicknamen zu 54m53pi01 geändert
+17.2.2022, 02:59:50 - qwestion left the room
+17.2.2022, 02:59:51 - qwestion joined the room
+17.2.2022, 12:53:05 - @karasudidntwakeup:tchncs.de left the room
+17.2.2022, 15:24:43 - notaname joined the room
+17.2.2022, 18:57:08 - qwestion left the room
+17.2.2022, 18:57:09 - qwestion joined the room
+18.2.2022, 00:13:36 - qwestion left the room
+18.2.2022, 00:13:37 - qwestion joined the room
+18.2.2022, 03:30:18 - Nameless hat den Nicknamen zu unknown geändert
+18.2.2022, 07:07:29 - qwestion left the room
+18.2.2022, 07:07:30 - qwestion joined the room
+18.2.2022, 07:35:02 - qwestion left the room
+18.2.2022, 07:35:03 - qwestion joined the room
+18.2.2022, 09:30:47 - Molan Labe joined the room
+18.2.2022, 15:45:50 - qwestion left the room
+18.2.2022, 15:45:51 - qwestion joined the room
+18.2.2022, 18:27:37 - qwestion left the room
+18.2.2022, 18:27:38 - qwestion joined the room
+18.2.2022, 21:10:48 - mrelmt hat das Profilbild gesetzt
+18.2.2022, 22:05:55 - qwestion left the room
+18.2.2022, 22:05:56 - qwestion joined the room
+19.2.2022, 03:00:54 - qwestion left the room
+19.2.2022, 04:46:19 - Bus joined the room
+19.2.2022, 21:14:44 - Satellite joined the room
+20.2.2022, 02:15:18 - qwestion joined the room
+20.2.2022, 02:15:18 - qwestion left the room
+20.2.2022, 02:15:21 - qwestion joined the room
+20.2.2022, 16:23:28 - qwestion left the room
+20.2.2022, 16:23:29 - qwestion joined the room
+20.2.2022, 18:17:10 - Gypsum hat markusklarcus eingeladen
+20.2.2022, 18:17:45 - markusklarcus joined the room
+20.2.2022, 22:12:08 - opsoyo joined the room
+21.2.2022, 02:45:59 - qwestion left the room
+21.2.2022, 02:46:02 - qwestion joined the room
+21.2.2022, 16:52:41 - optout joined the room
+22.2.2022, 20:05:55 - @elenrooz:matrix.org hat den alten Nicknamen elenrooz entfernt
+22.2.2022, 20:05:58 - @elenrooz:matrix.org left the room
+22.2.2022, 21:56:49 - @anonymouseffect:matrix.org joined the room
+22.2.2022, 22:30:22 - @anonymouseffect:matrix.org left the room
+22.2.2022, 22:52:19 - cyber joined the room
+23.2.2022, 01:29:52 - rolodondo9378 hat den Nicknamen zu rolodondo geändert
+23.2.2022, 01:30:32 - rolodondo hat den Nicknamen zu rolodondo34934 geändert
+24.2.2022, 16:52:24 - kadse joined the room
+25.2.2022, 08:29:32 - 54m53pi01 hat den Nicknamen zu 54m53pi01 [ >>> alt @elliot:perthchat.org ] geändert
+25.2.2022, 06:23:54 - Vee joined the room
+25.2.2022, 13:32:24 - 54m53pi01 [ >>> alt @elliot:perthchat.org ] hat den Nicknamen zu 54m53pi01 geändert
+25.2.2022, 14:21:35 - patience 🏳️‍🌈 hat den Nicknamen zu paciento 🏳️‍🌈 geändert
+26.2.2022, 11:02:16 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): > some servers I can rebuild
+
+Remember you won't know if you've been compromised. Those servers can be tampered with covertly
+26.2.2022, 11:03:18 - suspiciousactions: good point, tho i hope until then i have enough stuff to enable me detection.
+26.2.2022, 11:03:18 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): > As my threat model is: "don't worry about internet background and scripters shotgunning around" and "try mitigate nation states for fun, failure has no consequences but burning their ressources" i think i might be fine. 
+
+If that's actually your threat model, then go ahead and publish, as the impact of a breach would be minimal
+26.2.2022, 11:07:31 - suspiciousactions: well, i am some kind of activists and reading that nation states attack them is like.. maybe i am not preparing out of theoretical interest/it might come in handy sometime, but in my activists group nobody would stand a chance besides probably me.. so yeah i think im good. Might or might not have some torrented files (linux distros of course). nothing that would be close to legitimate some fancy operation. Thanks for your thoughts :)
+26.2.2022, 11:09:41 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): Yeah, based on that description, they're not gonna burn a 0-day on you or waste time developing exploits against some script you wrote, just to compromise a few webservers you can rebuild
+26.2.2022, 11:10:39 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): Even without Xen in play, they still need to compromise your guest OS, which already requires a 0-day unless you suck at updates
+26.2.2022, 11:11:42 - suspiciousactions: think that too. also deploying 0-days against qubes user in general might be not a good idea. better go for the clouds instead of some tinfoil hats with logging in audit mode that post their logs upon every hardware glitch they encounter lol
+26.2.2022, 11:12:52 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): It's fine if you don't intend to keep that 0-day for more than a week
+26.2.2022, 11:13:51 - suspiciousactions: thanks for easing the bit paranoia i have. I honestly think that every person in infosec sooner or later gets used to that or simply suck at infosec.
+26.2.2022, 11:13:57 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): Imagie burning a million dollars just to compromise some low-level activist
+26.2.2022, 11:14:10 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): Realistically they'll burn you through the other people in your group
+26.2.2022, 11:14:11 - suspiciousactions: <@memorysafetybelike:envs.net "Imagie burning a million dollars..."> exactly. does not make any sense
+26.2.2022, 11:14:41 - suspiciousactions: if all they care are our comms, then they would just..... join us lol
+26.2.2022, 11:14:54 - suspiciousactions: or pwn their win machines
+26.2.2022, 11:52:18 - gNreg5-3 hat den Nicknamen zu gregP3a geändert
+26.2.2022, 20:10:41 - hv: <@suspiciousactions:matrix.org "if all they care are our comms, ..."> don't you need to have public pseudonyms for HUMINT to be possible?
+26.2.2022, 20:11:39 - hv: or at least you need to know that some group of chatters exists + is worthwhile looking at
+26.2.2022, 21:26:38 - suspiciousactions: <@interface:halogen.city "don't you need to have public ps..."> yeah.
+26.2.2022, 21:27:20 - suspiciousactions: Anybody knows a way to restrict a whonix-gw to **only allow predefined connections**?
+26.2.2022, 21:28:03 - suspiciousactions: i have a great idea to mitigate one completely unlikely attack vector :)
+26.2.2022, 21:32:59 - suspiciousactions: thought a bit more about it. will not do mitigation
+26.2.2022, 21:33:21 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): Each whonx-gw connection is stream isolated, so I'm not sure what attack vector you'd be referring to
+26.2.2022, 21:37:28 - suspiciousactions: prevention of information extraction. whonix makes it hard to detect something like that, so if one would restrict the whonix-gw that i use to connect to my servers to only those onions, it would be much harder to extract. That is the idea.
+
+What i have missed is, that for the adversary to extract information, he must have rce to a machine that is involved in doing the ssh and could simply extract over the server then. In the end one would gain effectively nothing.
+26.2.2022, 21:49:40 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): A better idea might be to add an IDS ProxyVM between your guest and whonix-gw
+26.2.2022, 21:52:57 - suspiciousactions: that would have been my approach. but as the gain is so negligible, i am trying to reduce other risks. For example telling every server all my ssh keys in the worst case.
+26.2.2022, 21:54:58 - suspiciousactions: So i reduce that to the one that is actually needed. Also i revised my system to not store any information about other servers on the dispvm that is doing the remote administration (the dispvms get handcraftet by a vm without network and loaded with the appropriate files)
+26.2.2022, 21:59:17 - suspiciousactions: If you are interested, [this](https://forum.qubes-os.org/t/automation-of-remote-administration/7141) is the basic version i am using at the moment. My next version will incorporate more security and automated setup of everything needed, as i am creating and distributing everything the system needs (vantiy onion, ssh keys, onion auth) by hand right now.
+26.2.2022, 22:04:34 - suspiciousactions: Babba27's Evil Twin (DriftNotSkid) [they|them]: btw nice discussion over in #tor:matrix.org. Enjoyed reading.
+26.2.2022, 23:02:43 - haychk joined the room
+26.2.2022, 23:03:19 - haychk: a
+26.2.2022, 23:16:22 - Lynn joined the room
+26.2.2022, 23:54:55 - suspiciousactions: <@gullbingsu:matrix.org "so started from zero, lets see w..."> How are you doing with your project?
+27.2.2022, 09:37:41 - gullbingsu: <@suspiciousactions:matrix.org "How are you doing with your proj..."> Update: I have successfully ran the vm, with drivers and everything installed(right now its bare bones so lets see if i get any problems along the way)  
+27.2.2022, 09:38:56 - gullbingsu: My only issue is that my revert.sh script for passing the gpu BACK to my host os isnt working properly(not sure why, i must have missed the most microscopical part of it, or its just giving me a hard time for no reason at all haha), but other than that, the VM is running fine 
+27.2.2022, 09:39:41 - gullbingsu: network is working, etc, so im a good spot, tomorrow imma troubleshoot more that revert.sh script, if not, then ill gladly just shutdown my PC everytime im done with the VM, besides, its not like linux takes ages to boot up like windows does lmao 
+27.2.2022, 19:11:01 - Mike Volnov joined the room
+27.2.2022, 20:08:22 - KennyWalther(🕊️Anonypla): guys what do you think about cock.li email provider ? it is safe ? 
+27.2.2022, 20:08:56 - suspiciousactions: it is as unsafe as any other mail providers
+27.2.2022, 20:11:02 - suspiciousactions: or how would you define safe? cock.li does not need software to run on your pc like proton with their bridge or JS in the web ui, so it probably is "safer" than that. It offers you an .onion for smtp, pop n imap so that is safer than mail providers offering only https. of course the provider can read your mail, but this is the case for any mail provider.
+27.2.2022, 20:13:36 - KennyWalther(🕊️Anonypla): <@suspiciousactions:matrix.org "or how would you define safe? co..."> well i'm not to tehnical xD but i think i heared enough xD thx 
+27.2.2022, 20:13:46 - KennyWalther(🕊️Anonypla): i think to switch from proton to cock.li
+27.2.2022, 20:14:10 - suspiciousactions: i use it, but just keep in mind that any mail provider can read you mail if it want's to.
+27.2.2022, 20:15:39 - KennyWalther(🕊️Anonypla): <@suspiciousactions:matrix.org "i use it, but just keep in mind ..."> well yeah , i dont use my email for important things aniway xD email in general its not a secure thing from what i know , but atleast its better than what we have around 
+27.2.2022, 20:25:31 - KennyWalther(🕊️Anonypla): <@narktor:matrix.org "i think to switch from proton to..."> lol i'm that stupid that i forgot my password ,well then i will not switch :))))
+28.2.2022, 10:11:33 - Cryptie EN(she)/FR(elle) joined the room
+28.2.2022, 18:52:56 - @anonypla:anonymousplanet.org: https://nitter.net/AnonyPla/status/1498347643566759945
+28.2.2022, 20:27:11 - mark22k joined the room
+1.3.2022, 08:48:55 - mikkael joined the room
+2.3.2022, 00:03:47 - sss joined the room
+2.3.2022, 01:01:06 - @anonypla:anonymousplanet.org hat das Berechtigungslevel von @anonypla:anonymousplanet.org von Administration zu Standard geändert.
+2.3.2022, 13:32:31 - @anonypla:tchncs.de hat das Berechtigungslevel von @anonypla:anonymousplanet.org von Standard zu Administration geändert.
+2.3.2022, 21:32:26 - Cryptie (she/her) hat den Nicknamen zu Cryptie EN(she)/FR(elle) geändert
+3.3.2022, 06:53:13 - Retnuh1 joined the room
+3.3.2022, 06:59:20 - rolodondo34934 hat den Nicknamen zu rolodondo34 geändert
+3.3.2022, 12:25:48 - Retnuh1 changed their profile picture
+3.3.2022, 17:49:10 - neo_sodom | dead inside hat den Nicknamen zu neo_sodom geändert
+3.3.2022, 19:46:05 - @anonypla:anonymousplanet.org: My real name is Lena, I'm Ukrainian, I'm 22 years old. I live in Kiev. The Russians are about 500m from my building now. We're losing. Obviously. I'm going to transfer all my credentials, projects, and work to another girl who fortunately lives far away from this mess. She'll take over my project and everything. I tried to train her as best I could. She'll do. I will probably vanish soon but you'll never know. Unfortunately, here, my identity is known by the authorities and they know I'm not exactly pro-russian. So you might not see "me" again but you'll see my "friend" instead who I trust 100%. AnonyPla will remain alive. And fuck Putin. 
+3.3.2022, 20:16:28 - @anonypla:anonymousplanet.org hat das Profilbild entfernt
+3.3.2022, 20:16:38 - @anonypla:anonymousplanet.org hat den alten Nicknamen ‌‌‌‌‍‬﻿‍‌‌‌‌‍‬‌‍‌‌‌‌‍﻿‬‍‌‌‌‌‍‬‌‬‌‌‌‌‍‬‍‍‌‌‌‌‌‬‌‌‌‌‌‌‍﻿‍‍‌‌‌‌‌‬‌‌‌‌‌‌‍﻿‌﻿‌‌‌‌‍‬‌‍‌‌‌‌‍﻿‍﻿‌‌‌‌‌‬‌‌‌‌‌‌‍‬﻿‍‌‌‌‌‍‬‍‍‌‌‌‌‌‬‌‌‌‌‌‌‍‬﻿‬‌‌‌‌‍‬‌‍‌‌‌‌‍‬‬﻿‌‌‌‌‍‬‍‍‌‌‌‌‍‬‍‌‌‌‌‌‌‬‌‌‌‌‌‌‍‬﻿﻿‌‌‌‌‍‬﻿‬‌‌‌‌‌‬‌‌‌‌‌‌‍﻿‌‌‌‌‌‌‍‬﻿﻿‌‌‌‌‍﻿‌‬‌‌‌‌‍‬﻿‬‌‌‌‌‍‬‬‌‌‌‌‌‍﻿‍‍‌‌‌‌‍‬‌‬AnonyPla entfernt
+3.3.2022, 20:16:46 - @anonypla:anonymousplanet.org left the room
+3.3.2022, 20:17:56 - @anonypla:tchncs.de hat das Profilbild entfernt
+3.3.2022, 20:17:58 - paciento 🏳️‍🌈: all the best anonypla
+3.3.2022, 20:18:03 - @anonypla:tchncs.de hat den alten Nicknamen AnonyPla alt (>>> @anonypla:anonymousplanet.org) entfernt
+3.3.2022, 20:18:07 - @anonypla:tchncs.de left the room
+3.3.2022, 20:18:17 - paciento 🏳️‍🌈: I guess the putin on a bear thing makes a little more sense
+3.3.2022, 20:42:17 - @anonypla:envs.net hat das Profilbild entfernt
+3.3.2022, 20:42:18 - @anonypla:envs.net hat den alten Nicknamen AnonyPla (alt >> @anonypla:anonymousplanet.org) entfernt
+3.3.2022, 20:42:18 - @anonypla:envs.net left the room
+3.3.2022, 20:43:39 - @anonypla:matrix.org hat das Profilbild entfernt
+3.3.2022, 20:43:49 - @anonypla:matrix.org hat den alten Nicknamen AnonyPla (alt >> @anonypla:tchncs.de) entfernt
+3.3.2022, 20:43:57 - @anonypla:matrix.org left the room
+3.3.2022, 21:40:41 - @butter-passer:matrix.org hat das Profilbild entfernt
+3.3.2022, 21:40:45 - @butter-passer:matrix.org hat den alten Nicknamen Butter Passer entfernt
+3.3.2022, 21:40:49 - @butter-passer:matrix.org left the room
+3.3.2022, 22:26:13 - KennyWalther(Narktor) hat den Nicknamen zu KennyWalther(🕊️Anonypla) geändert
+3.3.2022, 22:30:21 - neo_sodom hat den Nicknamen zu neo_sodom(🕊Anonypla) geändert
+4.3.2022, 00:50:01 - gullbingsu: <@suspiciousactions:matrix.org "i use it, but just keep in mind ..."> Update: Finished the set up, everything working 💯🙏🏽
+4.3.2022, 00:50:15 - gullbingsu: Now im intrigued, i wanna put a macOS vm now 😂
+4.3.2022, 00:55:33 - suspiciousactions: win and gpu passthrough? nice!
+4.3.2022, 00:55:42 - suspiciousactions: does gaming work good?
+4.3.2022, 04:14:18 - Babba27's Evil Twin (DriftNotSkid) [they|them] hat den Nicknamen zu Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla) geändert
+4.3.2022, 05:38:33 - Pepe The Frog: Long live AnonyPla, your loss is a real tragedy. I wish the best for your movement. Feelsbadman...
+4.3.2022, 05:39:06 - Pepe The Frog left the room
+4.3.2022, 09:54:31 - SamLeh: EU published Signal Security Guide - https://twitter.com/CERTEU/status/1499389080387338241
+4.3.2022, 11:08:34 - teddys joined the room
+4.3.2022, 15:39:15 - optout: <@sl:envs.net "EU published Signal Security Gui..."> a guide for this was wholly unnecessary lol
+4.3.2022, 16:00:56 - SamLeh: optout: Well, in this room those things might seem obvious, but I'm sure most of users won't take those actions. They just install the app and use the defaults, without enabling the features in the guide. I had everything in that guide configured, but I belong in the paranoid tinfoil hatter category. 
+4.3.2022, 16:02:17 - KennyWalther(🕊️Anonypla): <@sl:envs.net "EU published Signal Security Gui..."> UwU interesting 
+4.3.2022, 16:33:12 - J.Reacher hat den Nicknamen zu J.Reacher (🕊️AnonyPla) geändert
+4.3.2022, 19:22:20 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): <@pepethefrog01:matrix.org "Long live AnonyPla, your loss is..."> On a related note, PSA is looking for mod applications. Anyone wanting to apply can do so at #psamodapps:envs.net
+5.3.2022, 02:54:25 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla) hat das Thema geändert in "Part of the #p-s-a:matrix.org community. All about (mostly online) security. Read our guide at https://web.archive.org/web/20220227172123/https://anonymousplanet.org/ .Rules: https://privacy-security-anonymity.github.io/chatrooms-rules/ .Enjoy your stay. Off-topic >>> #bnonymity:matrix.org".
+6.3.2022, 02:06:46 - autak_ changed their profile picture
+6.3.2022, 02:07:28 - autak_ changed their profile picture
+6.3.2022, 10:03:10 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): For anyone interested in mirroring the latest published version of AnonyPla's guide, I collected the relevant documents into a single archive
+6.3.2022, 10:03:40 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): AnonyPla.tar.gz (Medien ausgelassen)
+6.3.2022, 10:04:23 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): AnonyPla.zip (Medien ausgelassen)
+6.3.2022, 10:04:49 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): The link to the archive.org mirror can also be found in this room's topic. Alternatively, here's the link:
+6.3.2022, 10:04:49 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): https://web.archive.org/web/20220227172123/https://anonymousplanet.org/
+6.3.2022, 18:58:23 - @ciaobella:matrix.org joined the room
+6.3.2022, 18:58:46 - @ciaobella:matrix.org: https://www.youtube.com/watch?v=hs5hOhI4pEE
+6.3.2022, 19:04:57 - Abdullah: I have made a mirror for the guide: https://thgtoa.ampis.org
+6.3.2022, 19:05:10 - @ciaobella:matrix.org: I'm sorry ... I'm sorry I couldn't keep my project alive ... I'm sorry they managed to delete everything before I could transfer it ...
+6.3.2022, 19:11:29 - paciento 🏳️‍🌈: What are you talking about?
+6.3.2022, 19:26:10 - SamLeh: paciento 🏳️‍🌈: Checking few things... Let's see.... Based on some discussion so far, be cautious is only thing I can say so far... Let's see if my opinion changes... - Based on some private discussions, I've have strange feeling that it was an impostor. Which shouldn't surprise any of us. 
+7.3.2022, 05:43:07 - @ciaobella:matrix.org hat den alten Nicknamen ciaobella entfernt
+7.3.2022, 05:43:14 - @ciaobella:matrix.org left the room
+7.3.2022, 07:23:13 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): <@sl:envs.net "paciento 🏳️‍🌈: Checking few th..."> I can confirm ciaobella is actually AnonyPla
+7.3.2022, 07:23:27 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): Well, *was*. She deletec that account a few hours ago
+7.3.2022, 07:23:37 - SamLeh: <@memorysafetybelike:envs.net "I can confirm ciaobella is actua..."> Yes, I got that. 
+7.3.2022, 13:43:32 - @narktor:matrix.org hat das Profilbild entfernt
+7.3.2022, 13:43:55 - @narktor:matrix.org hat den alten Nicknamen KennyWalther(🕊️Anonypla) entfernt
+7.3.2022, 13:44:13 - @narktor:matrix.org left the room
+7.3.2022, 16:24:01 - neo_sodom(🕊Anonypla) hat den Nicknamen zu neo_sodom geändert
+7.3.2022, 16:51:11 - BaikaAllures joined the room
+7.3.2022, 16:55:21 - allures hat den Nicknamen zu BaikaAllures geändert
+7.3.2022, 21:59:40 - mrqueso joined the room
+8.3.2022, 01:25:53 - gullbingsu: What is yall opinion on secmail? trying to find good pricacy email providers, i know email aint really secure no matter what you use, but im trynna minimize data taken from me as much as i can
+8.3.2022, 01:26:18 - gullbingsu: I have tutanota and proton depending on what im registering for, but i want something more private if its possible and i resd about secmail in some comments online
+8.3.2022, 06:54:05 - optout hat das Profilbild gesetzt
+8.3.2022, 07:51:56 - suspiciousactions: No mail provider can be trusted. In the end they can read you mail, they can be hacked, an admin can go rogue, whatever.
+If you do not want ppl to read your mail, there is no way around encrypting your mail.
+8.3.2022, 07:52:00 - suspiciousactions: (yourself)
+8.3.2022, 14:32:31 - optout: it's unfortunate that it takes two to tango with that sort of thing
+8.3.2022, 15:09:12 - suspiciousactions: yeah :/
+8.3.2022, 15:55:44 - optout: One thing i like to do, specifically with information that has my SSN/NINO, is use symmetric encryption with proton to the receiver then just let them know the pass over the phone. Then timed deletion after a week. It works well if you don't want private stuff sitting on a vuln email server for years
+8.3.2022, 16:02:19 - SamLeh: Message deleted
+8.3.2022, 16:06:19 - optout: lol, well that wont work if the receiving party doesnt have a pubkey
+8.3.2022, 17:15:43 - SamLeh: Yes, that's why I always publish my public signing keys. Keybase, pgp key-servers, my homepage, my domain dns, and so on.
+8.3.2022, 17:28:56 - optout: Be the change you want to see. But unfortunately most dont give a shit. I.e. apartment complex managers
+8.3.2022, 17:29:10 - optout: or the IRS, tax consultants etc etc
+8.3.2022, 17:44:32 - SamLeh: optout: Yes, I know... Many organizations use secure link sent in email for "secret" content, which of course sucks. Yet Hetzner did accept passport copy in pgp mail.
+8.3.2022, 18:22:31 - suspiciousactions: "secure link" bahahahhaha what is a secure link?
+8.3.2022, 18:23:42 - suspiciousactions: is there any type of access control on that "secure link"?
+8.3.2022, 18:24:50 - suspiciousactions: what would hinder the adversary that could read your mail (if he could not, you would not need encryption) to fork it? most likely he can, if he can read yo mail. Then he could juts mitm you with another link going to his server and relay all theoretical authentication that may occur. So much security yes... pls gimme more of them "secure links" bahahahaa
+8.3.2022, 18:25:06 - suspiciousactions: dunno never workes with one, is that how it is used/implemented?
+8.3.2022, 18:57:20 - optout: <@suspiciousactions:matrix.org "is there any type of access cont..."> For decently hardened email servers and 2fa, it's unlikely to be intercepted. Proton uses symmetric encryption. A small span of time plus the decryption pass given via another channel, i dont see interception being likely unless theyre fairly sophisticated. Could it happen? sure. but the amount of time the actor would have to act on is also low given the set time
+8.3.2022, 18:59:23 - suspiciousactions: So why bother with mail encryption at all?
+8.3.2022, 18:59:29 - suspiciousactions: or "secure links"?
+8.3.2022, 19:30:10 - optout: When you have no other option and dealing with normie conformies
+8.3.2022, 20:15:30 - ... hat den alten Nicknamen clouderz entfernt
+8.3.2022, 20:15:35 - @clouderz:matrix.org hat den Nicknamen zu ... geändert
+8.3.2022, 20:15:37 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): <@suspiciousactions:matrix.org "is there any type of access cont..."> Not really. They usually use an access token passed as a GET query string, and that's about it
+8.3.2022, 20:16:48 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): Sometimes they'll expire the link after a certain amount of time. Other times they won't bother and the link will remain valid indefinitely
+8.3.2022, 20:19:44 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): <@suspiciousactions:matrix.org "what would hinder the adversary ..."> That's highly unnecessary. All they need to do is type the same link into their browser to see the content meant for you
+8.3.2022, 20:19:49 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): No MitM necessary
+8.3.2022, 20:22:01 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): When there *is* authentication, which is pretty rare anyway, it's just gonna be a normal login prompt, so even in the most secure case, a basic phishing page will be enough
+8.3.2022, 20:27:38 - ... left the room
+8.3.2022, 20:30:26 - SamLeh: suspiciousactions: In most of cases the secure link option lacks proper access control. Only very rarely with banks, and government entities, financial houses etc, there might be proper strong authentication.
+8.3.2022, 20:30:59 - suspiciousactions: <@memorysafetybelike:envs.net "That's highly unnecessary. All t..."> yeah i never encountert that... if it is just a simple link.. lol. Thought it might need some authentication that was send over another channel or something..
+8.3.2022, 20:31:10 - suspiciousactions: <@memorysafetybelike:envs.net "Not really. They usually use an ..."> oof
+8.3.2022, 20:32:01 - suspiciousactions: so it is security theatre with the nice advantage of having an enforced "read by receiver" confirmation + some tracking (ip, fingerprinting, what have you)
+9.3.2022, 15:40:47 - leopoldo89 joined the room
+12.3.2022, 04:02:54 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla) hat das Thema geändert in "Part of the #p-s-a:matrix.org community. All about (mostly online) security. Read our guide at https://web.archive.org/web/20220227172123/https://anonymousplanet.org/ .Rules: https://privacy-security-anonymity.github.io/chatrooms-rules/ .Enjoy your stay. Off-topic >>> #bnonymity:matrix.org WARNING: A GitHub account claiming to be AnonyPla has popped up. It looks legit, except it's not. It's important to remember her cryptographic keys and account were compromised by the Russian military, and as such, her old accounts cannot be trusted".
+12.3.2022, 04:02:59 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): @room A GitHub account claiming to be AnonyPla has popped up. It looks legit, except it's not. It's important to remember her cryptographic keys and account were compromised by the Russian military, and as such, her old accounts cannot be trusted
+12.3.2022, 08:05:46 - mikkael left the room
+12.3.2022, 09:12:41 - 54m53pi01 changed their profile picture
+12.3.2022, 09:16:37 - TK joined the room
+12.3.2022, 09:16:37 - @takeru_takaishi:mozilla.org joined the room
+12.3.2022, 13:03:51 - steel_titan: compromised by russia daaamn
+12.3.2022, 13:03:54 - steel_titan: poggers
+12.3.2022, 13:05:05 - steel_titan: how did you know it was ru military tho?
+12.3.2022, 13:07:23 - someone711 joined the room
+12.3.2022, 14:19:25 - the_4n0nym0u53: Damn you Russia
+12.3.2022, 18:01:16 - @takeru_takaishi:mozilla.org left the room
+12.3.2022, 21:57:28 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla) hat das Thema geändert in "Part of the #p-s-a:matrix.org community. All about (mostly online) security. Read our guide at https://anonymousplanet-ng.org .Rules: https://privacy-security-anonymity.github.io/chatrooms-rules/ .Enjoy your stay. Off-topic >>> #bnonymity:matrix.org WARNING: A GitHub account claiming to be AnonyPla has popped up. It looks legit, except it's not. It's important to remember her cryptographic keys and account were compromised by the Russian military, and as such, her old accounts cannot be trusted".
+13.3.2022, 02:47:49 - alexandrite hat francis eingeladen
+13.3.2022, 02:47:53 - francis joined the room
+13.3.2022, 05:46:53 - hv hat einen Sticker gesendet. (Medien ausgelassen)
+13.3.2022, 10:47:46 - snowstaff joined the room
+13.3.2022, 13:10:40 - skumar joined the room
+13.3.2022, 18:39:57 - SamLeh: <@steel_titan:fairydust.space "how did you know it was ru milit..."> Let's just say it's very plausible in this specific case for certain reasons. 100% confirmation at this point, nope.
+13.3.2022, 18:45:31 - Unknown User joined the room
+13.3.2022, 20:05:58 - mrbellum joined the room
+13.3.2022, 20:33:47 - hv: <img data-mx-emoticon height=48 src="mxc://halogen.city/f08dff961e67d661751e34b9867749bda2989dfd" alt="Trolololololololo" title="Trolololololololo">
+13.3.2022, 20:51:52 - paciento 🏳️‍🌈: oh no.. hv was one of the good ones
+13.3.2022, 20:52:15 - hv: H-huh!?
+13.3.2022, 20:52:36 - hv: So uh, did anony just get hacked and disappear?
+13.3.2022, 20:53:12 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): She didn't get hacked, the Russian military captured her and tortured her for her FDE password
+13.3.2022, 20:53:21 - hv: 😅
+13.3.2022, 20:54:48 - hv: Also does anyone know anything about Electron? I have never heard anything about their security.
+13.3.2022, 20:58:15 - paciento 🏳️‍🌈: I've heard nothing but bad things about it security-wise
+13.3.2022, 21:06:58 - hv: Any things you can link?
+13.3.2022, 21:11:04 - hv: https://blog.bentkowski.info/2018/07/vulnerability-in-hangouts-chat-aka-how.html
+13.3.2022, 21:11:19 - hv: First link I found from HN search. Interesting.
+13.3.2022, 21:15:34 - paciento 🏳️‍🌈: <@interface:halogen.city "Any things you can link?"> Nothing that addresses all the key issues in one place, unfortunately. In my bookmarks all I have are 
+
+- https://www.electronjs.org/docs/latest/tutorial/sandbox which is their first hand explanation of constraints they face with sandboxing, 
+- https://no-sandbox.io/#applications-that-use-the---no-sandbox-flag-when-running-chromium-and-chrome-based-applications-and-may-expose-users-to-rce-vulnerabilities which shows some examples, 
+- https://github.com/electron/electron/tree/main/chromium_src presumably because they used to lag a bit behind Chromium releases
+- https://github.com/electron/electron/blob/main/build/args/all.gn#L36 which probably has justification but again is not great
+13.3.2022, 21:50:55 - madaidan.: They ruin the sandbox, exploit mitigations and other security features 
+13.3.2022, 21:51:15 - madaidan.: It's not designed for running untrusted/vulnerable code 
+14.3.2022, 00:52:18 - hv: So what I am getting from this is that because it's really trendy, we should make every corporate app rely on it for the next 30 years?
+14.3.2022, 00:52:57 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): That's basically what's happening already
+14.3.2022, 00:54:23 - hv: Message deleted
+14.3.2022, 00:54:57 - hv: Message deleted
+14.3.2022, 07:03:42 - black_label_xx joined the room
+14.3.2022, 09:40:21 - paciento 🏳️‍🌈: <@interface:halogen.city "So what I am getting from this i..."> It's not popular because it is trendy. It is likely popular because it fills a growing need.
+14.3.2022, 10:16:37 - neo_sodom: <@hypokeimenon:tchncs.de "It's not popular because it is t..."> What needs do Facebook and Tiktok fill?
+14.3.2022, 10:19:49 - paciento 🏳️‍🌈: We are talking about Electron.
+14.3.2022, 10:26:20 - neo_sodom: Ah, I thought you meant in general
+14.3.2022, 15:33:00 - codingvoid joined the room
+15.3.2022, 03:35:24 - Onessa: https://arstechnica.com/information-technology/2022/03/researcher-uses-600-year-old-algorithm-to-crack-crypto-keys-found-in-the-wild/
+15.3.2022, 03:39:57 - hv: Addition is an old algorithm too. Journalists are obnoxious.
+15.3.2022, 03:40:24 - hv: Still a very neat article!
+15.3.2022, 03:43:51 - hv: Eh, probably insensitive to say that- they do need to make their money...
+15.3.2022, 06:26:47 - SamLeh: Message deleted
+15.3.2022, 08:11:19 - paciento 🏳️‍🌈: Maybe journalists need to be obnoxious to make more money.
+16.3.2022, 22:57:27 - alexandrite left the room
+17.3.2022, 00:03:13 - francis left the room
+18.3.2022, 08:17:43 - dibi58 joined the room
+18.3.2022, 12:13:06 - shasta- joined the room
+18.3.2022, 17:40:48 - snowstaff left the room
+18.3.2022, 23:01:36 - NT ZERO changed their profile picture
+18.3.2022, 23:09:42 - NT ZERO changed their profile picture
+19.3.2022, 00:24:00 - autak_ hat den Nicknamen zu 4ut4k geändert
+19.3.2022, 00:24:08 - 4ut4k changed their profile picture
+19.3.2022, 08:01:44 - opsoyo hat den Nicknamen zu opsoyo (Old) geändert
+19.3.2022, 21:55:27 - @xdxanslfqjctozjeg:matrix.org hat den alten Nicknamen xyhhx entfernt
+20.3.2022, 08:37:25 - opsoyo (Old) hat opsoyo eingeladen
+20.3.2022, 08:37:48 - opsoyo joined the room
+20.3.2022, 12:11:52 - Anderson joined the room
+20.3.2022, 17:55:09 - NT ZERO hat den Nicknamen zu ZERO SUGAR geändert
+20.3.2022, 22:32:04 - Jared Mohammed joined the room
+21.3.2022, 00:55:28 - Jared Mohammed left the room
+21.3.2022, 14:14:02 - 54m53pi01 left the room
+21.3.2022, 19:39:30 - @steel_titan:fairydust.space hat das Profilbild entfernt
+21.3.2022, 19:39:45 - @steel_titan:fairydust.space hat den alten Nicknamen steel_titan entfernt
+21.3.2022, 19:39:47 - @steel_titan:fairydust.space left the room
+22.3.2022, 02:47:56 - grubzz joined the room
+22.3.2022, 08:33:49 - @xdxanslfqjctozjeg:matrix.org changed their profile picture
+22.3.2022, 21:30:57 - silly-goose-420-69 joined the room
+22.3.2022, 21:31:40 - silly-goose-420-69 left the room
+23.3.2022, 03:29:03 - Anderson changed their profile picture
+23.3.2022, 03:30:18 - Anderson hat das Profilbild entfernt
+23.3.2022, 03:31:07 - Anderson hat das Profilbild gesetzt
+23.3.2022, 03:56:27 - wired joined the room
+23.3.2022, 06:24:27 - opsoyo (Old) left the room
+23.3.2022, 21:08:11 - dybyxiv joined the room
+23.3.2022, 21:08:49 - dybyxiv: Hello, is there anybody alive here? 
+23.3.2022, 22:27:25 - 0xbad1dea: Sup?
+24.3.2022, 02:18:02 - organized global software reviewing on alternativeto.net: <@dybyxiv:matrix.org "Hello, is there anybody alive he..."> hello
+24.3.2022, 02:19:27 - organized global software reviewing on alternativeto.net: not much happens in this chat does it, off to greener pastures 🙂
+24.3.2022, 02:19:42 - organized global software reviewing on alternativeto.net left the room
+24.3.2022, 08:14:54 - 7r1x joined the room
+24.3.2022, 12:42:38 - mrelmt changed their profile picture
+24.3.2022, 15:34:42 - winky joined the room
+24.3.2022, 20:02:02 - Mike joined the room
+24.3.2022, 20:28:12 - t0mm1gun hat den Nicknamen zu Mike geändert
+25.3.2022, 01:09:11 - Anderson hat das Profilbild entfernt
+25.3.2022, 01:09:50 - Anderson hat das Profilbild gesetzt
+25.3.2022, 03:26:48 - DPTUK joined the room
+25.3.2022, 06:49:41 - paraffin left the room
+25.3.2022, 13:05:57 - @see_me_not_today:matrix.org hat den alten Nicknamen see_me_not_today entfernt
+25.3.2022, 13:08:07 - @see_me_not_today:matrix.org left the room
+25.3.2022, 23:29:11 - grubzz: I have a very urgent question
+25.3.2022, 23:29:21 - grubzz: Best security/privacy friendly SMS app
+25.3.2022, 23:44:30 - optout: briar
+25.3.2022, 23:49:32 - grubzz: <@optout:matrix.org "briar"> welllll thats not really sms, that would be a messaging app 
+25.3.2022, 23:50:01 - grubzz: what im looking for is an SMS app that is safe to use on a developer/user standpoint, as SMS will never be secured the way briar would be 
+26.3.2022, 00:11:57 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): <@grubzz:matrix.org "what im looking for is an SMS ap..."> Signal?
+26.3.2022, 00:12:34 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): Or Silence, which is a Signal fork for SMS only, although almost nobody uses it, so it's not gonna be very useful
+26.3.2022, 00:13:00 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): Also, Silence still leaks metadata (message timestamps, senders/recipients, etc)
+26.3.2022, 00:13:26 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): The real answer is Signal
+26.3.2022, 00:14:16 - grubzz: <@memorysafetybelike:envs.net "Also, Silence still leaks metada..."> iknew about them but they stopped maintaining it so im definitely not using it haha 
+26.3.2022, 00:14:49 - grubzz: And yeah i guess ill stick to signal-foss for the meantime until they go downhill cause sadly, its happening slowly lmao 
+26.3.2022, 00:15:33 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): What, because Signal's developers realize the importance of making their app user-friendly?
+26.3.2022, 00:17:34 - grubzz: No, ijust got informed a bit more, but because of the MobileCoin stuff 
+26.3.2022, 00:18:04 - grubzz: But for what i just got informed its an opt-in thing so i dont even have to go through that stuff, which will require KYC 
+26.3.2022, 00:18:29 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): Everyone hates on Signal for MobileCoin. It's stupid
+26.3.2022, 00:19:00 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): Signal actually bothers to make a privacy-respecting alternative to PayPal/CashApp/Venmo and they get shit thrown at them
+26.3.2022, 00:19:42 - grubzz: Well only reason ive seen personally, its the KYC that it will require 
+26.3.2022, 00:19:57 - grubzz: thats literally the only problem ive seen the people have a problem with 
+26.3.2022, 00:20:38 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): <@grubzz:matrix.org "Well only reason ive seen person..."> Isn't it annoying when you find out your favorite privacy-oriented tools have to comply with laws?
+26.3.2022, 00:20:48 - grubzz: if people are hating just to hate then thats stupid cause its good they are adapting crypto
+26.3.2022, 00:21:22 - grubzz: <@memorysafetybelike:envs.net "Isn't it annoying when you find ..."> Well, CoinFlip functions, no KYC , law abiding 
+26.3.2022, 00:21:55 - grubzz: And thats an ATM which tbh, i believe, if i was a government, i would HIGHLY regulate it(if it was my interest to be like the government is) 
+26.3.2022, 00:23:40 - grubzz: But again, what do i know, im only speculating on what i see and getting prepared for a "what if"  
+26.3.2022, 00:23:45 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): ATMs aren't KYC-less. They just have it in the form of security cameras and/or facial recognition built into the machine itself
+26.3.2022, 00:24:01 - grubzz: <@memorysafetybelike:envs.net "ATMs aren't KYC-less. They just ..."> Literally went in, masked up to the brim 
+26.3.2022, 00:24:12 - grubzz: Not for hiding myself, cause covid 😭😂😂😂😂
+26.3.2022, 00:24:34 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): An easier way might be just to convert it to Monero and let it sit in a Monero wallet instead of a BTC wallet
+26.3.2022, 00:25:15 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): Also, gait analysis, eye scanning, and earlobe analysis can still identify you in meatspace
+26.3.2022, 00:25:49 - grubzz: <@memorysafetybelike:envs.net "Also, gait analysis, eye scannin..."> I was wearing dark glasses with a hodie on tied 
+26.3.2022, 00:25:59 - grubzz: Dont ask, its a habit of mines since a kid 😂😂😂
+26.3.2022, 00:26:40 - grubzz: Nah but i aint even gonna argue that i already know these alphabet agencies be damn near identifying people by their pore counts 😂
+26.3.2022, 00:27:24 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): I'd still just recommend using an online exchange and converting it to Monero. It's a lot easier and have a lot fewer pitfalls that can identify you nexpectedly
+26.3.2022, 00:33:35 - grubzz: Facts Facts, but nah i was just looking for alternatives, but for what im being told it wont affect me ifi dont want to use MobileCoin, so as lomg as it stays like that, im more than happy to be on board with signal in the long run 
+26.3.2022, 00:34:16 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): > but for what im being told it wont affect me ifi dont want to use MobileCoin
+
+You were informed correctly
+26.3.2022, 00:34:16 - grubzz: although it woukd be beautiful to have everybody om Briar but you know, iphone people are to prideful to even go down that route, so that wont happen any time soon 😂
+26.3.2022, 00:34:43 - grubzz: <@memorysafetybelike:envs.net "> but for what im being told it ..."> them im gucci, signal will stay on my phone for the rest of time till they do shady stuff which i doubt it
+26.3.2022, 00:35:54 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): The day Signal does shady shit is a very dark day in history. I won't say it can't happen, but I trust them for the foreseeable future
+26.3.2022, 00:36:56 - hv: The crypto stuff seems to come from a very peculiar vocal minority, you can see them act up on Hacker News sometimes actually
+26.3.2022, 00:37:35 - hv: Most of the problems (aside from environmental) that they cherrypick are just conjured as if they don't have solutions
+26.3.2022, 00:37:47 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): When Signal first announced MobileCoin I couldn't talk about Signal for 5 full minutes without that being brought up as a problem
+26.3.2022, 00:38:56 - hv: People bring up the problem of wallet security. "What if you carry your life savings in your mobile wallet and they get stolen?" To which I say, you probably wouldn't ever carry your life savings for any reason, as you don't do so normally...
+26.3.2022, 00:39:23 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): Now every time I hear someone mention Signal doing sketchy shit, I roll my eyes and assume they're talking about MobileCoin or some stipid unfounded claim that it's a honeypot
+26.3.2022, 00:39:55 - hv: In the future, I think people will have the lion's share of their money held in some kind of multi signature wallet, signed by themselves + the bank or other entity
+26.3.2022, 00:40:08 - hv: If crypto becomes more adopted, of course
+26.3.2022, 00:41:19 - hv: Also, how do most crypto ATMs work? Do many of the existing ones support the idea of printing out a paper wallet in exchange for cash?
+26.3.2022, 00:42:49 - hv: I always thought that was so cool (if you trust the operator), because of the psychological wow factor of holding what you could say is a 'paper note' of cryptocurrency, side-by-side with a USD or other note, hah
+26.3.2022, 00:43:30 - hv: And of course you would send it to yourself as soon as you could, but the notion that that could be, is quite cool!
+26.3.2022, 01:14:54 - grubzz: Whoever talks about wallet security and "im walking aroundwith my life savings" must have forgotten that hardware wallets are a thing lmao 
+26.3.2022, 01:16:31 - grubzz: I do know the atm i use its judt a phone number for verification code, put cash in, put the QR codein front of the camera to scan, and you're on your way out 
+26.3.2022, 01:16:58 - grubzz: Idk if that counts as "Paper wallet" or something of that sort since you cant type in your address, its strictly QR code, but yeah
+26.3.2022, 01:26:38 - hv: <@grubzz:matrix.org "Idk if that counts as "Paper wal..."> A paper wallet is a cryptocurrency wallet that is stored on paper. I was referencing one guy's open source ATM project, in which the idea is for the ATM to take cash and simply print out the details to a wallet containing the corresponding amount of cryptocurrency, no phone involved
+26.3.2022, 01:26:54 - hv: Which could be typed/scanned on a desktop/phone later on
+26.3.2022, 01:27:15 - hv: With the option of direct payment via scanning a QR right there, too, of course
+26.3.2022, 19:19:07 - Deathrow joined the room
+26.3.2022, 22:05:34 - FrostyBalls joined the room
+26.3.2022, 22:23:06 - hv left the room
+27.3.2022, 09:00:05 - gu87 joined the room
+27.3.2022, 14:37:40 - inuimamba joined the room
+27.3.2022, 17:27:45 - null-void joined the room
+27.3.2022, 23:48:05 - mockingjay joined the room
+29.3.2022, 04:40:15 - viresinnumeris joined the room
+29.3.2022, 05:35:12 - goofybirb joined the room
+29.3.2022, 17:15:16 - mockingjay hat das Profilbild gesetzt
+29.3.2022, 20:39:03 - MethodXt joined the room
+29.3.2022, 21:33:57 - inuimamba hat das Profilbild gesetzt
+30.3.2022, 03:02:45 - @wired:tchncs.de hat das Profilbild entfernt
+30.3.2022, 03:07:31 - @wired:tchncs.de hat den alten Nicknamen wired entfernt
+30.3.2022, 03:15:31 - @wired:tchncs.de left the room
+30.3.2022, 06:17:30 - xbdm joined the room
+30.3.2022, 10:43:32 - edq joined the room
+30.3.2022, 14:46:55 - Wolf Lightning 🐺 joined the room
+30.3.2022, 22:38:48 - dibi58 left the room
+30.3.2022, 23:20:57 - LosL0bOsS5 joined the room
+31.3.2022, 10:56:01 - dark_fire joined the room
+31.3.2022, 21:40:05 - han_infosecg joined the room
+31.3.2022, 23:05:42 - DarkP joined the room
+1.4.2022, 12:05:00 - Sirius Bell joined the room
+1.4.2022, 16:06:14 - Pieter joined the room
+1.4.2022, 19:56:15 - @xdxanslfqjctozjeg:matrix.org changed their profile picture
+1.4.2022, 20:52:59 - Methodxt hat den Nicknamen zu MethodXt geändert
+2.4.2022, 23:36:49 - mockingjay left the room
+6.4.2022, 18:59:37 - ks684pbfgz joined the room
+6.4.2022, 20:11:01 - D15N6U joined the room
+7.4.2022, 04:10:25 - Lynn hat den Nicknamen zu Lynnn geändert
+7.4.2022, 06:17:31 - D15N6U left the room
+7.4.2022, 14:10:55 - 2022element joined the room
+7.4.2022, 17:49:48 - metsees joined the room
+7.4.2022, 20:12:35 - eth99 joined the room
+7.4.2022, 23:42:19 - tokyo51 joined the room
+8.4.2022, 10:51:44 - SlickRick joined the room
+8.4.2022, 10:52:26 - SlickRick: If a system is completely secure aside from a hardware keylogger, I assume it would have no networking capability and must write your key strokes on to a storage that must be retrieved to be read. Is that accurate?
+8.4.2022, 10:52:48 - SlickRick: I've just read https://theintercept.com/2018/04/28/computer-malware-tampering/ to learn about some of the evil maid attacks (at least circa 2016)
+8.4.2022, 11:01:00 - SlickRick: Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): Fascinating example of the Canary in action. Just recently i've been exposed to this concept.
+8.4.2022, 11:01:46 - SlickRick: Establish a clear pattern which gives you some plausibly deniable way of signalling that you are comrpomised without triggering any legal action against you (in this case).
+8.4.2022, 17:16:17 - switchtheswitch joined the room
+9.4.2022, 14:33:16 - 🌞🍄💞ᖴYᖇE♡᙭ᗩᖇᗩ⚡️💋🎉 joined the room
+9.4.2022, 17:52:05 - qwestion left the room
+9.4.2022, 18:51:07 - qwestion joined the room
+9.4.2022, 19:44:01 - burnt.theorem joined the room
+9.4.2022, 21:15:51 - formic joined the room
+9.4.2022, 23:37:09 - 🌞🍄💞ᖴYᖇE♡᙭ᗩᖇᗩ⚡️💋🎉 left the room
+10.4.2022, 09:49:48 - cr0gs joined the room
+10.4.2022, 23:53:59 - xbdm left the room
+11.4.2022, 04:07:51 - SlickRick: Does anyone know what protections the Nitro Key Pro 2 has against malicious tampering in transit?
+11.4.2022, 04:08:15 - SlickRick: I know the storage pro has the ability to dump the firmware & verify it, but not the Pro 2
+11.4.2022, 04:08:56 - SlickRick: Just wondering if someone has a sense of how complicated it would be to interdict, maliciously alter the firmware, reassemble & push on, to get a sense of exactly what Threat Model type classification that would fall under.
+11.4.2022, 10:22:38 - oneno joined the room
+11.4.2022, 12:29:51 - jan6 joined the room
+11.4.2022, 20:22:04 - hv joined the room
+12.4.2022, 00:39:20 - Onessa: https://nakedsecurity.sophos.com/2022/04/11/openssh-goes-post-quantum-switches-to-qubit-busting-crypto-by-default/
+12.4.2022, 01:33:18 - u439899875446554577 joined the room
+12.4.2022, 06:28:38 - jimmythinkpad joined the room
+12.4.2022, 10:50:02 - sabou joined the room
+12.4.2022, 20:59:50 - solonovamax joined the room
+14.4.2022, 00:11:44 - nenetl joined the room
+14.4.2022, 01:28:20 - darlatan joined the room
+14.4.2022, 01:29:07 - darlatan: came to share
+14.4.2022, 01:29:08 - darlatan: https://gist.github.com/AnonyPla/5c0e5bf2185b225aafa7ce8fc88963ec
+14.4.2022, 02:33:39 - rhospix joined the room
+14.4.2022, 03:43:11 - zmcintosh joined the room
+14.4.2022, 06:23:45 - . joined the room
+14.4.2022, 17:17:38 - BaikaAllures: Nice catch 
+14.4.2022, 17:17:55 - BaikaAllures: 0xbad1dea: nice now you ban free speech 
+14.4.2022, 17:18:02 - BaikaAllures: Just like babba
+14.4.2022, 17:18:04 - BaikaAllures: xD
+14.4.2022, 17:18:19 - BaikaAllures: You banned the thruth 
+14.4.2022, 17:18:59 - 0xbad1dea hat BaikaAllures verbannt: Intentional misgendering
+14.4.2022, 17:18:24 - BaikaAllures: xD
+14.4.2022, 17:19:15 - 0xbad1dea: Saved me the trouble of looking them up
+14.4.2022, 17:18:32 - BaikaAllures: Come on ban me xD here too
+14.4.2022, 18:07:28 - zmcintosh left the room
+15.4.2022, 12:17:51 - darlatan: So
+I bring some good news and then you won't hear from me again probably
+For those who care
+If that "Lena" is AnonyPla ... She has been transferred overnight by a medical plane chartered by MSF to Munich in Germany. I won't divulge any other detail. But if it's her. She's alive and now in good hands.
+(Her and a dozen other wounded people)
+15.4.2022, 16:09:35 - @minori:matrix.org joined the room
+15.4.2022, 18:16:48 - neo_sodom changed their profile picture
+15.4.2022, 22:22:30 - petra joined the room
+16.4.2022, 06:55:39 - SlickRick: Message deleted
+16.4.2022, 06:56:24 - SlickRick: Message deleted
+16.4.2022, 06:56:35 - SlickRick: Message deleted
+16.4.2022, 06:57:05 - SlickRick: Message deleted
+16.4.2022, 06:58:11 - Alexa,SaveThePlanet joined the room
+16.4.2022, 07:34:34 - Alexa,SaveThePlanet: <@karlq:matrix.org "Someone ban Darlatan already"> why, he give info for people who care
+16.4.2022, 07:51:16 - SlickRick: Message deleted
+16.4.2022, 07:51:51 - SlickRick: Message deleted
+16.4.2022, 09:08:55 - @darlatan:matrix.org left the room
+16.4.2022, 11:53:45 - Alexa,SaveThePlanet hat das Profilbild gesetzt
+16.4.2022, 13:13:13 - Alexa,SaveThePlanet changed their profile picture
+16.4.2022, 13:13:31 - Alexa,SaveThePlanet changed their profile picture
+16.4.2022, 13:14:00 - Alexa,SaveThePlanet changed their profile picture
+16.4.2022, 13:14:25 - alexa//saveplanet hat den Nicknamen zu Alexa,SaveThePlanet geändert
+16.4.2022, 21:11:37 - 0xbad1dea: <@karlq:matrix.org "> banned BaikaAllures (@allures:..."> https://privacy-security-anonymity.github.io/chatrooms-rules/
+> Rules regarding hate crimes [sic] (racism, homophobia, transphobia, intolerance, etc.) are strictly enforced. This includes intentionally misgendering users, as well as other microaggressions.
+
+Thems the rules
+16.4.2022, 21:12:32 - 0xbad1dea: <@karlq:matrix.org "He's ignoring requests for any k..."> Worst case, it's off topic but I don't see how it's a bannable reason unless they continue to do it repeatedly
+16.4.2022, 21:47:06 - hv: Message deleted
+16.4.2022, 21:47:15 - hv: Message deleted
+16.4.2022, 21:47:31 - hv: Message deleted
+16.4.2022, 22:10:08 - Alexa,SaveThePlanet: Message deleted
+16.4.2022, 22:10:47 - Alexa,SaveThePlanet: Message deleted
+16.4.2022, 22:29:43 - mazerfaker: Dont talk about trolls in this room, please
+17.4.2022, 00:33:57 - @minori:matrix.org hat den alten Nicknamen Minori entfernt
+17.4.2022, 01:30:49 - SlickRick: 0xbad1dea: Yes i was joking :). And my bad, i'll keep lax chat in Bnonymity
+17.4.2022, 01:53:18 - Onessa: https://github.com/levlesec/lockup
+17.4.2022, 06:32:05 - kj7rrv joined the room
+17.4.2022, 06:33:50 - kj7rrv: Are correct horse battery staple-style passwords still considered secure?
+17.4.2022, 06:34:00 - kj7rrv: And how many words should I use?
+17.4.2022, 08:11:53 - Enzo: Just use a password manager and generate massively long passwords
+17.4.2022, 08:12:00 - Enzo: That'd the state of the art
+17.4.2022, 08:12:43 - SlickRick: Wtf is a horse battery staple-style password :'D ?
+17.4.2022, 08:12:52 - SlickRick: I use Keepassxc & you can get very strong passwords
+17.4.2022, 08:13:41 - Enzo: <@karlq:matrix.org "Wtf is a horse battery staple-st..."> Xkcd
+17.4.2022, 08:15:23 - SlickRick: Ok, so a set of memorable words that are random linked together with hyphens?
+17.4.2022, 08:16:08 - Enzo: Long sentence, easy to remember
+17.4.2022, 08:18:37 - SlickRick: Ok, as opposed to complicated with less letters / symbols
+17.4.2022, 08:19:28 - SlickRick: I've got complicated 20-30 letter/symbol p/w's for my disk & password manager, everything else I don't have to remember thanks to the P/w manager
+17.4.2022, 09:23:32 - SlickRick: https://forums.whonix.org/t/hardcore-hardware-control-and-tips/8559
+17.4.2022, 10:45:59 - cyphix changed their profile picture
+17.4.2022, 12:50:13 - janesch joined the room
+17.4.2022, 13:25:59 - Elliot Alderson joined the room
+17.4.2022, 13:28:05 - Alexa,SaveThePlanet changed their profile picture
+17.4.2022, 13:30:08 - Alexa,SaveThePlanet changed their profile picture
+17.4.2022, 13:30:58 - Alexa,SaveThePlanet changed their profile picture
+17.4.2022, 13:31:46 - Alexa,SaveThePlanet changed their profile picture
+17.4.2022, 15:49:49 - SlickRick: Does anyone have a good resource that describes the most common types of hardware attacks in the wild? Like implants.
+17.4.2022, 16:00:34 - 0xbad1dea: I don't know that there are enough hardware attacks in the wild to categorize any "common" vs "uncommon"
+17.4.2022, 16:52:54 - paciento 🏳️‍🌈: <@karlq:matrix.org "Does anyone have a good resource..."> Ping me if you come across anything like that.
+18.4.2022, 07:48:25 - SlickRick: paciento 🏳️‍🌈: Will do, this question was inspired by a talk from 2013 by Jacob Applebaum on the NSA catalog of tools, which describes various hardware implants and their capabilities. And so I am interested in the current state of these attacks that are perhaps less specialized to NSA type threats, but advanced actors.
+18.4.2022, 07:48:43 - SlickRick: 0xbad1dea: Very good point :'D
+18.4.2022, 07:49:39 - SlickRick: I suppose to more appropriately rephrase: Any good resource that describes realistic, known hardware attacks, i.e. hardware keyloggers and other malicious chips.
+18.4.2022, 07:50:06 - SlickRick: Realistic being an advanced threat actor, mostly nation state but extending to hacking teams.
+18.4.2022, 09:05:18 - hv: <@karlq:matrix.org "paciento 🏳️‍🌈: Will do, this q..."> Well, I think a pretty common one would likely be a keylogger added to a keyboard. I have no data on this.
+18.4.2022, 18:49:15 - Anderson left the room
+18.4.2022, 20:57:02 - grintea joined the room
+19.4.2022, 00:00:59 - paciento 🏳️‍🌈: Chris Palmer blogs: Taxonomy Of In-The-Wild Exploitation https://noncombatant.org/2022/04/22/itw-taxonomy/
+19.4.2022, 02:01:21 - mysshel joined the room
+19.4.2022, 12:06:21 - wybpip joined the room
+19.4.2022, 12:06:22 - wybpip left the room
+19.4.2022, 15:05:43 - DJGoatedYT❤️‍🔥💔❤️‍🩹ㅣ냇 ㅣ팯 <3 joined the room
+19.4.2022, 16:34:56 - DJGoatedYT❤️‍🔥💔❤️‍🩹ㅣ냇 ㅣ팯 <3: Im trying to figure out what the russian hackers are up to
+19.4.2022, 17:08:47 - 0xbad1dea: You're not going to find it here
+19.4.2022, 17:32:22 - DJGoatedYT❤️‍🔥💔❤️‍🩹ㅣ냇 ㅣ팯 <3: ik i found their element
+19.4.2022, 22:45:12 - mindfulbroccoli hat den Nicknamen zu harvardstudies geändert
+19.4.2022, 22:45:22 - harvardstudies hat den Nicknamen zu halvahujioplmiutuwq geändert
+19.4.2022, 22:45:52 - halvahujioplmiutuwq hat das Profilbild entfernt
+19.4.2022, 23:24:58 - NotSoAnonyLena (awake, aka AnonyPla) joined the room
+19.4.2022, 23:27:02 - hv: Hate to break it to you, but any of these bad actors who know literally anything about what they're doing, aren't going to talk publicly with individual pseudonyms, lmao
+20.4.2022, 04:25:46 - SlickRick: I think I found the place that a famous hacker named 4chan hangs out at.
+20.4.2022, 04:26:19 - SlickRick: Trying to get some deanonymizing info from him but he keeps saying kek & calling me gay
+20.4.2022, 04:26:26 - SlickRick: he posts a lot
+20.4.2022, 09:11:29 - NotSoAnonyLena (somewhat awake) hat den Nicknamen zu NotSoAnonyLena (Somewhat awake, aka AnonyPla) geändert
+20.4.2022, 11:48:04 - Ash joined the room
+20.4.2022, 17:54:41 - NotSoAnonyLena (Somewhat awake, aka AnonyPla) hat den Nicknamen zu NotSoAnonyLena (asleep, aka AnonyPla) geändert
+20.4.2022, 19:50:38 - genesis7 joined the room
+20.4.2022, 19:57:19 - Air Friar joined the room
+20.4.2022, 21:12:19 - NotSoAnonyLena (asleep, aka AnonyPla) hat den Nicknamen zu NotSoAnonyLena (awake, aka AnonyPla) geändert
+20.4.2022, 22:13:43 - genesis7 changed their profile picture
+20.4.2022, 22:55:44 - hv left the room
+21.4.2022, 02:36:18 - NotSoAnonyLena (awake, aka AnonyPla): Got my twitter back but lost all followers :( https://twitter.com/AnonyPla
+21.4.2022, 14:45:44 - J.Reacher (🕊️AnonyPla) hat den Nicknamen zu J.Reacher geändert
+21.4.2022, 14:51:25 - paciento 🏳️‍🌈: https://lobste.rs/s/g8elid/cross_language_attacks
+21.4.2022, 14:52:58 - paciento 🏳️‍🌈: Good to see more research on this after Spender's warnings
+21.4.2022, 17:24:06 - markusklarcus hat den Nicknamen zu Markusklarcus geändert
+21.4.2022, 19:49:56 - leopoldo89: https://seintpl.github.io/NAMINT
+21.4.2022, 22:31:03 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️ Lena) hat das Berechtigungslevel von @anonylena:matrix.org von Standard zu Admin geändert.
+21.4.2022, 22:54:03 - NotSoAnonyLena (awake, aka AnonyPla) hat den Nicknamen zu NotSoAnonyLena (sleeping, aka AnonyPla) geändert
+22.4.2022, 03:06:11 - NotSoAnonyLena (sleeping, aka AnonyPla) hat den Nicknamen zu NotSoAnonyLena (somewhat awake, aka AnonyPla) geändert
+22.4.2022, 03:17:52 - @anonylena:matrix.org hat das Thema geändert in "Part of the #p-s-a:matrix.org community. All about (mostly online) security. Read our guide at https://anonymousplanet-ng.org .Rules: https://privacy-security-anonymity.github.io/chatrooms-rules/ .Enjoy your stay. Off-topic >>> #bnonymity:matrix.org. The legit accounts of AnonyPla are listed here: https://keyoxide.org/eb16b6ab4ab7ba61f33e2dfd0051e9a589dab601".
+22.4.2022, 10:09:02 - SlickRick: paciento 🏳️‍🌈: https://github.com/shoyo/acoustic-keylogger
+https://hak5.org/collections/mischief-gadgets/products/o-mg-cable-c-to-c-directional
+
+22.4.2022, 10:09:18 - SlickRick: I couldn't find anything specifically on a hardware keylogger that was inside of the case
+22.4.2022, 10:09:34 - SlickRick: Plenty of BADUSB type attacks, and some people who even made Bad powercable types
+22.4.2022, 10:10:21 - SlickRick: Flashing malicious code in to the SPI ROM chips to get in right at bootloading is a very real threat, but that is mitigated with HEADS
+22.4.2022, 10:12:04 - paciento 🏳️‍🌈: very nice, much appreciated
+22.4.2022, 10:13:19 - SlickRick: paciento 🏳️‍🌈: https://nsa.gov1.info/dni/nsa-ant-catalog/usb/index.html
+22.4.2022, 10:13:43 - SlickRick: Some older NSA type hardware threats. As time goes on these obviously become more viable for lesser threat actors
+22.4.2022, 10:18:56 - SlickRick: https://raw.githubusercontent.com/whid-injector/WHID/master/tools/images/Weaponized_PlasmaBall.png
+22.4.2022, 10:19:32 - SlickRick: If you plug a plasma ball in to a sensitive laptop you were gonna fuck something else up lol, but a good example of how BadUSB's could be snuck in ways you don't expect
+22.4.2022, 10:23:14 - SlickRick: https://dolosgroup.io/blog/2021/7/9/from-stolen-laptop-to-inside-the-company-network
+22.4.2022, 10:23:36 - SlickRick: Quite a specific threat, but still an interesting example of how a pentesting group got inside a corporate network through a hardware attack
+22.4.2022, 12:23:32 - SlickRick: https://www.keelog.com/keygrabber-forensic/ paciento 🏳️‍🌈  The module is interested. I guess that could be implanted in a USB keyboard, but nothing that goes inside case still
+22.4.2022, 12:26:01 - SlickRick: https://www.youtube.com/watch?v=5QOWHAuW9yQ
+22.4.2022, 12:26:06 - SlickRick: How its installed^
+22.4.2022, 12:26:46 - SlickRick: Very easy to spot if you opened it up though.
+22.4.2022, 18:40:27 - NotSoAnonyLena (somewhat awake, aka AnonyPla) hat den Nicknamen zu AnonyPla geändert
+22.4.2022, 21:04:10 - Alexa,SaveThePlanet changed their profile picture
+22.4.2022, 21:07:59 - Alexa,SaveThePlanet changed their profile picture
+22.4.2022, 22:14:38 - psix joined the room
+22.4.2022, 22:27:04 - @anonylena:matrix.org: Message deleted
+22.4.2022, 22:49:47 - @anonypla:envs.net joined the room
+22.4.2022, 22:57:43 - @anonypla:envs.net hat den Nicknamen zu AnonyPla (the return) geändert
+22.4.2022, 22:57:51 - @anonypla:envs.net hat das Profilbild gesetzt
+22.4.2022, 23:07:33 - AnonyPla hat den Nicknamen zu AnonyPla (moving back to @anonypla:envs.net) geändert
+22.4.2022, 23:41:04 - Milan joined the room
+23.4.2022, 03:22:08 - nenetl hat den Nicknamen zu yas geändert
+23.4.2022, 03:22:16 - yas hat den Nicknamen zu yasmin geändert
+23.4.2022, 03:23:11 - yasmin hat den Nicknamen zu nenetl geändert
+23.4.2022, 04:05:36 - leopoldo89: https://github.com/MISP/MISP
+23.4.2022, 05:35:02 - Deathrow hat den Nicknamen zu Deathrow [we are all happy here\ let me never leave geändert
+23.4.2022, 08:00:58 - faceless333 joined the room
+23.4.2022, 08:08:57 - SlickRick: Alexa,SaveThePlanet: So if the BOOTROM that is on the processor is unalterable, and as you say completely reliable, how does it having the first say in the boot process that then loads the verifiable bootloader with measurements undermine HEADS model outside of supply chain attacks?
+23.4.2022, 08:09:13 - SlickRick: That would seem to be a fairly reasonable root of trust
+23.4.2022, 08:10:13 - SlickRick: And so when you say " it is basically the only thing that you can trust not to be altered and be what it claims to be."
+
+Is that because there is consensus that its design is such that it is exactly as it was from the manufacturer?
+23.4.2022, 08:10:37 - SlickRick: Is it too small in what it executes to be a hiding place for malicious code even in a big supply chain type threat?
+23.4.2022, 08:11:21 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️ Lena): Typically the rationale for why that's trusted is based on the assumption that a system's foor firmware is hardware write-protected
+23.4.2022, 08:11:55 - SlickRick: Ok, so really it would need to be malicious from the manufacturer
+23.4.2022, 08:12:55 - SlickRick: Is there an argument for swapping out a processor with one with a malicious bootrom, or is that just such a complicated task & possibly not even possible to engineer it as malicious from the supply chain side that it isn't a significant concern?
+23.4.2022, 08:14:31 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️ Lena): On a typical system there are 3 ways to compromised the boot firmware:
+
+- If the system is booted with the BIOS admin password instead of the user password, the OS can obtain write access to the firmware for the purpose of firmware updates
+- Physical access to the system to reprogram the firmware in hardware
+- If the firmware write protection isn't properly handled. For example, there was a vulnerability discovered a while back where many systems' firmware would have write protection but simply fail to set the write protect bit before passing control to the OS
+23.4.2022, 08:24:24 - SlickRick: Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla): So those are all covered by HEADS + the write protect pins on the ROMs can be shorted to ground as an extra layer of protection against software changes to the ROM.
+23.4.2022, 08:25:11 - SlickRick: The only concern is this CPU boot rom that is underneath the SPI chip that I guess calls on it to send the BIOS in to RAM & intialize the boot process
+23.4.2022, 08:25:31 - SlickRick: Which madaidan raised that I'm still trying to understand.
+23.4.2022, 08:25:34 - @anonypla:envs.net: Some laptops ... thinking about the thinkpads series have an anti-tampering detection system
+23.4.2022, 08:25:57 - SlickRick: Heads only has a limited range of compatible thinkpads, all of which must be pre-intel boot guard
+23.4.2022, 08:26:03 - SlickRick: x230, x220 t430 and a few others
+23.4.2022, 08:26:04 - @anonypla:envs.net: It includes firmware tampering
+23.4.2022, 08:26:17 - @anonypla:envs.net: no mine was an AMD
+23.4.2022, 08:26:24 - @anonypla:envs.net: but had the feature
+23.4.2022, 08:26:44 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️ Lena): <@karlq:matrix.org "The only concern is this CPU boo..."> That boot ROM is incredibly simple, as it only needs to be able to copy the BIOS and setup execution
+23.4.2022, 08:27:13 - @anonypla:envs.net: goddamn I miss my laptop :(
+23.4.2022, 08:27:19 - @anonypla:envs.net: but I'll never see it again
+23.4.2022, 08:27:34 - @anonypla:envs.net: I'm trying to contact my neighbor
+23.4.2022, 08:27:44 - SlickRick: Ty for the responses btw. Ok, so the boot ROM being incredibly simple (and presumably a small amount of code) makes it a reasonable root of trust that if you can verify the firmware it calls on from the SPI ROM in to RAM you have a solid floor under your feet so to speak
+23.4.2022, 08:27:46 - @anonypla:envs.net: she's an old babouchka type grandma
+23.4.2022, 08:28:07 - @anonypla:envs.net: to ask her to check if that laptop is still there
+23.4.2022, 08:28:14 - SlickRick: Because Medaidan held that as a fundamental issue that makes HEADS security theatre, along with one other I am in the process of understanding.
+23.4.2022, 08:28:15 - @anonypla:envs.net: but of course ... they cut the internet
+23.4.2022, 08:28:28 - SlickRick: That must be a pain in the ass^
+23.4.2022, 08:28:40 - @anonypla:envs.net: a friend of mine will attempt approaching my building
+23.4.2022, 08:28:44 - @anonypla:envs.net: carefully
+23.4.2022, 08:29:10 - @anonypla:envs.net: according to the local news, those groups left Kyiv for the moment
+23.4.2022, 08:29:42 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️ Lena): <@karlq:matrix.org "Because Medaidan held that as a ..."> I read that conversation. It seemed to me that he was commenting more on the lack of full verified boot
+23.4.2022, 08:30:00 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️ Lena): That's more about the whole secure boot vs verified boot issue
+23.4.2022, 08:30:08 - SlickRick: So further upstream?
+23.4.2022, 08:30:35 - SlickRick: I have asked someone about init tampering & how that could potentially undermine HEADS model, will wait to get a response & post here
+23.4.2022, 08:31:02 - @anonypla:envs.net: I'm very afraid they might have placed an IED trap in my apartment before leaving 
+23.4.2022, 08:31:15 - @anonypla:envs.net: like a wire to a grenade or something
+23.4.2022, 08:31:37 - @anonypla:envs.net: in case someone would come check in
+23.4.2022, 08:31:57 - @anonypla:envs.net: could be as simple as placing the laptop over an unpinned grenade
+23.4.2022, 08:31:58 - SlickRick: As I said my understanding is that /boot files, kernel & initrd are measured, but what I don't know is where init stands in that & whether init can be altered in a way that would persist across reboot's & potentially insert malicious code in to the process / alter things.
+23.4.2022, 08:33:04 - SlickRick: > I'm very afraid they might have placed an IED trap in my apartment before leaving 
+I have 0 clue how to possibly approach that scenario. Very disconcerting.
+23.4.2022, 08:33:06 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️ Lena): <@karlq:matrix.org "As I said my understanding is th..."> Even if you could measure the init (which wouldn't be that difficult to implement as a kernel patch), there are plenty of other places for persistence
+23.4.2022, 08:33:26 - @anonypla:envs.net: <@karlq:matrix.org "> I'm very afraid they might hav..."> "very carefully"
+23.4.2022, 08:33:27 - SlickRick: What are those places? This is definitely a blind spot in my understanding.
+23.4.2022, 08:33:31 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️ Lena): You need to verify all code running on the system, all the way through root login
+23.4.2022, 08:34:42 - @anonypla:envs.net: I asked my friend if maybe he could ask some ukrainian squad to come with , some have explosive sniffing dogs
+23.4.2022, 08:34:47 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️ Lena): <@karlq:matrix.org "What are those places? This is d..."> - Any running services that autostart on boot
+- The login daemon
+- PAM configuration can execute arbitrary code
+- *rc files in `/root`
+
+For a few ideas
+23.4.2022, 08:35:42 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️ Lena): Linux systems can be configured with dm-verity for implementing full verified boot, but in practice this is a massive pain in the ass to setup and breaks the package manager's ability to update your system
+23.4.2022, 08:35:43 - SlickRick: In qubes /root infection is more of a virtual machine specific threat though, right? I'm talking about whole system compromise
+23.4.2022, 08:36:03 - SlickRick: > I asked my friend if maybe he could ask some ukrainian squad to come with , some have explosive sniffing dogs
+
+Yes, a super pooch would be very useful there
+23.4.2022, 08:37:12 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️ Lena): If we're talking about Qubes, the security is assumed to be provided by the hypervisor. An attacker capable of escaping your VMs and taking over dom0 immediately breaks all of Qubes' security
+23.4.2022, 08:39:34 - SlickRick: Thanks for your responses Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla) I've contacted someone who knows more about what HEADS does & i will raise these concerns with them & see how they respond.
+23.4.2022, 08:40:16 - SlickRick: & yes but hypervisor escape is very complex & probably only NSA types have 0day's on zen that they wont want to burn
+23.4.2022, 08:40:25 - SlickRick: That's a VERY advanced threat model for someone who can VM escape
+23.4.2022, 08:40:46 - SlickRick: or not hypervisor escape, but VM escape. I mispoke.
+23.4.2022, 08:42:39 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️ Lena): The lack of verified boot really isn't a HEADS issue. It's a Linux issue
+23.4.2022, 08:42:50 - SlickRick: So as far as Qubes is concerned for dom0 security, its the services that autostart & boot that are the concern out of that list you gave
+23.4.2022, 08:43:15 - SlickRick: Yes i understand what you mean there, but it's relevant to really understand exactly how much HEADS protects against.
+23.4.2022, 08:43:26 - SlickRick: Or at least alerts for (as its detection not prevention)
+23.4.2022, 08:44:06 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla) hat den Nicknamen zu Babba27's Evil Twin (DriftNotSkid) [they|them] geändert
+23.4.2022, 08:44:34 - SlickRick: I suppose the issue is that I haven't properly dileniated the upstream persistence vectors from the boot & BIOS vectors.
+23.4.2022, 08:45:26 - SlickRick: I'm trying to understand how can someone get underneath the system (RE: a qubes build with hypervisor) to set persistence malicious code, in a way that isn't isolated in VM's, but also is above the boot stack that is absolutely verifiable.
+23.4.2022, 08:45:57 - SlickRick: If the only way they can get that code in is breaking Qubes security model then I am obviously perfectly fine with that, because that's a core of my security anyway.
+23.4.2022, 08:46:21 - SlickRick: If Qubes security model is broken my whole setup is pwned anyway in this scenario, I'm not airgapping etc.
+23.4.2022, 08:47:09 - SlickRick: So can someone get to those vectors you are mentioning without breaking through Qubes compartmentalization. If they can't I think Heads provides deep protection against persistence in the way I am trying to protect (from everything but specific VM comrpomise which of course is unavoidable)
+23.4.2022, 08:47:29 - SlickRick: Because I think with Heads they can't get there via hardware & get underneath like that
+23.4.2022, 08:47:31 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️ Lena): If you use Qubes, an attacker would have to compromise dom0 or use a physical attack to compromise the boot code
+23.4.2022, 08:47:38 - SlickRick: Yes fantastic
+23.4.2022, 08:47:47 - SlickRick: So I should've specified Qubes earlier, the mistake was mine.
+23.4.2022, 08:48:30 - SlickRick: Apologies. So that is what I meant. That I can establish a root of trust in the firmware & boot stack with Heads, and a reasonable degree of security upstream from external attacks via the compartmentalization of Qubes aside from extremely advanced 0day xen exploits
+23.4.2022, 08:48:48 - @anonypla:envs.net: Qubes is great
+23.4.2022, 08:48:52 - @anonypla:envs.net: I miss it so much
+23.4.2022, 08:48:58 - SlickRick: I think that is a very robust model & makes Heads a feature that is far more than security theatre, which may have been my fault to not set the conversation up with specifying that I am using Qubes.
+23.4.2022, 08:49:32 - SlickRick: Babba27's Evil Twin (DriftNotSkid) [they|them]: Sorry for not specifying that earlier
+23.4.2022, 09:01:41 - SlickRick: madaidan.: Here I have furthered the disucssion with Babba & potentially come to a soft conclusion. Please read & give me your thoughts, as I'm very interested to hear them:
+
+From what Babba & subsequent searching I have done suggests is that the BOOT ROM that is on the processor & calls on the BIOS from the SPI chip to be sent in to RAM is a very simple process & completely unalterable, and so is really only at risk from attakcs at the manufacturing level, which based on the lack of talk I've seen of mistrust in the BOOT ROM does not seem to be a significant risk (disagree?). 
+
+So that leaves the BIOS firmware as the root of trust that BOOT ROM calls on to initalize the boot process, which is HEADS, hardware flashed in to the two SPI chips. HEADS measures itself & uses the TOTP with the shared secret held on your hardware key to authenticate itself to you, so you know the firmware hasn't changed, and then measures & attests the boot stack.
+
+Quote from HEADS website Osresearch.net RE: the TOTP implementation:
+
+>>"...the system has already fetched the kernel and initrd from the disk and potentially had the chain of trust compromised. Since my version of code is executed from the difficult-to-write SPI flash ROM and the read-only boot block initializes the root of trust with measurements of itself as well as the rest of the ROM, it is much harder to compromise."
+
+So that is the ground floor covered. Babba agreed with you that there are many other places for persistent code that exist outside of what HEADS measures (/boot, initrd, kernel), but what he has claimed is that if you are using Qubes (which I am and failed to state originally, apologies) that you would have to break Qubes security via isolation/compartmentalization with a 0day xen exploit (or something alike), which is an NSA type threat, to get that code underneath Qubes / compromise the boot stack.
+
+Outside of breaking Qubes security model on the hypervisor, you can get persistent code in VM's, but not in a way that can get underneath Qubes security by isolation with the baremetal hypervisor, and so makes for a very robust system of which HEADS plays an important & valuable part.
+
+Do you find anything disagreeable with this summary? Again I appreciate your input greatly & am just pushing because it is very important to me that I am not rooting trust where I ought not.
+23.4.2022, 09:09:45 - Alexa,SaveThePlanet: <@anonypla:envs.net "Qubes is great"> the pain is great
+23.4.2022, 09:12:23 - SlickRick: AnonyPla (the return): Do you think Qubes is under the radar relative to a userbase who would enjoy it / see value in it, or is it around where it should be in terms of serving the niche community that it does?
+23.4.2022, 09:12:59 - SlickRick: Of course we love it & see value in it, but I'm curious how much reach it could potentially have in the future.
+23.4.2022, 09:13:52 - SlickRick: We are in such a bubble it can be hard to get a sense, but I suppose things are trending in a negative direction for computer security, perhaps it is a much large group who could viably use Qubes as a daily driver if they were exposed to it (with maybe better accompanying tutorials etc.)
+23.4.2022, 09:14:45 - @anonypla:envs.net: <@karlq:matrix.org "AnonyPla (the return): Do you th..."> I personally think Qubes is "ahead of its time" 
+23.4.2022, 09:15:03 - @anonypla:envs.net: and that it's the way to go
+23.4.2022, 09:16:29 - Alexa,SaveThePlanet: the problem is its usability is a pain and comes in the way of productive work :) 
+but it surely does an amazing job at what it claims to do.
+23.4.2022, 09:22:56 - paciento 🏳️‍🌈: <@karlq:matrix.org "We are in such a bubble it can b..."> Why do you think things are trending in a negative direction overall?
+23.4.2022, 09:27:01 - SlickRick: paciento 🏳️‍🌈: Do you not feel that there is a global cracking down on internet freedom? The trend has been ever expanding surveilance states around the world, with insane reach & no foundation in legality, from NSA spying programs, even to the rise of private malware developers selling their wares to oppressive governments to spy on citizen jouranlists (Pegasus, Khashoggi/Bezos for Saudi king).
+
+It's a radical new technology that threatents to upset the order of power in the world, and that wasn't going to go without response, so we are seeing it being controlled over time further & further.
+23.4.2022, 09:27:19 - SlickRick: I don't see why there would be a movement on a broad scale aside from concerned individuals to increase online freedom.
+23.4.2022, 09:27:29 - SlickRick: It's certainly not coming from the political class, it's going fast the other way.
+23.4.2022, 09:27:42 - SlickRick: The next emergency = the next excuse to take more away.
+23.4.2022, 09:28:08 - SlickRick: We are blessed to have the technical wizzards we do fighting for us, but they are severely under resourced & out numbered.
+23.4.2022, 09:28:12 - SlickRick: This is my perspective.
+23.4.2022, 09:29:15 - SlickRick: Most people barely understand computers & computer security, so they don't see how much they've lost in terms of freedom with them
+23.4.2022, 09:39:05 - paciento 🏳️‍🌈: Ah, you meant user-hostile security.
+23.4.2022, 09:41:02 - paciento 🏳️‍🌈: I can see what you mean, but I would guess it is harder to exploit mainstream consumer operating systems now than it ever has been. Of course that is mostly against vendor interests rather than the users, and there are a lot more threat actors out there nowadays.
+23.4.2022, 10:20:13 - SlickRick: paciento 🏳️‍🌈: Yes in terms of lower level threats perhaps its safer than ever, but I find the most disturbing threats to be those at the government level which are really indiscriminately searching to erode individuals rights to privacy online
+23.4.2022, 11:54:17 - ~creme joined the room
+23.4.2022, 14:02:04 - Deathrow [we are all happy here\ let me never leave hat den Nicknamen zu Deathrow geändert
+23.4.2022, 19:53:11 - Babba27's Evil Twin (DriftNotSkid) [they|them] hat den Nicknamen zu Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️ Lena) geändert
+23.4.2022, 20:33:44 - bashar234 joined the room
+23.4.2022, 20:56:34 - Muddy Coins joined the room
+23.4.2022, 21:05:38 - inuimamba: Nachricht von mazerfaker gelöscht
+23.4.2022, 21:05:52 - inuimamba: When they dont like the conversation they just run 
+23.4.2022, 21:08:13 - bashar234: Stop posting private conversations!
+23.4.2022, 21:08:26 - bashar234: You are disrespectful
+23.4.2022, 21:08:54 - neo_sodom: Message deleted
+23.4.2022, 21:09:26 - inuimamba: Yes 
+23.4.2022, 21:09:38 - inuimamba: Now the admins started to delete ny messages 
+23.4.2022, 21:09:45 - inuimamba: Now i'm censored 
+23.4.2022, 21:09:49 - inuimamba: How wonderfull
+23.4.2022, 21:10:31 - bashar234: Because it is a private conversation and I am sure an announcement will be made
+23.4.2022, 21:11:51 - inuimamba: Nachricht von Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️ Lena) gelöscht
+23.4.2022, 21:12:48 - bashar234: this is no laughing matter
+23.4.2022, 21:12:59 - bashar234: are you mad?
+23.4.2022, 21:13:33 - bashar234: Mods please mute this person
+23.4.2022, 21:13:44 - Deathrow: Tell me
+23.4.2022, 21:13:53 - Deathrow: More
+23.4.2022, 21:13:56 - 0xbad1dea: inuimamba: keep it to #bnonymity:matrix.org 
+23.4.2022, 21:16:00 - inuimamba: Nachricht von Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️ Lena) gelöscht
+23.4.2022, 21:16:07 - inuimamba: Censored now banned for truth 
+23.4.2022, 21:16:16 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️ Lena) hat inuimamba verbannt
+23.4.2022, 21:16:42 - bashar234: Stop being disrespectful! This is very sad day
+23.4.2022, 21:17:01 - bashar234: No time for laughing
+23.4.2022, 21:40:01 - raidersalami joined the room
+23.4.2022, 22:08:36 - awakener joined the room
+23.4.2022, 22:48:44 - Alexa,SaveThePlanet changed their profile picture
+23.4.2022, 23:45:43 - kj7rrv left the room
+24.4.2022, 07:41:15 - Elliot Alderson hat den Nicknamen zu TAKEN DOWN BY 𝐅𝐁𝐈 geändert
+24.4.2022, 08:41:21 - Astarael joined the room
+24.4.2022, 08:47:34 - heps810 joined the room
+24.4.2022, 09:44:13 - emulationdepression hat den Nicknamen zu emulationdepressio geändert
+24.4.2022, 09:53:39 - emulationdepressio hat den Nicknamen zu emulationdepression geändert
+24.4.2022, 10:17:07 - SlickRick: madaidan.: Did you see the message about where HEADS has a use case in concert with Qubes?
+24.4.2022, 12:10:28 - LiJu09 joined the room
+24.4.2022, 15:01:18 - madaidan.: Virtualisation is irrelevant 
+24.4.2022, 15:13:17 - bashar234 left the room
+24.4.2022, 15:36:50 - 0xbad1dea hat @debunk:matrix.org verbannt
+24.4.2022, 15:44:56 - 0xbad1dea hat @censoring:matrix.org verbannt: troll alt
+25.4.2022, 05:02:17 - Scissortail joined the room
+25.4.2022, 11:48:48 - TAKEN DOWN BY 𝐅𝐁𝐈 hat den Nicknamen zu ᴇʟʟɪᴏᴛ ᴀʟᴅᴇʀꜱᴏɴ geändert
+25.4.2022, 13:08:06 - zp6jdpy8bf joined the room
+25.4.2022, 20:26:58 - mazerfaker left the room
+25.4.2022, 20:39:08 - 0xbad1dea left the room
+25.4.2022, 20:55:51 - @anonypla:envs.net hat das Profilbild entfernt
+25.4.2022, 20:55:56 - @anonypla:envs.net hat den alten Nicknamen AnonyPla (the return) entfernt
+25.4.2022, 20:55:59 - @anonypla:envs.net left the room
+25.4.2022, 21:03:46 - @anonylena:matrix.org hat das Profilbild entfernt
+25.4.2022, 21:04:31 - @anonylena:matrix.org hat den alten Nicknamen AnonyPla (moving back to @anonypla:envs.net) entfernt
+25.4.2022, 21:05:20 - @anonylena:matrix.org left the room
+26.4.2022, 06:28:39 - nenetl changed their profile picture
+26.4.2022, 06:29:55 - nenetl changed their profile picture
+26.4.2022, 18:02:21 - aktaboot joined the room
+26.4.2022, 21:11:25 - mark22k left the room
+26.4.2022, 21:28:08 - Deathrow hat den Nicknamen zu Deathrow/alive geändert
+26.4.2022, 21:29:32 - Deathrow/alive hat den Nicknamen zu ‌‌‌‌‍‍‍‌‌‌‌‌‍‬‬‌‌‌‌‌‍‬‍‍‌‌‌‌‌‬‌‌‌‌‌‌‍‬‍‌‌‌‌‌‍‬﻿﻿‌‌‌‌‍‬‍﻿Deathrow‌‌‌‌‌‬‌‌‌‌‌‌‍﻿‍﻿‌‌‌‌‍‬‌‍‌‌‌‌‍﻿‍‌‌‌‌‌‍‬‌﻿‌‌‌‌‍‬‬‌‌‌‌‌‍‬‍‍‌‌‌‌‍﻿‌﻿‌‌‌‌‌‬‌‌‌‌‌‌‍﻿‍‌‌‌‌‌‍‬‬‌‌‌‌‌‍‬‍‍‌‌‌‌‌‬‌‌‌‌‌‌‍﻿‍‌‌‌‌‌‍‬‬‍‌‌‌‌‍‬﻿‍‌‌‌‌‍‬‍‍‌‌‌‌‌‬﻿‬ geändert
+26.4.2022, 21:30:50 - ‌‌‌‌‍‍‍‌‌‌‌‌‍‬‬‌‌‌‌‌‍‬‍‍‌‌‌‌‌‬‌‌‌‌‌‌‍‬‍‌‌‌‌‌‍‬﻿﻿‌‌‌‌‍‬‍﻿Deathrow‌‌‌‌‌‬‌‌‌‌‌‌‍﻿‍﻿‌‌‌‌‍‬‌‍‌‌‌‌‍﻿‍‌‌‌‌‌‍‬‌﻿‌‌‌‌‍‬‬‌‌‌‌‌‍‬‍‍‌‌‌‌‍﻿‌﻿‌‌‌‌‌‬‌‌‌‌‌‌‍﻿‍‌‌‌‌‌‍‬‬‌‌‌‌‌‍‬‍‍‌‌‌‌‌‬‌‌‌‌‌‌‍﻿‍‌‌‌‌‌‍‬‬‍‌‌‌‌‍‬﻿‍‌‌‌‌‍‬‍‍‌‌‌‌‌‬﻿‬ hat den Nicknamen zu ‌‌‌‌‍‍‍‌‌‌‌‌‍‬‬‌‌‌‌‌‍‬‍‍‌‌‌‌‌‬‌‌‌‌‌‌‍‬‍‌‌‌‌‌‍‬﻿﻿‌‌‌‌‍‬‍﻿‌‌‌‌‍‬‍‌‌‌‌‌‍‬﻿﻿‌‌‌‌‍‬‍﻿‌‌‌‌‌‬‌‌‌‌‌‌‍﻿‍﻿‌‌‌‌‍‬‌‍deathrow‌‌‌‌‍﻿‍‌‌‌‌‌‍‬‌﻿‌‌‌‌‍‬‬‌‌‌‌‌‍‬‍‍‌‌‌‌‍﻿‌﻿‌‌‌‌‌‬‌‌‌‌‌‌‍﻿‍‌‌‌‌‌‍‬‬‍‌‌‌‌‍‬﻿‍‌‌‌‌‍‬‍‍‌‌‌‌‌‬﻿‬ geändert
+26.4.2022, 22:01:07 - ‌‌‌‌‍‍‍‌‌‌‌‌‍‬‬‌‌‌‌‌‍‬‍‍‌‌‌‌‌‬‌‌‌‌‌‌‍‬‍‌‌‌‌‌‍‬﻿﻿‌‌‌‌‍‬‍﻿‌‌‌‌‍‬‍‌‌‌‌‌‍‬﻿﻿‌‌‌‌‍‬‍﻿‌‌‌‌‌‬‌‌‌‌‌‌‍﻿‍﻿‌‌‌‌‍‬‌‍deathrow‌‌‌‌‍﻿‍‌‌‌‌‌‍‬‌﻿‌‌‌‌‍‬‬‌‌‌‌‌‍‬‍‍‌‌‌‌‍﻿‌﻿‌‌‌‌‌‬‌‌‌‌‌‌‍﻿‍‌‌‌‌‌‍‬‬‍‌‌‌‌‍‬﻿‍‌‌‌‌‍‬‍‍‌‌‌‌‌‬﻿‬ hat den Nicknamen zu D‌‌‌‌‍‍‍‌‌‌‌‌‍eathrow‬‬‌‌‌‌‌‍‬‍‍‌‌‌‌‌‬‌‌‌‌‌‌‍‬‍‌‌‌‌‌‍‬﻿﻿‌‌‌‌‍‬‍﻿‌‌‌‌‍‬‍‌‌‌‌‌‍‬﻿﻿‌‌‌‌‍‬‍﻿‌‌‌‌‌‬‌‌‌‌‌‌‍﻿‍﻿‌‌‌‌‍‬‌‍ geändert
+27.4.2022, 01:26:27 - qwestion left the room
+27.4.2022, 02:42:55 - Scissortail: https://github.com/QubesOS/qubes-issues/issues/5263
+27.4.2022, 04:25:13 - Muddy Coins left the room
+27.4.2022, 06:50:04 - @grum3:matrix.org hat den Nicknamen zu 🃏 geändert
+27.4.2022, 06:53:00 - 🃏 changed their profile picture
+27.4.2022, 07:02:34 - 🃏 changed their profile picture
+27.4.2022, 08:04:01 - Astarael left the room
+27.4.2022, 08:05:34 - SlickRick left the room
+27.4.2022, 09:35:59 - Trolljegeren (ad interim mod) joined the room
+27.4.2022, 10:35:00 - Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️ Lena) hat das Berechtigungslevel von @trolljegeren:tchncs.de von Standard zu Moderator geändert.
+27.4.2022, 10:48:59 - trolljegeren hat den Nicknamen zu Trolljegeren (ad interim mod) geändert
+27.4.2022, 10:58:50 - Trolljegeren (ad interim mod) hat den Nicknamen zu trolljegeren geändert
+27.4.2022, 11:06:13 - trolljegeren hat den Nicknamen zu Trolljegeren geändert
+27.4.2022, 11:07:24 - Trolljegeren hat den Nicknamen zu Trolljegeren (ad interim mod) geändert
+27.4.2022, 15:55:26 - tom_winter joined the room
+27.4.2022, 16:57:22 - @neo_sodom:matrix.org left the room
+27.4.2022, 18:06:07 - @aktaboot:matrix.org left the room
+27.4.2022, 20:14:46 - @xdxanslfqjctozjeg:matrix.org hat den Nicknamen zu (Please add @xyhhx:envs.net) geändert
+28.4.2022, 01:57:24 - xyhhx joined the room
+28.4.2022, 09:07:25 - Trolljegeren (ad interim mod): Please look at and share https://github.com/AnonyPla-ng/thgtoa/discussions 
+28.4.2022, 10:01:21 - ᴇʟʟɪᴏᴛ ᴀʟᴅᴇʀꜱᴏɴ changed their profile picture
+28.4.2022, 10:29:19 - @trinity2022:matrix.org joined the room
+28.4.2022, 11:25:26 - . hat den Nicknamen zu litnav geändert
+28.4.2022, 11:55:17 - @trinity2022:matrix.org left the room
+28.4.2022, 19:56:56 - Trolljegeren (ad interim mod): @room  please share https://twitter.com/AnonyPla/status/1519733501603500042
+28.4.2022, 23:56:31 - @cyantrees:matrix.org joined the room
+28.4.2022, 23:58:23 - @cyantrees:matrix.org left the room
+29.4.2022, 04:24:15 - @_bifrost_qwestion=40conversations.im:aria-net.org joined the room
+29.4.2022, 11:17:42 - @blowrojop:matrix.org joined the room
+29.4.2022, 16:48:28 - magnetarblazar joined the room
+29.4.2022, 16:57:08 - mrqueso left the room
+30.4.2022, 17:27:16 - ᴠᴀʟᴜx ⒨ left the room
+30.4.2022, 20:23:36 - mastiffs joined the room
+1.5.2022, 01:47:12 - mastiffs hat das Profilbild gesetzt
+1.5.2022, 08:28:08 - Brian Gianforcaro joined the room
+1.5.2022, 13:38:42 - Bifrost Bot hat das Profilbild gesetzt
+1.5.2022, 17:06:26 - sycamore (@sycamore:envs.net) joined the room
+2.5.2022, 10:43:34 - splurged joined the room
+2.5.2022, 16:18:49 - DJGoatedYT❤️‍🔥💔❤️‍🩹ㅣ냇 ㅣ팯 <3 hat den Nicknamen zu DJGoatedYT❤️‍🔥💔❤️‍🩹ㅣ냇 ㅣ팯 <3 :'( geändert
+3.5.2022, 01:41:38 - @wybpip:matrix.org joined the room
+3.5.2022, 01:41:40 - @wybpip:matrix.org left the room
+3.5.2022, 05:50:39 - l9ll joined the room
+3.5.2022, 17:05:15 - shareware is careware joined the room
+3.5.2022, 17:45:02 - Molan Labe hat den Nicknamen zu Come and take it geändert
+3.5.2022, 21:58:46 - Trolljegeren (ad interim mod) left the room
+4.5.2022, 02:02:20 - Onessa: https://arstechnica.com/information-technology/2022/05/gear-from-netgear-linksys-and-200-others-has-unpatched-dns-poisoning-flaw/
+4.5.2022, 07:10:03 - roberto.tavora joined the room
+4.5.2022, 07:17:23 - unknown left the room
+4.5.2022, 10:10:16 - knight_who_says_ni joined the room
+4.5.2022, 10:13:33 - knight_who_says_ni: Ni
+4.5.2022, 13:26:58 - leitzboxx joined the room
+4.5.2022, 21:10:12 - J.Reacher changed their profile picture
+4.5.2022, 21:44:20 - Alexa,SaveThePlanet: hao
+4.5.2022, 21:47:21 - paciento 🏳️‍🌈: ma
+5.5.2022, 11:38:01 - # joined the room
+5.5.2022, 15:32:12 - newmann joined the room
+5.5.2022, 15:39:24 - newmann left the room
+6.5.2022, 11:01:24 - krysber2137 joined the room
+6.5.2022, 20:02:52 - shareware is careware hat den Nicknamen zu kentucky fried children geändert
+6.5.2022, 20:02:55 - kentucky fried children changed their profile picture
+6.5.2022, 22:19:23 - Scissortail left the room
+7.5.2022, 03:53:22 - MockingTrees left the room
+7.5.2022, 10:59:39 - darlatan02 joined the room
+7.5.2022, 11:00:22 - darlatan02 left the room
+7.5.2022, 11:36:55 - monkey joined the room
+7.5.2022, 14:44:08 - @liju09:matrix.org hat den alten Nicknamen LiJu09 entfernt
+7.5.2022, 14:44:20 - @liju09:matrix.org left the room
+7.5.2022, 15:17:16 - the_4n0nym0u53 left the room
+8.5.2022, 13:26:30 - genesis7 hat den Nicknamen zu Genesis7 geändert
+8.5.2022, 20:35:27 - qbw3ykpkzejp joined the room
+9.5.2022, 12:05:43 - abovenature joined the room
+9.5.2022, 19:44:59 - krysber2137 (@krysber2137:cuteworld.space) joined the room
+9.5.2022, 23:10:45 - madisonsapple joined the room
+10.5.2022, 05:21:45 - qbw3ykpkzejp changed their profile picture
+10.5.2022, 19:12:03 - qwestion left the room
+10.5.2022, 19:12:04 - qwestion joined the room
+11.5.2022, 05:06:56 - qbw3ykpkzejp left the room
+12.5.2022, 02:43:27 - Reinin joined the room
+12.5.2022, 06:35:14 - formic left the room
+12.5.2022, 09:54:40 - Ash hat den Nicknamen zu Ash (Old) geändert
+12.5.2022, 10:01:05 - Ash (Old) hat Ash eingeladen
+12.5.2022, 10:02:04 - Ash joined the room
+12.5.2022, 10:26:22 - leitzboxx hat das Profilbild gesetzt
+12.5.2022, 14:03:33 - Genesis7 left the room
+12.5.2022, 22:29:53 - # changed their profile picture
+12.5.2022, 22:59:56 - . joined the room
+13.5.2022, 10:10:09 - # changed their profile picture
+13.5.2022, 14:42:29 - SamLeh left the room
+13.5.2022, 19:07:19 - tuxwise joined the room
+13.5.2022, 19:07:47 - tuxwise left the room
+13.5.2022, 20:27:21 - RoseByte joined the room
+14.5.2022, 08:59:51 - Ash left the room
+14.5.2022, 09:58:24 - ~creme left the room
+14.5.2022, 15:52:41 - Ra left the room
+14.5.2022, 23:36:59 - simplehedgehog joined the room
+14.5.2022, 23:37:37 - simplehedgehog left the room
+15.5.2022, 00:49:00 - vickk joined the room
+15.5.2022, 19:00:12 - # changed their profile picture
+16.5.2022, 13:19:49 - idahotokens joined the room
+16.5.2022, 18:04:04 - idahotokens left the room
+17.5.2022, 02:09:24 - Dobe Johnson joined the room
+17.5.2022, 02:09:37 - Dobe Johnson left the room
+17.5.2022, 15:40:26 - Ash joined the room
+17.5.2022, 21:55:25 - anondude joined the room
+17.5.2022, 22:08:09 - anondude: The heck
+17.5.2022, 22:08:14 - anondude left the room
+17.5.2022, 22:14:07 - paciento 🏳️‍🌈: Where are all of the messages?
+17.5.2022, 22:32:47 - splurged left the room
+17.5.2022, 23:30:25 - knight_who_says_ni: on the other hand this is how achieving almost ultimate security, privacy and anonymity looks like :P Ni?
+18.5.2022, 05:17:22 - greatmefisto joined the room
+18.5.2022, 05:22:04 - greatmefisto left the room
+18.5.2022, 16:38:47 - # changed their profile picture
+19.5.2022, 03:24:59 - Onessa: https://arstechnica.com/information-technology/2022/05/new-bluetooth-hack-can-unlock-your-tesla-and-all-kinds-of-other-devices/
+19.5.2022, 14:20:31 - voxel joined the room
+19.5.2022, 14:23:02 - voxel left the room
+19.5.2022, 16:19:13 - @abovenature:matrix.org hat das Profilbild entfernt
+19.5.2022, 16:23:06 - @abovenature:matrix.org hat den alten Nicknamen abovenature entfernt
+19.5.2022, 16:24:48 - @abovenature:matrix.org left the room
+19.5.2022, 20:10:39 - # changed their profile picture
+20.5.2022, 16:00:20 - californiato22 joined the room
+20.5.2022, 20:40:31 - j051y joined the room
+20.5.2022, 22:42:58 - robigan joined the room
+21.5.2022, 04:54:02 - xyhhx hat den Nicknamen zu xyhhx is very sleep deprived geändert
+21.5.2022, 20:04:22 - xyhhx is very sleep deprived hat den Nicknamen zu xyhhx is still awake geändert
+21.5.2022, 21:55:10 - xyhhx is still awake changed their profile picture
+21.5.2022, 21:58:40 - xyhhx is still awake changed their profile picture
+22.5.2022, 15:17:51 - krysber2137 joined the room
+23.5.2022, 09:13:15 - protowarp joined the room
+23.5.2022, 23:41:16 - unknown01234 joined the room
+24.5.2022, 02:49:02 - c0mmando joined the room
+24.5.2022, 10:28:31 - vulpecular joined the room
+24.5.2022, 22:47:03 - # changed their profile picture
+24.5.2022, 13:45:38 - morbiuslover69 joined the room
+24.5.2022, 23:50:38 - hackermanbr joined the room
+24.5.2022, 16:19:15 - c0mmando left the room
+24.5.2022, 23:57:46 - bluecakes joined the room
+25.5.2022, 00:23:18 - bluecakes left the room
+25.5.2022, 22:03:05 - xyhhx is still awake hat den Nicknamen zu xyhhx (has slept) geändert
+27.5.2022, 10:50:21 - antisec- joined the room
+27.5.2022, 10:53:39 - antisec- hat das Profilbild gesetzt
+27.5.2022, 13:19:16 - donza joined the room
+27.5.2022, 20:49:42 - Peter Parker :( (unofficial Microsoft Corporation certified help desk technician and IT specialist in Sata Clara, California. USA (37.354107, -121.955238) // May 2017 – Today: 5 years and 2 months) - contact me directly to send Direct Message to 127.0.0.1 joined the room
+28.5.2022, 01:33:25 - mike joined the room
+28.5.2022, 22:03:02 - Peter Parker (unofficial Microsoft Corporation certified help desk technician and IT specialist in Sata Clara, California. USA (37.354107, -121.955238) // May 2017 – Today: 5 years and 2 months) - contact me directly to send Direct Message to 127.0.0.1 hat den Nicknamen zu Peter Parker :) (unofficial Microsoft Corporation certified help desk technician and IT specialist in Sata Clara, California. USA (37.354107, -121.955238) // May 2017 – Today: 5 years and 2 months) - contact me directly to send Direct Message to 127.0.0.1 geändert
+29.5.2022, 12:31:30 - Peter Parker :) (unofficial Microsoft Corporation certified help desk technician and IT specialist in Sata Clara, California. USA (37.354107, -121.955238) // May 2017 – Today: 5 years and 2 months) - contact me directly to send Direct Message to 127.0.0.1 hat den Nicknamen zu Peter Parker :( (unofficial Microsoft Corporation certified help desk technician and IT specialist in Sata Clara, California. USA (37.354107, -121.955238) // May 2017 – Today: 5 years and 2 months) - contact me directly to send Direct Message to 127.0.0.1 geändert
+29.5.2022, 12:53:15 - 4n0nym0us joined the room
+30.5.2022, 14:46:58 - californiato22 left the room

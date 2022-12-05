@@ -1,0 +1,348 @@
+14.4.2022, 01:17:55 - darlatan hat den Raum betreten
+14.4.2022, 01:19:16 - darlatan: https://gist.github.com/AnonyPla/5c0e5bf2185b225aafa7ce8fc88963ec
+14.4.2022, 01:20:35 - darlatan: ...
+14.4.2022, 01:23:14 - hv: Oh?
+14.4.2022, 01:24:51 - darlatan: 😢
+14.4.2022, 01:28:50 - hv: I enjoyed shitposting and debating intensely about anonymity techniques in your room
+14.4.2022, 01:29:24 - hv: Will remember this in future related projects/endeavors related to these issues
+14.4.2022, 01:50:55 - robfreedev hat den Raum betreten
+14.4.2022, 02:33:34 - rhospix hat den Raum betreten
+14.4.2022, 03:38:39 - fl0at hat den Raum betreten
+14.4.2022, 03:43:14 - @zmcintosh:matrix.org hat den Raum betreten
+14.4.2022, 05:00:38 - darksiders hat den Raum verlassen
+14.4.2022, 05:10:26 - @fyrexara:matrix.org hat den Raum betreten
+14.4.2022, 06:20:04 - . hat den Raum betreten
+14.4.2022, 08:47:00 - jinzo hat den Raum betreten
+14.4.2022, 09:32:03 - Enzo: You'll be remembered
+14.4.2022, 09:34:37 - SlickRick: negativejhj23: in a qubes vm yes
+14.4.2022, 10:26:33 - darlatan: Is Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla) coming often these days? I made a series of pull requests on the new repository to reflect the current situation
+14.4.2022, 10:54:15 - fl0at hat das Profilbild gesetzt
+14.4.2022, 10:56:06 - fl0at hat das Profilbild geändert
+14.4.2022, 12:53:12 - toasterbirb: <@darlatan:matrix.org "https://gist.github.com/AnonyPla..."> welp, this sucks
+14.4.2022, 12:55:25 - Likely Big Tech hat den Raum betreten
+14.4.2022, 12:57:16 - toasterbirb: I guess her challenge is going to go unanswered
+14.4.2022, 12:58:22 - toasterbirb: What a world we live in
+14.4.2022, 13:30:05 - neo_sodom: <@toasterbirb:halogen.city "I guess her challenge is going t..."> Mind to elaborate?
+14.4.2022, 13:30:38 - toasterbirb: She challenged everyone in this room to doxx her. I didn't see the original challenge, but she reminded us about it at some point
+14.4.2022, 13:30:53 - toasterbirb: I guess she wanted to prove her points
+14.4.2022, 13:31:42 - toasterbirb: As far as I know, no one managed to do it
+14.4.2022, 14:45:47 - darlatan: I think it is legit but people here say only Babba27 could tell
+14.4.2022, 14:53:31 - darlatan: So when was the last time Babba27 was online?
+14.4.2022, 15:19:37 - @allures:matrix.org: <@darlatan:matrix.org "So when was the last time Babba2..."> She usually sleep at this time, you will probably find her online in like 5-6 hours i believe
+14.4.2022, 15:20:09 - toasterbirb: <del>5 hours according to element</del>
+nvm. not sure
+14.4.2022, 15:21:06 - darlatan: <@toasterbirb:halogen.city "5 hours according to element"> how do you see that?
+14.4.2022, 15:21:31 - darlatan: oh okay
+14.4.2022, 15:22:01 - toasterbirb: You can browse the room members in Element and it shows the offline timer
+14.4.2022, 15:22:11 - darlatan: what if the gist is legit? should we assume the worst?
+14.4.2022, 15:22:11 - toasterbirb: just need to find the correct account from the list of 680 people...
+14.4.2022, 15:23:17 - darlatan: is there no backstory at all? from my pov, she just vanished almost instantly from every platform except github 
+14.4.2022, 15:23:51 - toasterbirb: Quite difficult to say, but if she really lived in Kyiv Ukraine, pretty much everything is possible
+14.4.2022, 15:24:40 - darlatan: This is her keyoxide https://keyoxide.org/eb16b6ab4ab7ba61f33e2dfd0051e9a589dab601
+14.4.2022, 15:24:53 - toasterbirb: I want to just think that her internet connection was cut and the switch triggered or something. There has been notes recently about attacks on civillians though...
+14.4.2022, 15:25:47 - darlatan: Someone told me in a DM that was fleeing Kyiv and that was the last news she posted 
+14.4.2022, 15:28:18 - toasterbirb hat ein Bild gesendet. (Medien ausgelassen)
+14.4.2022, 15:28:20 - toasterbirb hat ein Bild gesendet. (Medien ausgelassen)
+14.4.2022, 15:28:29 - toasterbirb: Welp, the keys seem to match at least
+14.4.2022, 15:29:01 - toasterbirb: I haven't really followed the news too much recently and don't really know how Kyiv is doing
+14.4.2022, 15:31:04 - toasterbirb: It could very well be possible that she has lost access to the internet. Then again, it really isn't clear how much delay was there in the dead man's switch timer
+14.4.2022, 15:32:14 - @allures:matrix.org: Well babba probably knows all the thruth but she will not tell us, she knows more than us 
+14.4.2022, 15:32:28 - @allures:matrix.org: Not probably, i'm sure 
+14.4.2022, 15:33:49 - darlatan: then there is this https://news.ycombinator.com/user?id=anonypla
+14.4.2022, 15:33:58 - darlatan: and this https://keybase.io/anonymousplanet
+14.4.2022, 15:35:37 - darlatan: <@allures:matrix.org "Well babba probably knows all th..."> Why not? We could help
+14.4.2022, 15:36:26 - darlatan: I have friends in Poland and Romania
+14.4.2022, 15:36:45 - darlatan: They can help if she crossed the border
+14.4.2022, 15:37:14 - @allures:matrix.org: <@darlatan:matrix.org "Why not? We could help"> There is a big secret
+14.4.2022, 15:37:37 - @allures:matrix.org: <@darlatan:matrix.org "I have friends in Poland and Rom..."> Well i didnt meet her yet soo
+14.4.2022, 15:37:56 - @allures:matrix.org: I dont think that 
+14.4.2022, 15:37:58 - darlatan: I had a few DMs with her on Twitter 
+14.4.2022, 15:38:49 - darlatan: I even donated some XMR to her
+14.4.2022, 15:38:52 - @allures:matrix.org: Id think that will help,  she was a paranoid,  that explain few things (babba sayed that ) 
+14.4.2022, 15:39:09 - @allures:matrix.org: Babba is lying 
+14.4.2022, 15:39:16 - @allures:matrix.org: And anonypla too
+14.4.2022, 15:39:29 - @allures:matrix.org: Babba slipt few things out 
+14.4.2022, 15:39:33 - darlatan: lying? you mean hiding their real identity?
+14.4.2022, 15:39:42 - @allures:matrix.org: About everything 
+14.4.2022, 15:39:59 - darlatan: everything?
+14.4.2022, 15:40:17 - toasterbirb: Just don't turn this into a conspiracy theory
+14.4.2022, 15:40:05 - darlatan: you think the whole thing is a hoax?
+14.4.2022, 15:40:09 - darlatan: seriously?
+14.4.2022, 15:40:21 - neo_sodom: It's just an identity we don't know
+14.4.2022, 15:40:23 - darlatan: someone would write a 160 pages guide and then just destroy it?
+14.4.2022, 15:40:33 - darlatan: are you kidding?
+14.4.2022, 15:40:46 - darlatan: do you have any idea how much work she put into that thing?
+14.4.2022, 15:40:53 - @allures:matrix.org: <@darlatan:matrix.org "someone would write a 160 pages ..."> You're week with you're thinking, i like anony bc of her power of thinking xD 
+14.4.2022, 15:40:59 - @allures:matrix.org: <@darlatan:matrix.org "do you have any idea how much wo..."> Yes
+14.4.2022, 15:41:04 - @allures:matrix.org: She wasnt destroyed 
+14.4.2022, 15:41:25 - darlatan: Yes because she made archive.org copies at each release
+14.4.2022, 15:41:49 - @allures:matrix.org: <@toasterbirb:halogen.city "Just don't turn this into a cons..."> This is the thrut, babba is lying, something smell bad 
+14.4.2022, 15:42:19 - toasterbirb: <@darlatan:matrix.org "someone would write a 160 pages ..."> Destroy what? Can you tell me what has been destroyed?
+14.4.2022, 15:41:56 - darlatan: This guide is pure gold 
+14.4.2022, 15:41:57 - @allures:matrix.org: xD
+14.4.2022, 15:42:12 - darlatan: And btw we should definitely tell Ukrainians to use Briar
+14.4.2022, 15:42:14 - @allures:matrix.org: I'm 100% sure babba is lying and she knows everything 
+14.4.2022, 15:42:15 - darlatan: actively
+14.4.2022, 15:42:22 - @allures:matrix.org: Yeah true 
+14.4.2022, 15:44:18 - toasterbirb: <@allures:matrix.org "This is the thrut, babba is lyin..."> Can you elaborate any further
+14.4.2022, 15:42:52 - darlatan: <@toasterbirb:halogen.city "Destroy what? Can you tell me wh..."> all her accounts, the website, the domain name, the tor nodes she was running
+14.4.2022, 15:43:43 - darlatan: all that remains is that github account, that hackernews account and that keybase account
+14.4.2022, 15:45:45 - toasterbirb: <@darlatan:matrix.org "all her accounts, the website, t..."> You can click the link in the room description, grab a PDF and continue with your day. I don't see any issues with that
+14.4.2022, 15:46:46 - toasterbirb: Also, what would you do to your own accounts if you were in the risk of being captured
+14.4.2022, 15:47:04 - darlatan: because I care for good people
+14.4.2022, 15:47:26 - toasterbirb: Running some website is the last thing in your mind when someone is knocking to your door with a glock
+14.4.2022, 15:47:26 - darlatan: obviously, you don't 
+14.4.2022, 15:48:26 - @allures:matrix.org: <@toasterbirb:halogen.city "Can you elaborate any further"> Yes i can, but i will not do that, i let you guys think and see the thruth with you're eyes,  now that we talked that she might preoare now xD 
+14.4.2022, 15:48:29 - toasterbirb: I'm not undermining her work. Don't get me wrong. I just can't understand the brewing conspiracy theories recently in this room that make the situation look like a fucking TV drama
+14.4.2022, 15:48:31 - @allures:matrix.org: Soo good luck
+14.4.2022, 15:49:36 - toasterbirb: Well, that statement was bunch of air if something
+14.4.2022, 15:50:04 - @allures:matrix.org: I meant babba not anonypla xD 
+14.4.2022, 15:50:19 - @allures:matrix.org: Is not a tv drama , the reason is simple 
+14.4.2022, 15:50:25 - @allures:matrix.org: Just bad hide 
+14.4.2022, 15:51:14 - darlatan: look look look 
+14.4.2022, 15:51:41 - darlatan: https://news.ycombinator.com/user?id=anonypla
+14.4.2022, 15:51:55 - darlatan: it was updated just now 
+14.4.2022, 15:52:09 - darlatan: like 5 mins ago it wasn't there
+14.4.2022, 15:52:11 - darlatan: same message
+14.4.2022, 15:53:00 - neo_sodom: That is true. It was not there the last time I checked. But as it said, it was probably automated
+14.4.2022, 15:53:19 - darlatan: she has a server somewhere hidden running scripts trying to post messages on all her accounts
+14.4.2022, 15:53:58 - toasterbirb: probably a github action or something with a timer 
+14.4.2022, 15:53:46 - darlatan: the exact same message
+14.4.2022, 15:54:05 - neo_sodom: <@darlatan:matrix.org "she has a server somewhere hidde..."> And that proves what?
+14.4.2022, 15:54:41 - darlatan: mmmmmh
+14.4.2022, 15:55:17 - neo_sodom: Except what toaster wrote
+14.4.2022, 15:55:25 - darlatan: I think it's legit because I see absolutely no reason to doubt it. I wouldn't write 160 pages and then just trash it all away
+14.4.2022, 15:55:44 - toasterbirb: In github you can create actions in a repo for free that run repeatedly with a cron job. She probably has it check for website visits and if there is none, the action will do something more than just sleep
+14.4.2022, 15:56:23 - toasterbirb: Just jam bunch of API keys with no expiration date there and you have a script that can post stuff to multiple platforms
+14.4.2022, 15:56:44 - neo_sodom: Its not trashed away since there is already a new maintained guide. It was just the easiest method to vanish without needing to elaborate further and justify herself
+14.4.2022, 15:57:54 - toasterbirb: This just proves the point that guides like this need many more backups than just the ones made by the original creator
+14.4.2022, 16:03:32 - skypass hat den Raum betreten
+14.4.2022, 16:04:51 - toasterbirb: <del>hmh... the hackernews profile just disappeared</del>
+nvm its back up
+14.4.2022, 16:04:54 - darlatan: <@neo_sodom:matrix.org "Its not trashed away since there..."> why not just give away the account / organization / repository and domain instead of  just trashing it ?
+14.4.2022, 16:05:31 - darlatan: <@toasterbirb:halogen.city "hmh... the hackernews profile ju..."> I still seee it
+14.4.2022, 16:05:51 - darlatan: I have an HN account
+14.4.2022, 16:05:56 - darlatan: you can't delete an HN account
+14.4.2022, 16:06:25 - toasterbirb: <@darlatan:matrix.org "why not just give away the accou..."> That doesn't sound like something she would do. I wouldn't give away my accounts either
+14.4.2022, 16:07:13 - toasterbirb: Do you see my edit?
+14.4.2022, 16:07:20 - toasterbirb: The page was blank for a while
+14.4.2022, 16:07:25 - darlatan: meh ... makes no sense to me 
+14.4.2022, 16:08:07 - darlatan: her vanishing coincidentally happened exactly when the Russians closed in on Kyiv 
+14.4.2022, 16:08:44 - darlatan: my take? she's an activisit
+14.4.2022, 16:08:45 - neo_sodom: Coincidentally ... because it was planned
+14.4.2022, 16:08:47 - darlatan: activist
+14.4.2022, 16:08:58 - darlatan: and she got pwned by the Russians
+14.4.2022, 16:09:09 - neo_sodom: Allegedly
+14.4.2022, 16:09:14 - darlatan: yeah
+14.4.2022, 16:09:34 - darlatan: but this message contain some information that maybe could prove it's legit to some people in here
+14.4.2022, 16:09:59 - darlatan: I guess we need to wait for Babba27
+14.4.2022, 16:11:16 - darlatan: Things she only said prior to some specific people
+14.4.2022, 16:12:07 - darlatan: The youtube song tho ... good pick ... 
+14.4.2022, 16:12:07 - @allures:matrix.org: <@darlatan:matrix.org "I guess we need to wait for Babb..."> She will not cooperate :)))) 
+14.4.2022, 16:12:37 - darlatan: Couldn't pick a better song for the situation
+14.4.2022, 16:12:57 - darlatan: She has good music taste
+14.4.2022, 16:13:59 - darlatan: <@allures:matrix.org "She will not cooperate :))))"> We'll see
+14.4.2022, 16:14:23 - darlatan: All I want to know is if the gist is legit or not
+14.4.2022, 16:14:43 - darlatan: if it is ... I'll send friends in Romania and Poland to look for her at the camps at the border 
+14.4.2022, 16:14:47 - neo_sodom: The github account got compromised, why would you trust it
+14.4.2022, 16:15:03 - darlatan: <@neo_sodom:matrix.org "The github account got compromis..."> Hope
+14.4.2022, 16:15:23 - @allures:matrix.org: <@darlatan:matrix.org "if it is ... I'll send friends i..."> Is not :) i'm pretty sure 
+14.4.2022, 16:15:57 - @allures:matrix.org: If babba dont ban us for off topic, you can ask her about everything you want but will not help 
+14.4.2022, 16:16:23 - @allures:matrix.org: As you see the rooms are dead from basicly anony's vanish 
+14.4.2022, 16:17:17 - @allures:matrix.org: Babba dont have the mental strenght to manage something, nor thinking good, she knows a lot in privacy security and stuff but she is down very down with thinking xD 
+14.4.2022, 16:17:47 - neo_sodom: That said, please move the discussion to #bnonymity:matrix.org everyone
+14.4.2022, 16:17:51 - @allures:matrix.org: As a normally person,  she is abnormal xD not in a good way xD 
+14.4.2022, 16:18:17 - @allures:matrix.org: <@neo_sodom:matrix.org "That said, please move the discu..."> I will love to see that when you get mod xD i love it xD 
+14.4.2022, 16:21:53 - toasterbirb: It could be that there was an API key active that wasn't revoked that gave her still some access to the account
+14.4.2022, 17:17:19 - 0xbad1dea hat @allures:matrix.org verbannt: Intentional misgendering
+14.4.2022, 17:46:51 - @fyrexara:matrix.org hat den Raum verlassen
+14.4.2022, 17:49:37 - @m:pwn.chat hat den Raum verlassen
+14.4.2022, 18:07:13 - @zmcintosh:matrix.org hat den Raum verlassen
+14.4.2022, 19:00:27 - darlatan: <@allures:matrix.org "If babba dont ban us for off top..."> ban us for willing to help AnonyPla? no
+14.4.2022, 19:03:30 - darlatan: I don't care, I'm sending my friends anyway ... her guide helped save the life of someone dear to me ... I will try
+14.4.2022, 19:04:28 - hv: <@neo_sodom:matrix.org "That said, please move the discu..."> Seconding this
+14.4.2022, 19:04:36 - darlatan: they owe me anyway, I have two friends on the road to Medyka right now
+14.4.2022, 19:05:32 - hv: This room and the corresponding guide was created with the intention of more people being capable of evading such bad circumstances. Presumably anony only had an issue due to her having to expand her attack surface for the convenience of using so many platforms and running some infrastructure, plus also using a long-term psueodnym
+14.4.2022, 19:06:01 - hv: Instead let's ask the new lurkers if they have any questions
+14.4.2022, 19:06:02 - hv: Do you?
+14.4.2022, 19:06:18 - neo_sodom: <@darlatan:matrix.org "they owe me anyway, I have two f..."> We appreciate your (friends) efforts but she won't accept it no matter what. It's not your fault
+14.4.2022, 19:06:44 - darlatan: this is not off-topic ... as far as I understand AnonyPla/Lena is the founder of this place no? trying to help her is not off-topic 
+14.4.2022, 19:08:30 - darlatan: anyway they'll be there in 3 hours
+14.4.2022, 19:08:38 - hv: Do you even know where she is?
+14.4.2022, 19:09:25 - darlatan: they'll look for a 22yo Ukrainian "Lena"
+14.4.2022, 19:09:48 - toasterbirb: In an area spanning hundreds or thousands of kilometers?
+14.4.2022, 19:10:14 - darlatan: no they're all in a big camp in the town of medyka at the polish border
+14.4.2022, 19:10:26 - darlatan: the red cross probably has a registry 
+14.4.2022, 19:12:31 - hv: larp stuff man. you don't even know if this isn't the usual "anonymous person runs project for x amount of time and terminates ungracefully" thing that happens sometimes
+14.4.2022, 19:13:19 - hv: and that github message was allegedly automated, which could mean anything, not just direct threat
+14.4.2022, 19:14:29 - darlatan: possible but I'll try ... is there anything to lose trying ? 
+14.4.2022, 19:15:06 - darlatan: it's worth a shot
+14.4.2022, 19:25:15 - darlatan: I don't know what LARP means
+14.4.2022, 19:27:10 - toasterbirb: Live Action Roleplaying
+14.4.2022, 19:27:20 - toasterbirb: https://en.wikipedia.org/wiki/Live_action_role-playing_game
+14.4.2022, 19:28:00 - darlatan: okay well I'm not role playing and I'm very serious 
+14.4.2022, 19:28:37 - darlatan: I joined this matrix thing today just for the purpose of finding information about her whereabouts
+14.4.2022, 19:37:13 - darlatan: Does anyone has any information about her? Anything?
+14.4.2022, 19:37:29 - darlatan: Besides what's in that "possibly fake" message
+14.4.2022, 19:38:25 - toasterbirb: Absolute no clue. She was as mysterious as someone who would write an Anonymity guide would be
+14.4.2022, 19:39:09 - toasterbirb: She liked to add ... a tonne into her messages, if that's something
+14.4.2022, 19:39:19 - darlatan: a tonne?
+14.4.2022, 19:39:26 - darlatan: what's a tonne?
+14.4.2022, 19:39:30 - toasterbirb: Yea, like literally every third line :D
+14.4.2022, 19:39:33 - darlatan: sorry I'm french
+14.4.2022, 19:39:46 - toasterbirb: tonne as in 1000 kilos, "a lot"
+14.4.2022, 19:40:02 - darlatan: oh literally a ton okay
+14.4.2022, 19:40:23 - darlatan: that won't help
+14.4.2022, 19:40:33 - toasterbirb: Like that is not proof that you are talking to her, but I guess it was quite notable thing about her writing style
+14.4.2022, 19:40:41 - darlatan: I need information about her like languages spoken or something for instance?
+14.4.2022, 19:42:52 - darlatan: right now I got girl, 22, dark curly hair, first name Lena, Ukrainian refugee from Kyiv, likely wounded, probably traveling alone without any personal belonging
+14.4.2022, 19:44:48 - darlatan: so my friends will head to the field hospital of MSF first
+14.4.2022, 19:46:36 - darlatan: then red cross, then polish army field hospital
+14.4.2022, 19:47:30 - darlatan: as far as I know, there are no other field hospitals there at the moment
+14.4.2022, 19:53:00 - darlatan: is there any polish speaker here?
+14.4.2022, 19:55:28 - darlatan: Someone speaks Ukrainian?
+14.4.2022, 20:13:06 - mazerfaker: okay, please go back to off topic. This went for waaayy too long than it has to
+14.4.2022, 21:55:53 - paulux23 hat den Raum betreten
+14.4.2022, 21:56:01 - paulux23: Hello !! Please I need your help. 
+
+ I am an activist and I need to access some government websites.
+
+ Tor IP are banned, that's why I only use a VPN ( Express VPN, no log VPN bought with btc and a protonmail email adress. ). Moreover, Javascript is needed, that's why I have to enable Javascript. I also need to download files. 
+
+I have tried once to access it threw Duckduckgo but it did not work. Maybe it was not because of Duckduckgo, but that's why I'd prefer to use Google if it's not an issue. 
+
+As a consequence, I usually try to access these websites with : Express VPN ( IP and DNS server ) + Firefox "incognito mode"  with javascript enabled, Webrtc disabled and https + Google + Internet on a router / on my phone with the localisation / bluetooh disabled. I can also buy prepaid chips in you tell me it's necessary.  Then, I download pdf files. 
+
+However, I have red that javascript, flash and downloading pdf files could leak my IP adress even if I use a VPN. Is it true ? Is it my public IP adress / something which can make them see who I am ?  Moreover, could you please advise me on I could do to remain anonymous ?? 
+
+Thank you very much in advance !! 
+14.4.2022, 22:17:54 - paulux23: In short : 
+
+How can my anonymity be broken if I use a no log VPN bought in bitcoin + Firefox "incognito mode" https with javascript enabled but Webrtc disabled + Google ( not connected to my account ) + internet on a router with a prepaid chip ? ( I am an activist, I can't use Tor, javascript is necessary and I have to download pdf). 
+14.4.2022, 22:18:54 - toasterbirb: IP leaks are usually caused by DNS or IPv6 issues with the VPN-client, but I don't think JS and downloading files risks any IP leaks assuming the VPN connection is system wide
+14.4.2022, 22:19:39 - paulux23: Thank you for your answer, I use the DNS of my VPN and I have checked that there is no DNS leaks. Moreover I don't use Ipv6. 
+14.4.2022, 22:20:18 - toasterbirb: Have you deliberately disabled IPv6? Websites use it automatically if its available
+14.4.2022, 22:21:45 - toasterbirb: I remember having leaks with IPv6 and ProtonVPN client without even noticing it. Dunno if they have fixed it and also don't know if there are similar issues with other VPN services.
+14.4.2022, 22:21:53 - paulux23: My vpn does not use it 
+14.4.2022, 22:22:07 - paulux23: okay I ll check though 
+14.4.2022, 22:22:42 - toasterbirb: <@paulux23:matrix.org "My vpn does not use it "> That is the thing. It might just let IPv6 go trough your regular connection
+14.4.2022, 22:23:21 - toasterbirb: You can usually disable IPv6 on the router level or in your firewall settings etc.
+14.4.2022, 22:24:07 - paulux23: Ok I ll check it 
+14.4.2022, 22:24:22 - toasterbirb: Also when it comes to JavaScript, you don't have to decide if you want to block everything or nothing. You can whitelist scripts one by one until you reach the minimum required functionality
+14.4.2022, 22:26:07 - paulux23: Oh how can I do this ? 
+14.4.2022, 22:26:14 - paulux23: WIth firefox ? 
+14.4.2022, 22:26:22 - paulux23: Moreover can it leak my public IP ? 
+14.4.2022, 22:26:28 - paulux23: even with a VPN ? 
+14.4.2022, 22:32:20 - toasterbirb: <@paulux23:matrix.org "Oh how can I do this ? "> I use the NoScript addon
+14.4.2022, 22:32:46 - toasterbirb: It is in the Tor browser by default
+14.4.2022, 22:34:58 - paulux23: Okay, and can't the noscript addon disclose my activites if requested by a government ? I am indeed an actisit 
+14.4.2022, 22:35:13 - paulux23: I can't use Tor browser as Tor IP are banned on the website I visit 
+14.4.2022, 22:35:59 - toasterbirb: <@paulux23:matrix.org "I can't use Tor browser as Tor I..."> It is a JavaScript blocking add-on available for Firefox. 
+14.4.2022, 22:37:02 - toasterbirb: I use it to get rid of tracking and ad scripts that 99% of the web has these days
+14.4.2022, 22:38:01 - toasterbirb: <@paulux23:matrix.org "Okay, and can't the noscript add..."> Do you know how browser addons work...?
+14.4.2022, 22:40:03 - paulux23: Okay, and would it prevent my IP to leak from javascript even if I had to allow a bit of javascript ? 
+14.4.2022, 22:40:21 - paulux23: So I don't I am an activist not a computer scientist ^^
+14.4.2022, 22:41:12 - toasterbirb: I have no idea how JavaScript could be used to bypass a system wide VPN connection
+14.4.2022, 22:41:31 - toasterbirb: I'm not an expert in the matter though
+14.4.2022, 22:41:44 - paulux23: okayy ty 
+14.4.2022, 22:42:24 - toasterbirb: JavaScript is problematic usually due to its use for browser fingerprinting
+14.4.2022, 22:42:57 - toasterbirb: There are bazillion small details about your browser and the operating system that can be identified using JavaScript
+14.4.2022, 22:43:46 - toasterbirb: Also cookies etc. can be used to track you across websites and create a profile that way
+14.4.2022, 22:46:12 - paulux23: okay 
+14.4.2022, 22:46:12 - toasterbirb: Your IP is just a drop in the bucket of details that makes you specifically identifiable online
+14.4.2022, 22:46:25 - paulux23: And how can I be safe from it ? 
+14.4.2022, 22:46:39 - paulux23: How can I prevent my IP from being leaked ? 
+14.4.2022, 22:46:57 - toasterbirb: <@paulux23:matrix.org "And how can I be safe from it ? "> It is a can if worms you are opening. It is quite a rabbit hole
+14.4.2022, 22:47:58 - toasterbirb: This is one of the main reasons why you use the tor browser and not connect to tor via Firefox for example. The aim of the Tor browser is to make everyone look the same
+14.4.2022, 22:52:58 - toasterbirb: <@paulux23:matrix.org "How can I prevent my IP from bei..."> I think you have seen too many NordVPN sponsorships
+14.4.2022, 22:54:48 - paulux23: Yes but I can't use tor 
+14.4.2022, 22:59:22 - darlatan: there is a 22yo Lena in the MSF field hospital 
+14.4.2022, 22:59:42 - darlatan: she fits the description
+14.4.2022, 23:02:12 - darlatan: she's unconscious and severely wounded, they'll transfer her to a real hospital when she's stabilized
+14.4.2022, 23:04:07 - darlatan: she's under sedation with a respirator and cannot be talked to, but she came there alone
+14.4.2022, 23:04:35 - darlatan: At the Polish border in Medyka
+14.4.2022, 23:07:14 - darlatan: If Babba27's Evil Twin (DriftNotSkid) [they|them] (🕊️AnonyPla) can confirm the legitimacy of the gist then it's possible that it's her
+14.4.2022, 23:09:12 - darlatan: they consider her state "worrying" but not "critical" 
+14.4.2022, 23:10:08 - darlatan: she's been there for 2 weeks
+14.4.2022, 23:12:03 - darlatan: And she tested positive for covid19 too
+14.4.2022, 23:15:45 - darlatan: I think this might actually be her!
+14.4.2022, 23:29:56 - darlatan: Ok they have all the info, their plan is to transfer her to Germany when she's stable
+14.4.2022, 23:58:16 - mazerfaker: can you stop?
+14.4.2022, 23:58:41 - mazerfaker: seriously, last warning
+14.4.2022, 23:59:19 - maserati20: what is deeper network  or dpn
+15.4.2022, 00:00:07 - maserati20: is it safe or another insecure device
+15.4.2022, 00:01:01 - maserati20: https://shop.deeper.network/buy
+15.4.2022, 00:40:50 - 0xbad1dea: looks like a device used to support their decentralized network, which uses P2P encryption to build a sort of mesh network I guess? It purports to better than a VPN without providing much substance as to how or why besides "it's decentralized". I'd probably give it a pass, personally. 
+15.4.2022, 00:49:30 - hv: Their website is very flashy and thus gives very little indication of how their product functions
+15.4.2022, 00:50:39 - hv: The first thing I see isn't academic paper & git server link, but instead pricing and pictures
+15.4.2022, 00:51:52 - hv: They list a bunch of YouTubers (audaciously called 'influencers' nowadays) that they could have paid to give their opinion about their product
+15.4.2022, 00:52:47 - hv: https://deeper-network.medium.com/5-ways-the-deeper-network-protects-you-204d563a49e5
+15.4.2022, 00:55:09 - hv: Does it make people themselves into exit relays on their network...? They don't say, and they wouldn't say even if that was the case, I think
+15.4.2022, 00:58:09 - hv: They also dropped blockchain on it for some reason, and I'm not really sure why. If they want you to stake some crypto to join a p2p network to prevent spammy / sybil actors, fine- I fail to see why that would require a NEW cryptocurrency, rather than using existing ones like Monero or something.
+15.4.2022, 01:00:47 - hv: They even have a Terms of Service for the hardware, software, and network of their 'decentralized' product - https://shop.deeper.network/terms-of-service
+15.4.2022, 01:04:32 - hv: Reading their latest blog posts I ctrl+f for ``open`` and find lots of language implying that their tech will 'open' things and no references to 'open source' or 'free/libre software'
+15.4.2022, 01:04:55 - hv: Ah, here's a paper by them: https://deeper.network/assets/pdf/whitepaper/Deeper-WP-EN-1009.pdf
+15.4.2022, 01:07:28 - hv: There is a sentence in their paper which claims their security measures make it **impossible** for any crackers to gain remote access to their hardware 😂😂😂😂😂😂😂
+15.4.2022, 01:08:04 - hv: > Deeper Connect employs triple encryption technology to guarantee the security of
+storage devices. Even if the hardware device is lost, nobody can crack into the data
+stored on the device. Triple encryption technology includes block device encryption,
+file system encryption, and file encryption.
+15.4.2022, 01:08:06 - hv: 😂
+15.4.2022, 01:15:33 - hv: <@maserati20:matrix.org "is it safe or another insecure d..."> It's a heap of garbage. All hardware, software, whatever is proprietary and could easily be used to spy, either by them or by court order. Also they take dubious design decisions playing into this "web 3.0" crypto scam crap, looking to fill up their pockets. They only list walled garden social media that requires running of nonfree programs or javascript (web) and they seem to imply they have some kind of legal control of users' activities using their network product
+15.4.2022, 01:18:05 - hv: It's a shame to see such efforts going towards this kind of profiteering instead of something useful.
+
+Think about it- if they really wanted to do this, they could fork just Tor and turn it into a decentralized pay-for-bandwidth scheme
+15.4.2022, 02:03:28 - SlickRick: paulux23: I believe you can use tor browser without routing your traffic through the Tor network. This will provide the fingerprinting defense etc. of the browser.
+
+https://www.ghacks.net/2018/11/26/can-you-use-the-tor-browser-without-tor-connection/ see this and do some further research on it
+15.4.2022, 02:03:51 - SlickRick: As someone said, otherwise use noscript to disable as much as you can and still access the site
+15.4.2022, 02:04:19 - SlickRick: Without any specifics, how frequent do you need to be connecting to the internet for sensitive activities?
+15.4.2022, 02:04:24 - SlickRick: First of all, have you read the guide?
+15.4.2022, 02:05:03 - SlickRick: If it is only infrequently to download things etc. you should be looking at using public wifi where you aren't expose to surveilance cameras. You can use wifi-extenders to be further away and get on the wifi.
+15.4.2022, 02:05:57 - SlickRick: If you do that, or connect to public wifi in any way to do this, you will want to randomise your MAC address, which is a unique hardware identifier of your network card in your computer that was set by the manufacturer. This is relatively easy to do, and you can look up how online.
+15.4.2022, 02:06:50 - SlickRick: VPN's offer some protection, but they are not a great level of protection. Using public wifi where you can't be recorded and observed with randomized MAC + the VPN that isn't tied to you is a much better solution.
+15.4.2022, 02:07:31 - SlickRick: If you paid for your VPN anonymously with cryptocurrency that is good, but if you are connecting to the VPN via your home network, it doesn't matter if you bought the VPN anonymously, you are tied to the VPN with your home IP.
+15.4.2022, 02:07:34 - SlickRick: Nachricht gelöscht
+15.4.2022, 02:08:39 - SlickRick: When you say a 'logless vpn', you need to be careful about claims these companies make which aren't auditable. Especially if you are staking your freedom on it. Some will say they don't log, and log, and others will log on request. I've seen Mullvad VPN touted as a more reliable VPN, which can be purchased with Monero, a more private crypto.
+15.4.2022, 02:10:07 - SlickRick: If you go online to a crypto exchange, and then use your bank or credit card to buy the bitcoin, then that bitcoin is linked to your name. It doesn't matter that the purchase was in BTC, they can look at the fact that x sent btc from this address, and he got that from y address, which is a big exchanges address.
+
+Ok, so we will now request the bitcoin exchange to tell use who they sent .3btc to at blah blah time, and they have you.
+15.4.2022, 02:10:38 - SlickRick: Monero is better about shielding your identity, which makes purchasing Mullvad via Monero a better choice. if you go to moneros site, they don't sell it via Monero themselves, but they have resellers who sell you 3months worth for Monero, so look for them.
+15.4.2022, 02:11:02 - SlickRick: This is some basic information, please ask any questions you have. paulux23 
+15.4.2022, 03:37:24 - @vigilante_ducky:matrix.org hat den Raum betreten
+15.4.2022, 04:45:05 - Confusion hat das Profilbild geändert
+15.4.2022, 05:44:14 - Glauber Castro hat den Raum betreten
+15.4.2022, 06:33:23 - toasterbirb: <@interface:halogen.city "> Deeper Connect employs triple ..."> Translation: We obscure the text by encoding it with base64 3 times
+15.4.2022, 09:21:15 - emulationdepression hat ein Bild gesendet. (Medien ausgelassen)
+15.4.2022, 09:21:22 - emulationdepression: "i use tor over vpn over tor over vpn over tor"
+15.4.2022, 09:22:28 - vic3k: ...to login to my gmail
+15.4.2022, 09:31:15 - hv: Not particularly imaginative
+15.4.2022, 09:32:51 - hv: a VPN company is more likely to be monitored than some volunteer random machine relaying traffic
+15.4.2022, 09:34:33 - hv: and repeatedly 'entering' and 'exiting' the tor network and thus repeating patterns in many more vantage points of the tor network has questionable implications for your anonymity
+15.4.2022, 09:36:52 - hv: At that point along the '7 proxies' meme, since you imply VPNs (machines you rent/control), anonymously setting up relays for tor/i2p in far off foreign countries and routing through more of your own than public relays would be more suitable to the gigachad meme
+15.4.2022, 09:37:48 - hv: at that point all you need is to add 'drives 10-20 miles away from home to connect to public or ""public"" wifi with a directional antennae' and the meme starts becoming more respectable
+15.4.2022, 09:58:24 - @superalexmyself:matrix.org hat den Raum betreten
+15.4.2022, 10:07:52 - neo_sodom: 0xbad1dea: 
+15.4.2022, 10:12:23 - mazerfaker hat @superalexmyself:matrix.org verbannt: superalex alt
+15.4.2022, 11:15:58 - emulationdepression: > <@interface:halogen.city> and repeatedly 'entering' and 'exiting' the tor network and thus repeating patterns in many more vantage points of the tor network has questionable implications for your anonymity
+
+https://anonymousplanet-ng.org/guide.html#the-qubes-route based it off the chart at the conclusion section of this section of this guide
+15.4.2022, 12:14:53 - darlatan: So
+15.4.2022, 12:15:10 - darlatan: I bring some good news and then you won't hear from me again probably
+15.4.2022, 12:15:19 - darlatan: For those who care
+15.4.2022, 12:16:54 - darlatan: If that "Lena" is AnonyPla ... She has been transferred overnight by a medical plane chartered by MSF to Munich in Germany. I won't divulge any other detail. But if it's her. She's alive and now in good hands.
+15.4.2022, 12:17:18 - darlatan: (Her and a dozen other wounded people)
+15.4.2022, 12:26:14 - darlatan: And we have been able to verify that that particular Lena was indeed a computer science student
+15.4.2022, 12:28:40 - darlatan: According to the MSF doctor, this will require several surgeries and months of rehabilitation but he couldn't give details ... there is hope
+15.4.2022, 12:29:42 - darlatan: Donate to MSF .... they need it 
+15.4.2022, 12:37:58 - darlatan: mazerfaker: see it was legit ...
+15.4.2022, 12:38:46 - mazerfaker: <@darlatan:matrix.org "I bring some good news and then ..."> Finally
+15.4.2022, 12:39:10 - darlatan: <@jau2o-dk45a3:artemislena.eu "Finally"> You don't care about her?
+15.4.2022, 12:40:58 - mazerfaker: Doesnt matter whether I care or not, it is not the room to just constantly update about this situation
+15.4.2022, 12:41:26 - darlatan: It's her room ... I learned that in less than 24 hours
+15.4.2022, 12:42:46 - darlatan: meh ... I'll monitor her health on my side and won't update you people anymore 
+15.4.2022, 12:42:49 - darlatan: bye
+15.4.2022, 12:44:04 - darlatan: Ungrateful, that's what you are.  She made all this.
+15.4.2022, 12:44:15 - darlatan: Shameful
+15.4.2022, 12:51:11 - darlatan: mazerfaker: you should be so ashamed
+15.4.2022, 12:51:17 - darlatan hat den Raum verlassen
